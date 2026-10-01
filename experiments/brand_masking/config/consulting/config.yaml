@@ -1,0 +1,3 @@
+sector: consulting
+dataset_path: experiments/brand_masking/config/consulting/scenarios.csv
+company_descriptions_path: experiments/brand_masking/config/consulting/company_descriptions.yaml

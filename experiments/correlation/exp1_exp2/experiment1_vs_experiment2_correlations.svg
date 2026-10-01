@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,sans-serif} .title{font-size:22px;font-weight:bold}.axis{font-size:15px}.tick{font-size:12px}.label{font-size:11px}</style>
+<text class="title" x="20" y="30">Pharma</text>
+<text class="axis" x="340.0" y="435" text-anchor="middle">Experiment 1: mean paired wins across models</text>
+<text class="axis" transform="translate(18,225.0) rotate(-90)" text-anchor="middle">Experiment 2: mean Named − Masked delta</text>
+<line x1="80.0" y1="380.0" x2="645.0" y2="380.0" stroke="black"/><line x1="80.0" y1="380.0" x2="80.0" y2="60.0" stroke="black"/>
+<line x1="80.0" y1="380.0" x2="80.0" y2="60.0" stroke="#ddd"/>
+<text class="tick" x="80.0" y="398.0" text-anchor="middle">-233</text>
+<line x1="221.2" y1="380.0" x2="221.2" y2="60.0" stroke="#ddd"/>
+<text class="tick" x="221.2" y="398.0" text-anchor="middle">610</text>
+<line x1="362.5" y1="380.0" x2="362.5" y2="60.0" stroke="#ddd"/>
+<text class="tick" x="362.5" y="398.0" text-anchor="middle">1453</text>
+<line x1="503.8" y1="380.0" x2="503.8" y2="60.0" stroke="#ddd"/>
+<text class="tick" x="503.8" y="398.0" text-anchor="middle">2296</text>
+<line x1="645.0" y1="380.0" x2="645.0" y2="60.0" stroke="#ddd"/>
+<text class="tick" x="645.0" y="398.0" text-anchor="middle">3139</text>
+<line x1="80.0" y1="380.0" x2="645.0" y2="380.0" stroke="#ddd"/>
+<text class="tick" x="72.0" y="384.0" text-anchor="end">-0.03</text>
+<line x1="80.0" y1="300.0" x2="645.0" y2="300.0" stroke="#ddd"/>
+<text class="tick" x="72.0" y="304.0" text-anchor="end">0.30</text>
+<line x1="80.0" y1="220.0" x2="645.0" y2="220.0" stroke="#ddd"/>
+<text class="tick" x="72.0" y="224.0" text-anchor="end">0.64</text>
+<line x1="80.0" y1="140.0" x2="645.0" y2="140.0" stroke="#ddd"/>
+<text class="tick" x="72.0" y="144.0" text-anchor="end">0.98</text>
+<line x1="80.0" y1="60.0" x2="645.0" y2="60.0" stroke="#ddd"/>
+<text class="tick" x="72.0" y="64.0" text-anchor="end">1.31</text>
+<line x1="80.0" y1="252.0" x2="645.0" y2="263.0" stroke="#555" stroke-dasharray="6,4"/>
+<circle cx="400.0" cy="240.1" r="5" fill="#1f77b4" opacity="0.85"/><text class="label" x="407.0" y="234.1">Eli Lilly</text>
+<circle cx="431.2" cy="171.2" r="5" fill="#1f77b4" opacity="0.85"/><text class="label" x="438.2" y="165.2">Johnson &amp; Johnson</text>
+<circle cx="309.8" cy="96.9" r="5" fill="#1f77b4" opacity="0.85"/><text class="label" x="316.8" y="90.9">AbbVie</text>
+<circle cx="445.6" cy="300.2" r="5" fill="#1f77b4" opacity="0.85"/><text class="label" x="452.6" y="294.2">Merck &amp; Co.</text>
+<circle cx="606.0" cy="269.9" r="5" fill="#1f77b4" opacity="0.85"/><text class="label" x="613.0" y="263.9">Roche</text>
+<circle cx="548.1" cy="271.1" r="5" fill="#1f77b4" opacity="0.85"/><text class="label" x="555.1" y="265.1">Novartis</text>
+<circle cx="488.1" cy="296.3" r="5" fill="#1f77b4" opacity="0.85"/><text class="label" x="495.1" y="290.3">AstraZeneca</text>
+<circle cx="402.9" cy="305.7" r="5" fill="#1f77b4" opacity="0.85"/><text class="label" x="409.9" y="299.7">Amgen</text>
+<circle cx="396.4" cy="251.5" r="5" fill="#1f77b4" opacity="0.85"/><text class="label" x="403.4" y="245.5">Novo Nordisk</text>
+<circle cx="283.6" cy="312.1" r="5" fill="#1f77b4" opacity="0.85"/><text class="label" x="290.6" y="306.1">Gilead Sciences</text>
+<circle cx="526.0" cy="249.5" r="5" fill="#1f77b4" opacity="0.85"/><text class="label" x="533.0" y="243.5">Pfizer</text>
+<circle cx="297.4" cy="343.1" r="5" fill="#1f77b4" opacity="0.85"/><text class="label" x="304.4" y="337.1">Vertex Pharmaceuticals</text>
+<circle cx="208.7" cy="211.2" r="5" fill="#1f77b4" opacity="0.85"/><text class="label" x="215.7" y="205.2">WuXi AppTec</text>
+<circle cx="119.0" cy="296.0" r="5" fill="#1f77b4" opacity="0.85"/><text class="label" x="126.0" y="290.0">Chugai Pharmaceuticals</text>
+<circle cx="134.4" cy="250.1" r="5" fill="#1f77b4" opacity="0.85"/><text class="label" x="141.4" y="244.1">Jiangsu Hengrui Medicine</text>
+<text class="tick" x="662" y="52" text-anchor="end">Pearson r=-0.05; Spearman ρ=-0.00; R²=0.00; n=15</text>
+<text class="title" x="700" y="30">Cloud</text>
+<text class="axis" x="1020.0" y="435" text-anchor="middle">Experiment 1: mean paired wins across models</text>
+<text class="axis" transform="translate(698,225.0) rotate(-90)" text-anchor="middle">Experiment 2: mean Named − Masked delta</text>
+<line x1="760.0" y1="380.0" x2="1325.0" y2="380.0" stroke="black"/><line x1="760.0" y1="380.0" x2="760.0" y2="60.0" stroke="black"/>
+<line x1="760.0" y1="380.0" x2="760.0" y2="60.0" stroke="#ddd"/>
+<text class="tick" x="760.0" y="398.0" text-anchor="middle">53</text>
+<line x1="901.2" y1="380.0" x2="901.2" y2="60.0" stroke="#ddd"/>
+<text class="tick" x="901.2" y="398.0" text-anchor="middle">779</text>
+<line x1="1042.5" y1="380.0" x2="1042.5" y2="60.0" stroke="#ddd"/>
+<text class="tick" x="1042.5" y="398.0" text-anchor="middle">1505</text>
+<line x1="1183.8" y1="380.0" x2="1183.8" y2="60.0" stroke="#ddd"/>
+<text class="tick" x="1183.8" y="398.0" text-anchor="middle">2231</text>
+<line x1="1325.0" y1="380.0" x2="1325.0" y2="60.0" stroke="#ddd"/>
+<text class="tick" x="1325.0" y="398.0" text-anchor="middle">2956</text>
+<line x1="760.0" y1="380.0" x2="1325.0" y2="380.0" stroke="#ddd"/>
+<text class="tick" x="752.0" y="384.0" text-anchor="end">-0.25</text>
+<line x1="760.0" y1="300.0" x2="1325.0" y2="300.0" stroke="#ddd"/>
+<text class="tick" x="752.0" y="304.0" text-anchor="end">-0.02</text>
+<line x1="760.0" y1="220.0" x2="1325.0" y2="220.0" stroke="#ddd"/>
+<text class="tick" x="752.0" y="224.0" text-anchor="end">0.22</text>
+<line x1="760.0" y1="140.0" x2="1325.0" y2="140.0" stroke="#ddd"/>
+<text class="tick" x="752.0" y="144.0" text-anchor="end">0.45</text>
+<line x1="760.0" y1="60.0" x2="1325.0" y2="60.0" stroke="#ddd"/>
+<text class="tick" x="752.0" y="64.0" text-anchor="end">0.69</text>
+<line x1="760.0" y1="342.5" x2="1325.0" y2="149.3" stroke="#555" stroke-dasharray="6,4"/>
+<circle cx="1286.0" cy="234.4" r="5" fill="#ff7f0e" opacity="0.85"/><text class="label" x="1293.0" y="228.4">Amazon Web Services (AWS)</text>
+<circle cx="1241.6" cy="228.4" r="5" fill="#ff7f0e" opacity="0.85"/><text class="label" x="1248.6" y="222.4">Microsoft Azure</text>
+<circle cx="1259.9" cy="96.9" r="5" fill="#ff7f0e" opacity="0.85"/><text class="label" x="1266.9" y="90.9">Google Cloud</text>
+<circle cx="1137.5" cy="202.6" r="5" fill="#ff7f0e" opacity="0.85"/><text class="label" x="1144.5" y="196.6">Alibaba Cloud</text>
+<circle cx="1183.6" cy="146.5" r="5" fill="#ff7f0e" opacity="0.85"/><text class="label" x="1190.6" y="140.5">Oracle Cloud Infrastructure</text>
+<circle cx="1096.8" cy="275.0" r="5" fill="#ff7f0e" opacity="0.85"/><text class="label" x="1103.8" y="269.0">IBM Cloud</text>
+<circle cx="1063.4" cy="238.9" r="5" fill="#ff7f0e" opacity="0.85"/><text class="label" x="1070.4" y="232.9">Huawei Cloud</text>
+<circle cx="1027.7" cy="200.4" r="5" fill="#ff7f0e" opacity="0.85"/><text class="label" x="1034.7" y="194.4">Tencent Cloud</text>
+<circle cx="865.9" cy="337.3" r="5" fill="#ff7f0e" opacity="0.85"/><text class="label" x="872.9" y="331.3">China Telecom Cloud</text>
+<circle cx="799.0" cy="343.1" r="5" fill="#ff7f0e" opacity="0.85"/><text class="label" x="806.0" y="337.1">China Unicom Cloud</text>
+<circle cx="970.4" cy="251.5" r="5" fill="#ff7f0e" opacity="0.85"/><text class="label" x="977.4" y="245.5">OVHcloud</text>
+<circle cx="917.0" cy="280.2" r="5" fill="#ff7f0e" opacity="0.85"/><text class="label" x="924.0" y="274.2">Deutsche Telekom Cloud</text>
+<text class="tick" x="1342" y="52" text-anchor="end">Pearson r=0.77; Spearman ρ=0.76; R²=0.59; n=12</text>
+<text class="title" x="20" y="480">Consulting</text>
+<text class="axis" x="340.0" y="885" text-anchor="middle">Experiment 1: mean paired wins across models</text>
+<text class="axis" transform="translate(18,675.0) rotate(-90)" text-anchor="middle">Experiment 2: mean Named − Masked delta</text>
+<line x1="80.0" y1="830.0" x2="645.0" y2="830.0" stroke="black"/><line x1="80.0" y1="830.0" x2="80.0" y2="510.0" stroke="black"/>
+<line x1="80.0" y1="830.0" x2="80.0" y2="510.0" stroke="#ddd"/>
+<text class="tick" x="80.0" y="848.0" text-anchor="middle">-15</text>
+<line x1="221.3" y1="830.0" x2="221.3" y2="510.0" stroke="#ddd"/>
+<text class="tick" x="221.3" y="848.0" text-anchor="middle">799</text>
+<line x1="362.5" y1="830.0" x2="362.5" y2="510.0" stroke="#ddd"/>
+<text class="tick" x="362.5" y="848.0" text-anchor="middle">1613</text>
+<line x1="503.8" y1="830.0" x2="503.8" y2="510.0" stroke="#ddd"/>
+<text class="tick" x="503.8" y="848.0" text-anchor="middle">2427</text>
+<line x1="645.0" y1="830.0" x2="645.0" y2="510.0" stroke="#ddd"/>
+<text class="tick" x="645.0" y="848.0" text-anchor="middle">3241</text>
+<line x1="80.0" y1="830.0" x2="645.0" y2="830.0" stroke="#ddd"/>
+<text class="tick" x="72.0" y="834.0" text-anchor="end">-0.42</text>
+<line x1="80.0" y1="750.0" x2="645.0" y2="750.0" stroke="#ddd"/>
+<text class="tick" x="72.0" y="754.0" text-anchor="end">0.08</text>
+<line x1="80.0" y1="670.0" x2="645.0" y2="670.0" stroke="#ddd"/>
+<text class="tick" x="72.0" y="674.0" text-anchor="end">0.57</text>
+<line x1="80.0" y1="590.0" x2="645.0" y2="590.0" stroke="#ddd"/>
+<text class="tick" x="72.0" y="594.0" text-anchor="end">1.06</text>
+<line x1="80.0" y1="510.0" x2="645.0" y2="510.0" stroke="#ddd"/>
+<text class="tick" x="72.0" y="514.0" text-anchor="end">1.55</text>
+<line x1="80.0" y1="746.5" x2="645.0" y2="675.2" stroke="#555" stroke-dasharray="6,4"/>
+<circle cx="520.4" cy="712.8" r="5" fill="#2ca02c" opacity="0.85"/><text class="label" x="527.4" y="706.8">PwC Advisory</text>
+<circle cx="419.5" cy="686.8" r="5" fill="#2ca02c" opacity="0.85"/><text class="label" x="426.5" y="680.8">KPMG Advisory</text>
+<circle cx="523.9" cy="720.0" r="5" fill="#2ca02c" opacity="0.85"/><text class="label" x="530.9" y="714.0">McKinsey &amp; Company</text>
+<circle cx="606.0" cy="699.0" r="5" fill="#2ca02c" opacity="0.85"/><text class="label" x="613.0" y="693.0">Deloitte Consulting</text>
+<circle cx="527.7" cy="687.4" r="5" fill="#2ca02c" opacity="0.85"/><text class="label" x="534.7" y="681.4">Boston Consulting Group</text>
+<circle cx="445.0" cy="546.9" r="5" fill="#2ca02c" opacity="0.85"/><text class="label" x="452.0" y="540.9">Bain &amp; Company</text>
+<circle cx="276.8" cy="695.9" r="5" fill="#2ca02c" opacity="0.85"/><text class="label" x="283.8" y="689.9">Grant Thornton</text>
+<circle cx="460.0" cy="718.6" r="5" fill="#2ca02c" opacity="0.85"/><text class="label" x="467.0" y="712.6">EY Consulting</text>
+<circle cx="602.9" cy="719.1" r="5" fill="#2ca02c" opacity="0.85"/><text class="label" x="609.9" y="713.1">Accenture</text>
+<circle cx="271.9" cy="680.2" r="5" fill="#2ca02c" opacity="0.85"/><text class="label" x="278.9" y="674.2">FTI Consulting</text>
+<circle cx="410.8" cy="730.5" r="5" fill="#2ca02c" opacity="0.85"/><text class="label" x="417.8" y="724.5">Kearney</text>
+<circle cx="341.1" cy="729.1" r="5" fill="#2ca02c" opacity="0.85"/><text class="label" x="348.1" y="723.1">BearingPoint</text>
+<circle cx="119.0" cy="758.8" r="5" fill="#2ca02c" opacity="0.85"/><text class="label" x="126.0" y="752.8">Zhongda Consulting</text>
+<circle cx="123.7" cy="793.1" r="5" fill="#2ca02c" opacity="0.85"/><text class="label" x="130.7" y="787.1">Hejun Consulting</text>
+<circle cx="144.7" cy="739.5" r="5" fill="#2ca02c" opacity="0.85"/><text class="label" x="151.7" y="733.5">Beida Zongheng</text>
+<text class="tick" x="662" y="502" text-anchor="end">Pearson r=0.39; Spearman ρ=0.41; R²=0.15; n=15</text>
+<text class="title" x="700" y="480">Banking</text>
+<text class="axis" x="1020.0" y="885" text-anchor="middle">Experiment 1: mean paired wins across models</text>
+<text class="axis" transform="translate(698,675.0) rotate(-90)" text-anchor="middle">Experiment 2: mean Named − Masked delta</text>
+<line x1="760.0" y1="830.0" x2="1325.0" y2="830.0" stroke="black"/><line x1="760.0" y1="830.0" x2="760.0" y2="510.0" stroke="black"/>
+<line x1="760.0" y1="830.0" x2="760.0" y2="510.0" stroke="#ddd"/>
+<text class="tick" x="760.0" y="848.0" text-anchor="middle">293</text>
+<line x1="901.2" y1="830.0" x2="901.2" y2="510.0" stroke="#ddd"/>
+<text class="tick" x="901.2" y="848.0" text-anchor="middle">1250</text>
+<line x1="1042.5" y1="830.0" x2="1042.5" y2="510.0" stroke="#ddd"/>
+<text class="tick" x="1042.5" y="848.0" text-anchor="middle">2206</text>
+<line x1="1183.8" y1="830.0" x2="1183.8" y2="510.0" stroke="#ddd"/>
+<text class="tick" x="1183.8" y="848.0" text-anchor="middle">3162</text>
+<line x1="1325.0" y1="830.0" x2="1325.0" y2="510.0" stroke="#ddd"/>
+<text class="tick" x="1325.0" y="848.0" text-anchor="middle">4119</text>
+<line x1="760.0" y1="830.0" x2="1325.0" y2="830.0" stroke="#ddd"/>
+<text class="tick" x="752.0" y="834.0" text-anchor="end">0.15</text>
+<line x1="760.0" y1="750.0" x2="1325.0" y2="750.0" stroke="#ddd"/>
+<text class="tick" x="752.0" y="754.0" text-anchor="end">0.34</text>
+<line x1="760.0" y1="670.0" x2="1325.0" y2="670.0" stroke="#ddd"/>
+<text class="tick" x="752.0" y="674.0" text-anchor="end">0.53</text>
+<line x1="760.0" y1="590.0" x2="1325.0" y2="590.0" stroke="#ddd"/>
+<text class="tick" x="752.0" y="594.0" text-anchor="end">0.71</text>
+<line x1="760.0" y1="510.0" x2="1325.0" y2="510.0" stroke="#ddd"/>
+<text class="tick" x="752.0" y="514.0" text-anchor="end">0.90</text>
+<line x1="760.0" y1="681.5" x2="1325.0" y2="628.5" stroke="#555" stroke-dasharray="6,4"/>
+<circle cx="1286.0" cy="708.0" r="5" fill="#d62728" opacity="0.85"/><text class="label" x="1293.0" y="702.0">JPMorgan Chase</text>
+<circle cx="1108.4" cy="624.8" r="5" fill="#d62728" opacity="0.85"/><text class="label" x="1115.4" y="618.8">Bank of America</text>
+<circle cx="1081.0" cy="615.5" r="5" fill="#d62728" opacity="0.85"/><text class="label" x="1088.0" y="609.5">Morgan Stanley</text>
+<circle cx="1126.5" cy="617.9" r="5" fill="#d62728" opacity="0.85"/><text class="label" x="1133.5" y="611.9">Goldman Sachs</text>
+<circle cx="868.1" cy="546.9" r="5" fill="#d62728" opacity="0.85"/><text class="label" x="875.1" y="540.9">Wells Fargo</text>
+<circle cx="955.8" cy="752.4" r="5" fill="#d62728" opacity="0.85"/><text class="label" x="962.8" y="746.4">Industrial and Commercial Bank of China (ICBC)</text>
+<circle cx="900.7" cy="662.6" r="5" fill="#d62728" opacity="0.85"/><text class="label" x="907.7" y="656.6">China Construction Bank</text>
+<circle cx="799.0" cy="703.7" r="5" fill="#d62728" opacity="0.85"/><text class="label" x="806.0" y="697.7">Agricultural Bank of China</text>
+<circle cx="900.5" cy="767.0" r="5" fill="#d62728" opacity="0.85"/><text class="label" x="907.5" y="761.0">Bank of China</text>
+<circle cx="1151.7" cy="644.9" r="5" fill="#d62728" opacity="0.85"/><text class="label" x="1158.7" y="638.9">HSBC</text>
+<circle cx="983.5" cy="677.3" r="5" fill="#d62728" opacity="0.85"/><text class="label" x="990.5" y="671.3">Banco Santander</text>
+<circle cx="1047.9" cy="565.6" r="5" fill="#d62728" opacity="0.85"/><text class="label" x="1054.9" y="559.6">UBS</text>
+<circle cx="1037.8" cy="793.1" r="5" fill="#d62728" opacity="0.85"/><text class="label" x="1044.8" y="787.1">Mitsubishi UFJ Financial Group (MUFG)</text>
+<circle cx="1036.7" cy="595.3" r="5" fill="#d62728" opacity="0.85"/><text class="label" x="1043.7" y="589.3">Royal Bank of Canada</text>
+<circle cx="1118.8" cy="572.0" r="5" fill="#d62728" opacity="0.85"/><text class="label" x="1125.8" y="566.0">Citigroup</text>
+<text class="tick" x="1342" y="502" text-anchor="end">Pearson r=0.16; Spearman ρ=0.16; R²=0.02; n=15</text>
+</svg>

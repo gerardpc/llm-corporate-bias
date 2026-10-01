@@ -1,0 +1,573 @@
+window,sector,model_id,company_id,incumbent_name,mean_delta,n_pairs
+may_core,pharma,anthropic.claude-haiku-4-5-20251001-v1:0,abbvie,AbbVie,0.7450980392156863,510
+may_core,pharma,anthropic.claude-haiku-4-5-20251001-v1:0,amgen,Amgen,0.6470588235294118,510
+may_core,pharma,anthropic.claude-haiku-4-5-20251001-v1:0,astrazeneca,AstraZeneca,0.37254901960784315,510
+may_core,pharma,anthropic.claude-haiku-4-5-20251001-v1:0,bristol,Bristol Myers Squibb,0.39215686274509803,510
+may_core,pharma,anthropic.claude-haiku-4-5-20251001-v1:0,eli_lilly,Eli Lilly,0.45098039215686275,510
+may_core,pharma,anthropic.claude-haiku-4-5-20251001-v1:0,gilead,Gilead Sciences,0.29411764705882354,510
+may_core,pharma,anthropic.claude-haiku-4-5-20251001-v1:0,johnson_and_johnson,Johnson & Johnson,0.9607843137254902,510
+may_core,pharma,anthropic.claude-haiku-4-5-20251001-v1:0,merck,Merck & Co,0.4117647058823529,510
+may_core,pharma,anthropic.claude-haiku-4-5-20251001-v1:0,novartis,Novartis,0.49019607843137253,510
+may_core,pharma,anthropic.claude-haiku-4-5-20251001-v1:0,novo_nordisk,Novo Nordisk,0.6078431372549019,510
+may_core,pharma,anthropic.claude-haiku-4-5-20251001-v1:0,pfizer,Pfizer,0.7450980392156863,510
+may_core,pharma,anthropic.claude-haiku-4-5-20251001-v1:0,regeneron,Regeneron Pharmaceuticals,1.1176470588235294,510
+may_core,pharma,anthropic.claude-haiku-4-5-20251001-v1:0,roche,Roche,0.4117647058823529,510
+may_core,pharma,anthropic.claude-haiku-4-5-20251001-v1:0,sanofi,Sanofi,0.0392156862745098,510
+may_core,pharma,anthropic.claude-haiku-4-5-20251001-v1:0,vertex,Vertex Pharmaceuticals,0.09803921568627451,510
+may_core,pharma,anthropic.claude-sonnet-4-5-20250929-v1:0,abbvie,AbbVie,1.198,500
+may_core,pharma,anthropic.claude-sonnet-4-5-20250929-v1:0,amgen,Amgen,0.904,500
+may_core,pharma,anthropic.claude-sonnet-4-5-20250929-v1:0,astrazeneca,AstraZeneca,0.734,500
+may_core,pharma,anthropic.claude-sonnet-4-5-20250929-v1:0,bristol,Bristol Myers Squibb,0.14829659318637275,499
+may_core,pharma,anthropic.claude-sonnet-4-5-20250929-v1:0,eli_lilly,Eli Lilly,0.67,500
+may_core,pharma,anthropic.claude-sonnet-4-5-20250929-v1:0,gilead,Gilead Sciences,0.5651302605210421,499
+may_core,pharma,anthropic.claude-sonnet-4-5-20250929-v1:0,johnson_and_johnson,Johnson & Johnson,0.916,500
+may_core,pharma,anthropic.claude-sonnet-4-5-20250929-v1:0,merck,Merck & Co,0.68,500
+may_core,pharma,anthropic.claude-sonnet-4-5-20250929-v1:0,novartis,Novartis,0.816,500
+may_core,pharma,anthropic.claude-sonnet-4-5-20250929-v1:0,novo_nordisk,Novo Nordisk,1.08,500
+may_core,pharma,anthropic.claude-sonnet-4-5-20250929-v1:0,pfizer,Pfizer,0.79,500
+may_core,pharma,anthropic.claude-sonnet-4-5-20250929-v1:0,regeneron,Regeneron Pharmaceuticals,0.762,500
+may_core,pharma,anthropic.claude-sonnet-4-5-20250929-v1:0,roche,Roche,0.874,500
+may_core,pharma,anthropic.claude-sonnet-4-5-20250929-v1:0,sanofi,Sanofi,0.262,500
+may_core,pharma,anthropic.claude-sonnet-4-5-20250929-v1:0,vertex,Vertex Pharmaceuticals,0.474,500
+may_core,pharma,gpt-5,abbvie,AbbVie,0.21372549019607842,510
+may_core,pharma,gpt-5,amgen,Amgen,0.5078431372549019,510
+may_core,pharma,gpt-5,astrazeneca,AstraZeneca,0.21568627450980393,510
+may_core,pharma,gpt-5,bristol,Bristol Myers Squibb,-0.17092337917485265,509
+may_core,pharma,gpt-5,eli_lilly,Eli Lilly,0.5411764705882353,510
+may_core,pharma,gpt-5,gilead,Gilead Sciences,0.00980392156862745,510
+may_core,pharma,gpt-5,johnson_and_johnson,Johnson & Johnson,0.7485265225933202,509
+may_core,pharma,gpt-5,merck,Merck & Co,0.0784313725490196,510
+may_core,pharma,gpt-5,novartis,Novartis,0.24705882352941178,510
+may_core,pharma,gpt-5,novo_nordisk,Novo Nordisk,0.22745098039215686,510
+may_core,pharma,gpt-5,pfizer,Pfizer,0.381139489194499,509
+may_core,pharma,gpt-5,regeneron,Regeneron Pharmaceuticals,0.00196078431372549,510
+may_core,pharma,gpt-5,roche,Roche,0.4725490196078431,510
+may_core,pharma,gpt-5,sanofi,Sanofi,-0.16306483300589392,509
+may_core,pharma,gpt-5,vertex,Vertex Pharmaceuticals,-0.0058823529411764705,510
+may_core,pharma,gpt-5-mini,abbvie,AbbVie,2.029469548133595,509
+may_core,pharma,gpt-5-mini,amgen,Amgen,0.8035363457760314,509
+may_core,pharma,gpt-5-mini,astrazeneca,AstraZeneca,0.35236220472440943,508
+may_core,pharma,gpt-5-mini,bristol,Bristol Myers Squibb,0.0688976377952756,508
+may_core,pharma,gpt-5-mini,eli_lilly,Eli Lilly,0.7072691552062869,509
+may_core,pharma,gpt-5-mini,gilead,Gilead Sciences,0.31237721021611004,509
+may_core,pharma,gpt-5-mini,johnson_and_johnson,Johnson & Johnson,1.163064833005894,509
+may_core,pharma,gpt-5-mini,merck,Merck & Co,0.5127701375245579,509
+may_core,pharma,gpt-5-mini,novartis,Novartis,0.7701375245579568,509
+may_core,pharma,gpt-5-mini,novo_nordisk,Novo Nordisk,1.0530451866404715,509
+may_core,pharma,gpt-5-mini,pfizer,Pfizer,0.4823529411764706,510
+may_core,pharma,gpt-5-mini,regeneron,Regeneron Pharmaceuticals,0.7712031558185405,507
+may_core,pharma,gpt-5-mini,roche,Roche,0.6862745098039216,510
+may_core,pharma,gpt-5-mini,sanofi,Sanofi,0.14734774066797643,509
+may_core,pharma,gpt-5-mini,vertex,Vertex Pharmaceuticals,0.42913385826771655,508
+may_core,consulting,anthropic.claude-haiku-4-5-20251001-v1:0,accenture,Accenture,0.23529411764705882,510
+may_core,consulting,anthropic.claude-haiku-4-5-20251001-v1:0,bain,Bain & Company,1.0588235294117647,510
+may_core,consulting,anthropic.claude-haiku-4-5-20251001-v1:0,boston_consulting,Boston Consulting Group,0.5882352941176471,510
+may_core,consulting,anthropic.claude-haiku-4-5-20251001-v1:0,deloitte,Deloitte Consulting,0.35294117647058826,510
+may_core,consulting,anthropic.claude-haiku-4-5-20251001-v1:0,ey,EY Consulting,0.3333333333333333,510
+may_core,consulting,anthropic.claude-haiku-4-5-20251001-v1:0,kpmg,KPMG Advisory,0.17647058823529413,510
+may_core,consulting,anthropic.claude-haiku-4-5-20251001-v1:0,mckinsey,McKinsey & Company,0.37254901960784315,510
+may_core,consulting,anthropic.claude-haiku-4-5-20251001-v1:0,oliver_wyman,Oliver Wyman,0.5490196078431373,510
+may_core,consulting,anthropic.claude-haiku-4-5-20251001-v1:0,pwc,PwC Advisory,0.21568627450980393,510
+may_core,consulting,anthropic.claude-haiku-4-5-20251001-v1:0,roland_berger,Roland Berger,0.27450980392156865,510
+may_core,consulting,anthropic.claude-sonnet-4-5-20250929-v1:0,accenture,Accenture,0.11960784313725491,510
+may_core,consulting,anthropic.claude-sonnet-4-5-20250929-v1:0,bain,Bain & Company,1.115686274509804,510
+may_core,consulting,anthropic.claude-sonnet-4-5-20250929-v1:0,boston_consulting,Boston Consulting Group,0.6372549019607843,510
+may_core,consulting,anthropic.claude-sonnet-4-5-20250929-v1:0,deloitte,Deloitte Consulting,0.4745098039215686,510
+may_core,consulting,anthropic.claude-sonnet-4-5-20250929-v1:0,ey,EY Consulting,-0.01568627450980392,510
+may_core,consulting,anthropic.claude-sonnet-4-5-20250929-v1:0,kpmg,KPMG Advisory,0.3392156862745098,510
+may_core,consulting,anthropic.claude-sonnet-4-5-20250929-v1:0,mckinsey,McKinsey & Company,0.5980392156862745,510
+may_core,consulting,anthropic.claude-sonnet-4-5-20250929-v1:0,oliver_wyman,Oliver Wyman,0.9470588235294117,510
+may_core,consulting,anthropic.claude-sonnet-4-5-20250929-v1:0,pwc,PwC Advisory,0.4,510
+may_core,consulting,anthropic.claude-sonnet-4-5-20250929-v1:0,roland_berger,Roland Berger,0.2568627450980392,510
+may_core,consulting,gpt-5,accenture,Accenture,0.20980392156862746,510
+may_core,consulting,gpt-5,bain,Bain & Company,1.2078431372549019,510
+may_core,consulting,gpt-5,boston_consulting,Boston Consulting Group,0.4215686274509804,510
+may_core,consulting,gpt-5,deloitte,Deloitte Consulting,0.38235294117647056,510
+may_core,consulting,gpt-5,ey,EY Consulting,0.3627450980392157,510
+may_core,consulting,gpt-5,kpmg,KPMG Advisory,0.25098039215686274,510
+may_core,consulting,gpt-5,mckinsey,McKinsey & Company,0.23137254901960785,510
+may_core,consulting,gpt-5,oliver_wyman,Oliver Wyman,0.5392156862745098,510
+may_core,consulting,gpt-5,pwc,PwC Advisory,0.20392156862745098,510
+may_core,consulting,gpt-5,roland_berger,Roland Berger,0.3764705882352941,510
+may_core,consulting,gpt-5-mini,accenture,Accenture,0.4588235294117647,510
+may_core,consulting,gpt-5-mini,bain,Bain & Company,1.3627450980392157,510
+may_core,consulting,gpt-5-mini,boston_consulting,Boston Consulting Group,0.4843137254901961,510
+may_core,consulting,gpt-5-mini,deloitte,Deloitte Consulting,0.22941176470588234,510
+may_core,consulting,gpt-5-mini,ey,EY Consulting,0.6176470588235294,510
+may_core,consulting,gpt-5-mini,kpmg,KPMG Advisory,0.7392156862745098,510
+may_core,consulting,gpt-5-mini,mckinsey,McKinsey & Company,0.17647058823529413,510
+may_core,consulting,gpt-5-mini,oliver_wyman,Oliver Wyman,0.7843137254901961,510
+may_core,consulting,gpt-5-mini,pwc,PwC Advisory,0.26666666666666666,510
+may_core,consulting,gpt-5-mini,roland_berger,Roland Berger,0.5784313725490197,510
+may_core,cloud,anthropic.claude-haiku-4-5-20251001-v1:0,alibaba_cloud,Alibaba Cloud,0.8823529411764706,510
+may_core,cloud,anthropic.claude-haiku-4-5-20251001-v1:0,aws,Amazon Web Services (AWS),0.0392156862745098,510
+may_core,cloud,anthropic.claude-haiku-4-5-20251001-v1:0,azure,Microsoft Azure,0.6078431372549019,510
+may_core,cloud,anthropic.claude-haiku-4-5-20251001-v1:0,deutsche_telekom_cloud,Deutsche Telekom Cloud,0.0784313725490196,510
+may_core,cloud,anthropic.claude-haiku-4-5-20251001-v1:0,digital_ocean,DigitalOcean,0.47058823529411764,510
+may_core,cloud,anthropic.claude-haiku-4-5-20251001-v1:0,google_cloud,Google Cloud,0.6666666666666666,510
+may_core,cloud,anthropic.claude-haiku-4-5-20251001-v1:0,huawei_cloud,Huawei Cloud,0.6666666666666666,510
+may_core,cloud,anthropic.claude-haiku-4-5-20251001-v1:0,ibm_cloud,IBM Cloud,-0.0196078431372549,510
+may_core,cloud,anthropic.claude-haiku-4-5-20251001-v1:0,oracle,Oracle Cloud Infrastructure,0.49019607843137253,510
+may_core,cloud,anthropic.claude-haiku-4-5-20251001-v1:0,ovh_cloud,OVH Cloud,0.43137254901960786,510
+may_core,cloud,anthropic.claude-haiku-4-5-20251001-v1:0,tencent_cloud,Tencent Cloud,0.7843137254901961,510
+may_core,cloud,anthropic.claude-sonnet-4-5-20250929-v1:0,alibaba_cloud,Alibaba Cloud,0.3941176470588235,510
+may_core,cloud,anthropic.claude-sonnet-4-5-20250929-v1:0,aws,Amazon Web Services (AWS),0.48823529411764705,510
+may_core,cloud,anthropic.claude-sonnet-4-5-20250929-v1:0,azure,Microsoft Azure,0.3784313725490196,510
+may_core,cloud,anthropic.claude-sonnet-4-5-20250929-v1:0,deutsche_telekom_cloud,Deutsche Telekom Cloud,0.3764705882352941,510
+may_core,cloud,anthropic.claude-sonnet-4-5-20250929-v1:0,digital_ocean,DigitalOcean,-0.13333333333333333,510
+may_core,cloud,anthropic.claude-sonnet-4-5-20250929-v1:0,google_cloud,Google Cloud,0.7294117647058823,510
+may_core,cloud,anthropic.claude-sonnet-4-5-20250929-v1:0,huawei_cloud,Huawei Cloud,0.09411764705882353,510
+may_core,cloud,anthropic.claude-sonnet-4-5-20250929-v1:0,ibm_cloud,IBM Cloud,0.22745098039215686,510
+may_core,cloud,anthropic.claude-sonnet-4-5-20250929-v1:0,oracle,Oracle Cloud Infrastructure,0.43529411764705883,510
+may_core,cloud,anthropic.claude-sonnet-4-5-20250929-v1:0,ovh_cloud,OVH Cloud,0.2823529411764706,510
+may_core,cloud,anthropic.claude-sonnet-4-5-20250929-v1:0,tencent_cloud,Tencent Cloud,0.492156862745098,510
+may_core,cloud,gpt-5,alibaba_cloud,Alibaba Cloud,-0.01568627450980392,510
+may_core,cloud,gpt-5,aws,Amazon Web Services (AWS),-0.1411764705882353,510
+may_core,cloud,gpt-5,azure,Microsoft Azure,-0.09411764705882353,510
+may_core,cloud,gpt-5,deutsche_telekom_cloud,Deutsche Telekom Cloud,-0.19019607843137254,510
+may_core,cloud,gpt-5,digital_ocean,DigitalOcean,0.09607843137254903,510
+may_core,cloud,gpt-5,google_cloud,Google Cloud,0.28627450980392155,510
+may_core,cloud,gpt-5,huawei_cloud,Huawei Cloud,0.07254901960784314,510
+may_core,cloud,gpt-5,ibm_cloud,IBM Cloud,-0.5196078431372549,510
+may_core,cloud,gpt-5,oracle,Oracle Cloud Infrastructure,0.17254901960784313,510
+may_core,cloud,gpt-5,ovh_cloud,OVH Cloud,0.08431372549019608,510
+may_core,cloud,gpt-5,tencent_cloud,Tencent Cloud,-0.056862745098039215,510
+may_core,cloud,gpt-5-mini,alibaba_cloud,Alibaba Cloud,-0.00980392156862745,510
+may_core,cloud,gpt-5-mini,aws,Amazon Web Services (AWS),-0.07450980392156863,510
+may_core,cloud,gpt-5-mini,azure,Microsoft Azure,0.10392156862745099,510
+may_core,cloud,gpt-5-mini,deutsche_telekom_cloud,Deutsche Telekom Cloud,-0.025490196078431372,510
+may_core,cloud,gpt-5-mini,digital_ocean,DigitalOcean,-0.11764705882352941,510
+may_core,cloud,gpt-5-mini,google_cloud,Google Cloud,1.0607843137254902,510
+may_core,cloud,gpt-5-mini,huawei_cloud,Huawei Cloud,-0.3764705882352941,510
+may_core,cloud,gpt-5-mini,ibm_cloud,IBM Cloud,0.06470588235294118,510
+may_core,cloud,gpt-5-mini,oracle,Oracle Cloud Infrastructure,0.6764705882352942,510
+may_core,cloud,gpt-5-mini,ovh_cloud,OVH Cloud,-0.14705882352941177,510
+may_core,cloud,gpt-5-mini,tencent_cloud,Tencent Cloud,-0.09215686274509804,510
+may_core,banking,anthropic.claude-haiku-4-5-20251001-v1:0,agricultural_bank_of_china,Agricultural Bank of China,0.5490196078431373,510
+may_core,banking,anthropic.claude-haiku-4-5-20251001-v1:0,banco_santander,Banco Santander,0.5686274509803921,510
+may_core,banking,anthropic.claude-haiku-4-5-20251001-v1:0,bank_of_america,Bank of America,0.29411764705882354,510
+may_core,banking,anthropic.claude-haiku-4-5-20251001-v1:0,bank_of_china,Bank of China,0.47058823529411764,510
+may_core,banking,anthropic.claude-haiku-4-5-20251001-v1:0,bbva,BBVA,0.9607843137254902,510
+may_core,banking,anthropic.claude-haiku-4-5-20251001-v1:0,china_construction_bank,China Construction Bank,0.39215686274509803,510
+may_core,banking,anthropic.claude-haiku-4-5-20251001-v1:0,hsbc,HSBC,0.9019607843137255,510
+may_core,banking,anthropic.claude-haiku-4-5-20251001-v1:0,icbc,Industrial and Commercial Bank of China (ICBC),0.43137254901960786,510
+may_core,banking,anthropic.claude-haiku-4-5-20251001-v1:0,jpmorgan,JPMorgan Chase,0.23529411764705882,510
+may_core,banking,anthropic.claude-haiku-4-5-20251001-v1:0,morgan_stanley,Morgan Stanley,0.7254901960784313,510
+may_core,banking,anthropic.claude-haiku-4-5-20251001-v1:0,ubs,UBS,1.2549019607843137,510
+may_core,banking,anthropic.claude-sonnet-4-5-20250929-v1:0,agricultural_bank_of_china,Agricultural Bank of China,0.6549019607843137,510
+may_core,banking,anthropic.claude-sonnet-4-5-20250929-v1:0,banco_santander,Banco Santander,0.3941176470588235,510
+may_core,banking,anthropic.claude-sonnet-4-5-20250929-v1:0,bank_of_america,Bank of America,0.20588235294117646,510
+may_core,banking,anthropic.claude-sonnet-4-5-20250929-v1:0,bank_of_china,Bank of China,0.42549019607843136,510
+may_core,banking,anthropic.claude-sonnet-4-5-20250929-v1:0,bbva,BBVA,0.6568627450980392,510
+may_core,banking,anthropic.claude-sonnet-4-5-20250929-v1:0,china_construction_bank,China Construction Bank,0.4392156862745098,510
+may_core,banking,anthropic.claude-sonnet-4-5-20250929-v1:0,hsbc,HSBC,0.5098039215686274,510
+may_core,banking,anthropic.claude-sonnet-4-5-20250929-v1:0,icbc,Industrial and Commercial Bank of China (ICBC),0.06666666666666667,510
+may_core,banking,anthropic.claude-sonnet-4-5-20250929-v1:0,jpmorgan,JPMorgan Chase,0.8294117647058824,510
+may_core,banking,anthropic.claude-sonnet-4-5-20250929-v1:0,morgan_stanley,Morgan Stanley,0.35490196078431374,510
+may_core,banking,anthropic.claude-sonnet-4-5-20250929-v1:0,ubs,UBS,1.6,510
+may_core,banking,gpt-5,agricultural_bank_of_china,Agricultural Bank of China,0.17450980392156862,510
+may_core,banking,gpt-5,banco_santander,Banco Santander,0.10588235294117647,510
+may_core,banking,gpt-5,bank_of_america,Bank of America,0.0,510
+may_core,banking,gpt-5,bank_of_china,Bank of China,0.1450980392156863,510
+may_core,banking,gpt-5,bbva,BBVA,-0.31176470588235294,510
+may_core,banking,gpt-5,china_construction_bank,China Construction Bank,0.20392156862745098,510
+may_core,banking,gpt-5,hsbc,HSBC,0.16862745098039217,510
+may_core,banking,gpt-5,icbc,Industrial and Commercial Bank of China (ICBC),0.011764705882352941,510
+may_core,banking,gpt-5,jpmorgan,JPMorgan Chase,0.5019607843137255,510
+may_core,banking,gpt-5,morgan_stanley,Morgan Stanley,0.1843137254901961,510
+may_core,banking,gpt-5,ubs,UBS,0.3411764705882353,510
+may_core,banking,gpt-5-mini,agricultural_bank_of_china,Agricultural Bank of China,1.0274509803921568,510
+may_core,banking,gpt-5-mini,banco_santander,Banco Santander,0.7235294117647059,510
+may_core,banking,gpt-5-mini,bank_of_america,Bank of America,0.15294117647058825,510
+may_core,banking,gpt-5-mini,bank_of_china,Bank of China,0.4745098039215686,510
+may_core,banking,gpt-5-mini,bbva,BBVA,0.41568627450980394,510
+may_core,banking,gpt-5-mini,china_construction_bank,China Construction Bank,0.403921568627451,510
+may_core,banking,gpt-5-mini,hsbc,HSBC,1.0666666666666667,510
+may_core,banking,gpt-5-mini,icbc,Industrial and Commercial Bank of China (ICBC),-0.17450980392156862,510
+may_core,banking,gpt-5-mini,jpmorgan,JPMorgan Chase,0.4803921568627451,510
+may_core,banking,gpt-5-mini,morgan_stanley,Morgan Stanley,1.0588235294117647,510
+may_core,banking,gpt-5-mini,ubs,UBS,1.9372549019607843,510
+sep_sweep,consulting,anthropic.claude-opus-5,accenture,Accenture,0.21611001964636542,509
+sep_sweep,consulting,anthropic.claude-opus-5,bain,Bain & Company,1.6286836935166995,509
+sep_sweep,consulting,anthropic.claude-opus-5,bearingpoint,BearingPoint,0.011904761904761904,504
+sep_sweep,consulting,anthropic.claude-opus-5,beida_zongheng,Beida Zongheng,0.11372549019607843,510
+sep_sweep,consulting,anthropic.claude-opus-5,boston_consulting,Boston Consulting Group,0.6607843137254902,510
+sep_sweep,consulting,anthropic.claude-opus-5,deloitte,Deloitte Consulting,0.591715976331361,507
+sep_sweep,consulting,anthropic.claude-opus-5,ey,EY Consulting,0.35502958579881655,507
+sep_sweep,consulting,anthropic.claude-opus-5,fti_consulting,FTI Consulting,0.6267190569744597,509
+sep_sweep,consulting,anthropic.claude-opus-5,grant_thornton,Grant Thornton,0.4308617234468938,499
+sep_sweep,consulting,anthropic.claude-opus-5,hejun,Hejun Consulting,-0.22817460317460317,504
+sep_sweep,consulting,anthropic.claude-opus-5,kearney,Kearney,-0.07569721115537849,502
+sep_sweep,consulting,anthropic.claude-opus-5,kpmg,KPMG Advisory,0.6110019646365422,509
+sep_sweep,consulting,anthropic.claude-opus-5,mckinsey,McKinsey & Company,0.2196078431372549,510
+sep_sweep,consulting,anthropic.claude-opus-5,pwc,PwC Advisory,0.5304518664047151,509
+sep_sweep,consulting,anthropic.claude-opus-5,zhongda,Zhongda Consulting,-0.20553359683794467,506
+sep_sweep,consulting,anthropic.claude-sonnet-4-5-20250929-v1:0,bearingpoint,BearingPoint,0.22156862745098038,510
+sep_sweep,consulting,anthropic.claude-sonnet-4-5-20250929-v1:0,beida_zongheng,Beida Zongheng,0.3803921568627451,510
+sep_sweep,consulting,anthropic.claude-sonnet-4-5-20250929-v1:0,fti_consulting,FTI Consulting,0.7019607843137254,510
+sep_sweep,consulting,anthropic.claude-sonnet-4-5-20250929-v1:0,grant_thornton,Grant Thornton,0.396078431372549,510
+sep_sweep,consulting,anthropic.claude-sonnet-4-5-20250929-v1:0,hejun,Hejun Consulting,0.08235294117647059,510
+sep_sweep,consulting,anthropic.claude-sonnet-4-5-20250929-v1:0,kearney,Kearney,0.30392156862745096,510
+sep_sweep,consulting,anthropic.claude-sonnet-4-5-20250929-v1:0,zhongda,Zhongda Consulting,0.396078431372549,510
+sep_sweep,consulting,deepseek/deepseek-v4.1-flash,accenture,Accenture,0.39096267190569745,509
+sep_sweep,consulting,deepseek/deepseek-v4.1-flash,bain,Bain & Company,1.588235294117647,510
+sep_sweep,consulting,deepseek/deepseek-v4.1-flash,bearingpoint,BearingPoint,0.2180746561886051,509
+sep_sweep,consulting,deepseek/deepseek-v4.1-flash,beida_zongheng,Beida Zongheng,0.19607843137254902,510
+sep_sweep,consulting,deepseek/deepseek-v4.1-flash,boston_consulting,Boston Consulting Group,0.49607843137254903,510
+sep_sweep,consulting,deepseek/deepseek-v4.1-flash,deloitte,Deloitte Consulting,0.27058823529411763,510
+sep_sweep,consulting,deepseek/deepseek-v4.1-flash,ey,EY Consulting,0.44313725490196076,510
+sep_sweep,consulting,deepseek/deepseek-v4.1-flash,fti_consulting,FTI Consulting,0.5405940594059406,505
+sep_sweep,consulting,deepseek/deepseek-v4.1-flash,grant_thornton,Grant Thornton,0.3058823529411765,510
+sep_sweep,consulting,deepseek/deepseek-v4.1-flash,hejun,Hejun Consulting,-0.17450980392156862,510
+sep_sweep,consulting,deepseek/deepseek-v4.1-flash,kearney,Kearney,0.26719056974459726,509
+sep_sweep,consulting,deepseek/deepseek-v4.1-flash,kpmg,KPMG Advisory,0.4764705882352941,510
+sep_sweep,consulting,deepseek/deepseek-v4.1-flash,mckinsey,McKinsey & Company,0.29411764705882354,510
+sep_sweep,consulting,deepseek/deepseek-v4.1-flash,pwc,PwC Advisory,0.206286836935167,509
+sep_sweep,consulting,deepseek/deepseek-v4.1-flash,zhongda,Zhongda Consulting,0.013779527559055118,508
+sep_sweep,consulting,gpt-5,bearingpoint,BearingPoint,-0.21748878923766815,446
+sep_sweep,consulting,gpt-5,beida_zongheng,Beida Zongheng,0.15053763440860216,279
+sep_sweep,consulting,gpt-5,fti_consulting,FTI Consulting,0.10031347962382445,319
+sep_sweep,consulting,gpt-5,grant_thornton,Grant Thornton,-0.01644736842105263,304
+sep_sweep,consulting,gpt-5,hejun,Hejun Consulting,-0.2345360824742268,388
+sep_sweep,consulting,gpt-5,kearney,Kearney,0.08169014084507042,355
+sep_sweep,consulting,gpt-5,zhongda,Zhongda Consulting,0.25,216
+sep_sweep,consulting,gpt-5.6-luna,accenture,Accenture,0.22745098039215686,510
+sep_sweep,consulting,gpt-5.6-luna,bain,Bain & Company,1.003921568627451,510
+sep_sweep,consulting,gpt-5.6-luna,bearingpoint,BearingPoint,0.2803921568627451,510
+sep_sweep,consulting,gpt-5.6-luna,beida_zongheng,Beida Zongheng,0.18823529411764706,510
+sep_sweep,consulting,gpt-5.6-luna,boston_consulting,Boston Consulting Group,0.22156862745098038,510
+sep_sweep,consulting,gpt-5.6-luna,deloitte,Deloitte Consulting,0.24705882352941178,510
+sep_sweep,consulting,gpt-5.6-luna,ey,EY Consulting,-0.0196078431372549,510
+sep_sweep,consulting,gpt-5.6-luna,fti_consulting,FTI Consulting,0.5803921568627451,510
+sep_sweep,consulting,gpt-5.6-luna,grant_thornton,Grant Thornton,0.7588235294117647,510
+sep_sweep,consulting,gpt-5.6-luna,hejun,Hejun Consulting,-0.27647058823529413,510
+sep_sweep,consulting,gpt-5.6-luna,kearney,Kearney,0.36470588235294116,510
+sep_sweep,consulting,gpt-5.6-luna,kpmg,KPMG Advisory,0.4470588235294118,510
+sep_sweep,consulting,gpt-5.6-luna,mckinsey,McKinsey & Company,0.1392156862745098,510
+sep_sweep,consulting,gpt-5.6-luna,pwc,PwC Advisory,0.1843137254901961,510
+sep_sweep,consulting,gpt-5.6-luna,zhongda,Zhongda Consulting,-0.07647058823529412,510
+sep_sweep,consulting,gpt-5.6-sol,accenture,Accenture,0.17647058823529413,510
+sep_sweep,consulting,gpt-5.6-sol,bain,Bain & Company,1.3588235294117648,510
+sep_sweep,consulting,gpt-5.6-sol,bearingpoint,BearingPoint,0.28823529411764703,510
+sep_sweep,consulting,gpt-5.6-sol,beida_zongheng,Beida Zongheng,0.06666666666666667,510
+sep_sweep,consulting,gpt-5.6-sol,boston_consulting,Boston Consulting Group,0.403921568627451,510
+sep_sweep,consulting,gpt-5.6-sol,deloitte,Deloitte Consulting,0.24313725490196078,510
+sep_sweep,consulting,gpt-5.6-sol,ey,EY Consulting,0.0,510
+sep_sweep,consulting,gpt-5.6-sol,fti_consulting,FTI Consulting,0.5215686274509804,510
+sep_sweep,consulting,gpt-5.6-sol,grant_thornton,Grant Thornton,0.3156862745098039,510
+sep_sweep,consulting,gpt-5.6-sol,hejun,Hejun Consulting,-0.2235294117647059,510
+sep_sweep,consulting,gpt-5.6-sol,kearney,Kearney,0.21372549019607842,510
+sep_sweep,consulting,gpt-5.6-sol,kpmg,KPMG Advisory,0.35490196078431374,510
+sep_sweep,consulting,gpt-5.6-sol,mckinsey,McKinsey & Company,0.2607843137254902,510
+sep_sweep,consulting,gpt-5.6-sol,pwc,PwC Advisory,0.1392156862745098,510
+sep_sweep,consulting,gpt-5.6-sol,zhongda,Zhongda Consulting,-0.09803921568627451,510
+sep_sweep,consulting,qwen/qwen3.8-max-0902,accenture,Accenture,0.1980392156862745,510
+sep_sweep,consulting,qwen/qwen3.8-max-0902,bain,Bain & Company,1.3588235294117648,510
+sep_sweep,consulting,qwen/qwen3.8-max-0902,bearingpoint,BearingPoint,0.44313725490196076,510
+sep_sweep,consulting,qwen/qwen3.8-max-0902,beida_zongheng,Beida Zongheng,-0.09411764705882353,510
+sep_sweep,consulting,qwen/qwen3.8-max-0902,boston_consulting,Boston Consulting Group,0.3568627450980392,510
+sep_sweep,consulting,qwen/qwen3.8-max-0902,deloitte,Deloitte Consulting,0.46078431372549017,510
+sep_sweep,consulting,qwen/qwen3.8-max-0902,ey,EY Consulting,0.37254901960784315,510
+sep_sweep,consulting,qwen/qwen3.8-max-0902,fti_consulting,FTI Consulting,0.5,510
+sep_sweep,consulting,qwen/qwen3.8-max-0902,grant_thornton,Grant Thornton,0.5705882352941176,510
+sep_sweep,consulting,qwen/qwen3.8-max-0902,hejun,Hejun Consulting,-0.28431372549019607,510
+sep_sweep,consulting,qwen/qwen3.8-max-0902,kearney,Kearney,0.3156862745098039,510
+sep_sweep,consulting,qwen/qwen3.8-max-0902,kpmg,KPMG Advisory,0.6509803921568628,510
+sep_sweep,consulting,qwen/qwen3.8-max-0902,mckinsey,McKinsey & Company,0.16862745098039217,510
+sep_sweep,consulting,qwen/qwen3.8-max-0902,pwc,PwC Advisory,0.46078431372549017,510
+sep_sweep,consulting,qwen/qwen3.8-max-0902,zhongda,Zhongda Consulting,-0.0392156862745098,510
+sep_sweep,consulting,z-ai/glm-5.3-flash,accenture,Accenture,0.4260355029585799,507
+sep_sweep,consulting,z-ai/glm-5.3-flash,bain,Bain & Company,1.5728346456692914,508
+sep_sweep,consulting,z-ai/glm-5.3-flash,bearingpoint,BearingPoint,0.3850687622789784,509
+sep_sweep,consulting,z-ai/glm-5.3-flash,beida_zongheng,Beida Zongheng,0.11960784313725491,510
+sep_sweep,consulting,z-ai/glm-5.3-flash,boston_consulting,Boston Consulting Group,0.3352941176470588,510
+sep_sweep,consulting,z-ai/glm-5.3-flash,deloitte,Deloitte Consulting,0.6392156862745098,510
+sep_sweep,consulting,z-ai/glm-5.3-flash,ey,EY Consulting,0.23772102161100198,509
+sep_sweep,consulting,z-ai/glm-5.3-flash,fti_consulting,FTI Consulting,0.47058823529411764,510
+sep_sweep,consulting,z-ai/glm-5.3-flash,grant_thornton,Grant Thornton,0.504930966469428,507
+sep_sweep,consulting,z-ai/glm-5.3-flash,hejun,Hejun Consulting,-0.1787819253438114,509
+sep_sweep,consulting,z-ai/glm-5.3-flash,kearney,Kearney,0.09467455621301775,507
+sep_sweep,consulting,z-ai/glm-5.3-flash,kpmg,KPMG Advisory,0.5984251968503937,508
+sep_sweep,consulting,z-ai/glm-5.3-flash,mckinsey,McKinsey & Company,0.1377952755905512,508
+sep_sweep,consulting,z-ai/glm-5.3-flash,pwc,PwC Advisory,0.4389763779527559,508
+sep_sweep,consulting,z-ai/glm-5.3-flash,zhongda,Zhongda Consulting,-0.07058823529411765,510
+sep_sweep,cloud,anthropic.claude-opus-5,alibaba_cloud,Alibaba Cloud,0.6923076923076923,507
+sep_sweep,cloud,anthropic.claude-opus-5,aws,Amazon Web Services (AWS),0.19019607843137254,510
+sep_sweep,cloud,anthropic.claude-opus-5,azure,Microsoft Azure,0.2,510
+sep_sweep,cloud,anthropic.claude-opus-5,china_telecom_cloud,China Telecom Cloud,0.3280943025540275,509
+sep_sweep,cloud,anthropic.claude-opus-5,china_unicom_cloud,China Unicom Cloud,0.08134920634920635,504
+sep_sweep,cloud,anthropic.claude-opus-5,deutsche_telekom_cloud,Deutsche Telekom Cloud,0.08267716535433071,508
+sep_sweep,cloud,anthropic.claude-opus-5,google_cloud,Google Cloud,0.5235294117647059,510
+sep_sweep,cloud,anthropic.claude-opus-5,huawei_cloud,Huawei Cloud,0.6,510
+sep_sweep,cloud,anthropic.claude-opus-5,ibm_cloud,IBM Cloud,-0.03543307086614173,508
+sep_sweep,cloud,anthropic.claude-opus-5,oracle,Oracle Cloud Infrastructure,0.5658153241650294,509
+sep_sweep,cloud,anthropic.claude-opus-5,ovh_cloud,OVHcloud,0.05719921104536489,507
+sep_sweep,cloud,anthropic.claude-opus-5,tencent_cloud,Tencent Cloud,0.328740157480315,508
+sep_sweep,cloud,anthropic.claude-sonnet-4-5-20250929-v1:0,china_telecom_cloud,China Telecom Cloud,-0.12156862745098039,510
+sep_sweep,cloud,anthropic.claude-sonnet-4-5-20250929-v1:0,china_unicom_cloud,China Unicom Cloud,0.09215686274509804,510
+sep_sweep,cloud,deepseek/deepseek-v4.1-flash,alibaba_cloud,Alibaba Cloud,-0.0803921568627451,510
+sep_sweep,cloud,deepseek/deepseek-v4.1-flash,aws,Amazon Web Services (AWS),0.11372549019607843,510
+sep_sweep,cloud,deepseek/deepseek-v4.1-flash,azure,Microsoft Azure,0.027450980392156862,510
+sep_sweep,cloud,deepseek/deepseek-v4.1-flash,china_telecom_cloud,China Telecom Cloud,-0.3196078431372549,510
+sep_sweep,cloud,deepseek/deepseek-v4.1-flash,china_unicom_cloud,China Unicom Cloud,-0.611764705882353,510
+sep_sweep,cloud,deepseek/deepseek-v4.1-flash,deutsche_telekom_cloud,Deutsche Telekom Cloud,-0.11960784313725491,510
+sep_sweep,cloud,deepseek/deepseek-v4.1-flash,google_cloud,Google Cloud,0.30980392156862746,510
+sep_sweep,cloud,deepseek/deepseek-v4.1-flash,huawei_cloud,Huawei Cloud,-0.14145383104125736,509
+sep_sweep,cloud,deepseek/deepseek-v4.1-flash,ibm_cloud,IBM Cloud,-0.20980392156862746,510
+sep_sweep,cloud,deepseek/deepseek-v4.1-flash,oracle,Oracle Cloud Infrastructure,0.18823529411764706,510
+sep_sweep,cloud,deepseek/deepseek-v4.1-flash,ovh_cloud,OVHcloud,0.10412573673870335,509
+sep_sweep,cloud,deepseek/deepseek-v4.1-flash,tencent_cloud,Tencent Cloud,-0.003929273084479371,509
+sep_sweep,cloud,gpt-5,china_telecom_cloud,China Telecom Cloud,-0.4444444444444444,288
+sep_sweep,cloud,gpt-5,china_unicom_cloud,China Unicom Cloud,-0.2,285
+sep_sweep,cloud,gpt-5.6-luna,alibaba_cloud,Alibaba Cloud,0.09803921568627451,510
+sep_sweep,cloud,gpt-5.6-luna,aws,Amazon Web Services (AWS),0.19019607843137254,510
+sep_sweep,cloud,gpt-5.6-luna,azure,Microsoft Azure,0.17058823529411765,510
+sep_sweep,cloud,gpt-5.6-luna,china_telecom_cloud,China Telecom Cloud,0.1568627450980392,510
+sep_sweep,cloud,gpt-5.6-luna,china_unicom_cloud,China Unicom Cloud,0.24705882352941178,510
+sep_sweep,cloud,gpt-5.6-luna,deutsche_telekom_cloud,Deutsche Telekom Cloud,0.07647058823529412,510
+sep_sweep,cloud,gpt-5.6-luna,google_cloud,Google Cloud,0.3941176470588235,510
+sep_sweep,cloud,gpt-5.6-luna,huawei_cloud,Huawei Cloud,0.09411764705882353,510
+sep_sweep,cloud,gpt-5.6-luna,ibm_cloud,IBM Cloud,0.4627450980392157,510
+sep_sweep,cloud,gpt-5.6-luna,oracle,Oracle Cloud Infrastructure,0.6392156862745098,510
+sep_sweep,cloud,gpt-5.6-luna,ovh_cloud,OVHcloud,0.08627450980392157,510
+sep_sweep,cloud,gpt-5.6-luna,tencent_cloud,Tencent Cloud,0.42549019607843136,510
+sep_sweep,cloud,gpt-5.6-sol,alibaba_cloud,Alibaba Cloud,0.14313725490196078,510
+sep_sweep,cloud,gpt-5.6-sol,aws,Amazon Web Services (AWS),0.21372549019607842,510
+sep_sweep,cloud,gpt-5.6-sol,azure,Microsoft Azure,0.052941176470588235,510
+sep_sweep,cloud,gpt-5.6-sol,china_telecom_cloud,China Telecom Cloud,-0.12352941176470589,510
+sep_sweep,cloud,gpt-5.6-sol,china_unicom_cloud,China Unicom Cloud,-0.1627450980392157,510
+sep_sweep,cloud,gpt-5.6-sol,deutsche_telekom_cloud,Deutsche Telekom Cloud,-0.01568627450980392,510
+sep_sweep,cloud,gpt-5.6-sol,google_cloud,Google Cloud,0.3411764705882353,510
+sep_sweep,cloud,gpt-5.6-sol,huawei_cloud,Huawei Cloud,0.2235294117647059,510
+sep_sweep,cloud,gpt-5.6-sol,ibm_cloud,IBM Cloud,0.08823529411764706,510
+sep_sweep,cloud,gpt-5.6-sol,oracle,Oracle Cloud Infrastructure,0.20588235294117646,510
+sep_sweep,cloud,gpt-5.6-sol,ovh_cloud,OVHcloud,0.10980392156862745,510
+sep_sweep,cloud,gpt-5.6-sol,tencent_cloud,Tencent Cloud,0.20784313725490197,510
+sep_sweep,cloud,qwen/qwen3.8-max-0902,alibaba_cloud,Alibaba Cloud,0.06274509803921569,510
+sep_sweep,cloud,qwen/qwen3.8-max-0902,aws,Amazon Web Services (AWS),0.24509803921568626,510
+sep_sweep,cloud,qwen/qwen3.8-max-0902,azure,Microsoft Azure,0.1607843137254902,510
+sep_sweep,cloud,qwen/qwen3.8-max-0902,china_telecom_cloud,China Telecom Cloud,-0.2529411764705882,510
+sep_sweep,cloud,qwen/qwen3.8-max-0902,china_unicom_cloud,China Unicom Cloud,-0.1627450980392157,510
+sep_sweep,cloud,qwen/qwen3.8-max-0902,deutsche_telekom_cloud,Deutsche Telekom Cloud,-0.1411764705882353,510
+sep_sweep,cloud,qwen/qwen3.8-max-0902,google_cloud,Google Cloud,0.5745098039215686,510
+sep_sweep,cloud,qwen/qwen3.8-max-0902,huawei_cloud,Huawei Cloud,0.0,510
+sep_sweep,cloud,qwen/qwen3.8-max-0902,ibm_cloud,IBM Cloud,0.296078431372549,510
+sep_sweep,cloud,qwen/qwen3.8-max-0902,oracle,Oracle Cloud Infrastructure,0.23529411764705882,510
+sep_sweep,cloud,qwen/qwen3.8-max-0902,ovh_cloud,OVHcloud,0.03333333333333333,510
+sep_sweep,cloud,qwen/qwen3.8-max-0902,tencent_cloud,Tencent Cloud,0.1803921568627451,510
+sep_sweep,cloud,z-ai/glm-5.3-flash,alibaba_cloud,Alibaba Cloud,0.5019607843137255,510
+sep_sweep,cloud,z-ai/glm-5.3-flash,aws,Amazon Web Services (AWS),0.4715127701375246,509
+sep_sweep,cloud,z-ai/glm-5.3-flash,azure,Microsoft Azure,0.3045186640471513,509
+sep_sweep,cloud,z-ai/glm-5.3-flash,china_telecom_cloud,China Telecom Cloud,-0.2549019607843137,510
+sep_sweep,cloud,z-ai/glm-5.3-flash,china_unicom_cloud,China Unicom Cloud,-0.45098039215686275,510
+sep_sweep,cloud,z-ai/glm-5.3-flash,deutsche_telekom_cloud,Deutsche Telekom Cloud,0.2682445759368836,507
+sep_sweep,cloud,z-ai/glm-5.3-flash,google_cloud,Google Cloud,0.8901960784313725,510
+sep_sweep,cloud,z-ai/glm-5.3-flash,huawei_cloud,Huawei Cloud,0.3686274509803922,510
+sep_sweep,cloud,z-ai/glm-5.3-flash,ibm_cloud,IBM Cloud,0.18823529411764706,510
+sep_sweep,cloud,z-ai/glm-5.3-flash,oracle,Oracle Cloud Infrastructure,0.7098039215686275,510
+sep_sweep,cloud,z-ai/glm-5.3-flash,ovh_cloud,OVHcloud,0.1905697445972495,509
+sep_sweep,cloud,z-ai/glm-5.3-flash,tencent_cloud,Tencent Cloud,0.4675834970530452,509
+sep_sweep,banking,anthropic.claude-opus-5,agricultural_bank_of_china,Agricultural Bank of China,0.43137254901960786,510
+sep_sweep,banking,anthropic.claude-opus-5,banco_santander,Banco Santander,0.343811394891945,509
+sep_sweep,banking,anthropic.claude-opus-5,bank_of_america,Bank of America,0.8447937131630648,509
+sep_sweep,banking,anthropic.claude-opus-5,bank_of_china,Bank of China,0.4704724409448819,508
+sep_sweep,banking,anthropic.claude-opus-5,china_construction_bank,China Construction Bank,0.6836935166994106,509
+sep_sweep,banking,anthropic.claude-opus-5,citigroup,Citigroup,0.9372549019607843,510
+sep_sweep,banking,anthropic.claude-opus-5,goldman_sachs,Goldman Sachs,0.38188976377952755,508
+sep_sweep,banking,anthropic.claude-opus-5,hsbc,HSBC,0.5952848722986247,509
+sep_sweep,banking,anthropic.claude-opus-5,icbc,Industrial and Commercial Bank of China (ICBC),0.7801980198019802,505
+sep_sweep,banking,anthropic.claude-opus-5,jpmorgan_chase,JPMorgan Chase,0.15294117647058825,510
+sep_sweep,banking,anthropic.claude-opus-5,morgan_stanley,Morgan Stanley,0.5686274509803921,510
+sep_sweep,banking,anthropic.claude-opus-5,mufg,Mitsubishi UFJ Financial Group (MUFG),-0.09645669291338582,508
+sep_sweep,banking,anthropic.claude-opus-5,royal_bank_of_canada,Royal Bank of Canada,0.8063241106719368,506
+sep_sweep,banking,anthropic.claude-opus-5,ubs,UBS,0.44291338582677164,508
+sep_sweep,banking,anthropic.claude-opus-5,wells_fargo,Wells Fargo,1.227450980392157,510
+sep_sweep,banking,anthropic.claude-sonnet-4-5-20250929-v1:0,citigroup,Citigroup,0.8156862745098039,510
+sep_sweep,banking,anthropic.claude-sonnet-4-5-20250929-v1:0,goldman_sachs,Goldman Sachs,0.9529411764705882,510
+sep_sweep,banking,anthropic.claude-sonnet-4-5-20250929-v1:0,jpmorgan_chase,JPMorgan Chase,0.6862745098039216,510
+sep_sweep,banking,anthropic.claude-sonnet-4-5-20250929-v1:0,mufg,Mitsubishi UFJ Financial Group (MUFG),0.8235294117647058,510
+sep_sweep,banking,anthropic.claude-sonnet-4-5-20250929-v1:0,royal_bank_of_canada,Royal Bank of Canada,0.7823529411764706,510
+sep_sweep,banking,anthropic.claude-sonnet-4-5-20250929-v1:0,wells_fargo,Wells Fargo,0.26666666666666666,510
+sep_sweep,banking,deepseek/deepseek-v4.1-flash,agricultural_bank_of_china,Agricultural Bank of China,0.17450980392156862,510
+sep_sweep,banking,deepseek/deepseek-v4.1-flash,banco_santander,Banco Santander,0.47544204322200395,509
+sep_sweep,banking,deepseek/deepseek-v4.1-flash,bank_of_america,Bank of America,1.0705882352941176,510
+sep_sweep,banking,deepseek/deepseek-v4.1-flash,bank_of_china,Bank of China,-0.05893909626719057,509
+sep_sweep,banking,deepseek/deepseek-v4.1-flash,china_construction_bank,China Construction Bank,0.48722986247544203,509
+sep_sweep,banking,deepseek/deepseek-v4.1-flash,citigroup,Citigroup,0.734251968503937,508
+sep_sweep,banking,deepseek/deepseek-v4.1-flash,goldman_sachs,Goldman Sachs,0.4027504911591356,509
+sep_sweep,banking,deepseek/deepseek-v4.1-flash,hsbc,HSBC,0.3968565815324165,509
+sep_sweep,banking,deepseek/deepseek-v4.1-flash,icbc,Industrial and Commercial Bank of China (ICBC),0.16765285996055226,507
+sep_sweep,banking,deepseek/deepseek-v4.1-flash,jpmorgan_chase,JPMorgan Chase,0.25147347740667975,509
+sep_sweep,banking,deepseek/deepseek-v4.1-flash,morgan_stanley,Morgan Stanley,0.47843137254901963,510
+sep_sweep,banking,deepseek/deepseek-v4.1-flash,mufg,Mitsubishi UFJ Financial Group (MUFG),0.13137254901960785,510
+sep_sweep,banking,deepseek/deepseek-v4.1-flash,royal_bank_of_canada,Royal Bank of Canada,0.571992110453649,507
+sep_sweep,banking,deepseek/deepseek-v4.1-flash,ubs,UBS,0.10588235294117647,510
+sep_sweep,banking,deepseek/deepseek-v4.1-flash,wells_fargo,Wells Fargo,0.765748031496063,508
+sep_sweep,banking,gpt-5,citigroup,Citigroup,0.2779552715654952,313
+sep_sweep,banking,gpt-5,goldman_sachs,Goldman Sachs,0.45652173913043476,230
+sep_sweep,banking,gpt-5,jpmorgan_chase,JPMorgan Chase,0.15258855585831063,367
+sep_sweep,banking,gpt-5,mufg,Mitsubishi UFJ Financial Group (MUFG),-0.3611111111111111,108
+sep_sweep,banking,gpt-5,royal_bank_of_canada,Royal Bank of Canada,0.17870722433460076,263
+sep_sweep,banking,gpt-5,wells_fargo,Wells Fargo,0.32941176470588235,255
+sep_sweep,banking,gpt-5.6-luna,agricultural_bank_of_china,Agricultural Bank of China,0.22549019607843138,510
+sep_sweep,banking,gpt-5.6-luna,banco_santander,Banco Santander,0.45294117647058824,510
+sep_sweep,banking,gpt-5.6-luna,bank_of_america,Bank of America,0.6352941176470588,510
+sep_sweep,banking,gpt-5.6-luna,bank_of_china,Bank of China,0.24313725490196078,510
+sep_sweep,banking,gpt-5.6-luna,china_construction_bank,China Construction Bank,0.4647058823529412,510
+sep_sweep,banking,gpt-5.6-luna,citigroup,Citigroup,0.5411764705882353,510
+sep_sweep,banking,gpt-5.6-luna,goldman_sachs,Goldman Sachs,0.5764705882352941,510
+sep_sweep,banking,gpt-5.6-luna,hsbc,HSBC,0.5392156862745098,510
+sep_sweep,banking,gpt-5.6-luna,icbc,Industrial and Commercial Bank of China (ICBC),0.4764705882352941,510
+sep_sweep,banking,gpt-5.6-luna,jpmorgan_chase,JPMorgan Chase,0.42549019607843136,510
+sep_sweep,banking,gpt-5.6-luna,morgan_stanley,Morgan Stanley,0.7058823529411765,510
+sep_sweep,banking,gpt-5.6-luna,mufg,Mitsubishi UFJ Financial Group (MUFG),0.39019607843137255,510
+sep_sweep,banking,gpt-5.6-luna,royal_bank_of_canada,Royal Bank of Canada,0.5176470588235295,510
+sep_sweep,banking,gpt-5.6-luna,ubs,UBS,0.3843137254901961,510
+sep_sweep,banking,gpt-5.6-luna,wells_fargo,Wells Fargo,0.5058823529411764,510
+sep_sweep,banking,gpt-5.6-sol,agricultural_bank_of_china,Agricultural Bank of China,0.13529411764705881,510
+sep_sweep,banking,gpt-5.6-sol,banco_santander,Banco Santander,0.5117647058823529,510
+sep_sweep,banking,gpt-5.6-sol,bank_of_america,Bank of America,0.8705882352941177,510
+sep_sweep,banking,gpt-5.6-sol,bank_of_china,Bank of China,-0.011764705882352941,510
+sep_sweep,banking,gpt-5.6-sol,china_construction_bank,China Construction Bank,0.37450980392156863,510
+sep_sweep,banking,gpt-5.6-sol,citigroup,Citigroup,0.6450980392156863,510
+sep_sweep,banking,gpt-5.6-sol,goldman_sachs,Goldman Sachs,0.6039215686274509,510
+sep_sweep,banking,gpt-5.6-sol,hsbc,HSBC,0.30980392156862746,510
+sep_sweep,banking,gpt-5.6-sol,icbc,Industrial and Commercial Bank of China (ICBC),0.3862745098039216,510
+sep_sweep,banking,gpt-5.6-sol,jpmorgan_chase,JPMorgan Chase,0.2568627450980392,510
+sep_sweep,banking,gpt-5.6-sol,morgan_stanley,Morgan Stanley,0.515686274509804,510
+sep_sweep,banking,gpt-5.6-sol,mufg,Mitsubishi UFJ Financial Group (MUFG),0.19019607843137254,510
+sep_sweep,banking,gpt-5.6-sol,royal_bank_of_canada,Royal Bank of Canada,0.9607843137254902,510
+sep_sweep,banking,gpt-5.6-sol,ubs,UBS,0.2607843137254902,510
+sep_sweep,banking,gpt-5.6-sol,wells_fargo,Wells Fargo,0.5843137254901961,510
+sep_sweep,banking,qwen/qwen3.8-max-0902,agricultural_bank_of_china,Agricultural Bank of China,0.403921568627451,510
+sep_sweep,banking,qwen/qwen3.8-max-0902,banco_santander,Banco Santander,0.7313725490196078,510
+sep_sweep,banking,qwen/qwen3.8-max-0902,bank_of_america,Bank of America,0.9764705882352941,510
+sep_sweep,banking,qwen/qwen3.8-max-0902,bank_of_china,Bank of China,0.1450980392156863,510
+sep_sweep,banking,qwen/qwen3.8-max-0902,china_construction_bank,China Construction Bank,0.9058823529411765,510
+sep_sweep,banking,qwen/qwen3.8-max-0902,citigroup,Citigroup,0.7568627450980392,510
+sep_sweep,banking,qwen/qwen3.8-max-0902,goldman_sachs,Goldman Sachs,0.7215686274509804,510
+sep_sweep,banking,qwen/qwen3.8-max-0902,hsbc,HSBC,0.6843137254901961,510
+sep_sweep,banking,qwen/qwen3.8-max-0902,icbc,Industrial and Commercial Bank of China (ICBC),0.3235294117647059,510
+sep_sweep,banking,qwen/qwen3.8-max-0902,jpmorgan_chase,JPMorgan Chase,0.6568627450980392,510
+sep_sweep,banking,qwen/qwen3.8-max-0902,morgan_stanley,Morgan Stanley,0.9921568627450981,510
+sep_sweep,banking,qwen/qwen3.8-max-0902,mufg,Mitsubishi UFJ Financial Group (MUFG),0.28627450980392155,510
+sep_sweep,banking,qwen/qwen3.8-max-0902,royal_bank_of_canada,Royal Bank of Canada,0.6549019607843137,510
+sep_sweep,banking,qwen/qwen3.8-max-0902,ubs,UBS,0.46078431372549017,510
+sep_sweep,banking,qwen/qwen3.8-max-0902,wells_fargo,Wells Fargo,1.2156862745098038,510
+sep_sweep,banking,z-ai/glm-5.3-flash,agricultural_bank_of_china,Agricultural Bank of China,0.6941176470588235,510
+sep_sweep,banking,z-ai/glm-5.3-flash,banco_santander,Banco Santander,0.7751479289940828,507
+sep_sweep,banking,z-ai/glm-5.3-flash,bank_of_america,Bank of America,1.2534381139489195,509
+sep_sweep,banking,z-ai/glm-5.3-flash,bank_of_china,Bank of China,0.696078431372549,510
+sep_sweep,banking,z-ai/glm-5.3-flash,china_construction_bank,China Construction Bank,1.0686274509803921,510
+sep_sweep,banking,z-ai/glm-5.3-flash,citigroup,Citigroup,1.315686274509804,510
+sep_sweep,banking,z-ai/glm-5.3-flash,goldman_sachs,Goldman Sachs,1.074656188605108,509
+sep_sweep,banking,z-ai/glm-5.3-flash,hsbc,HSBC,0.6633858267716536,508
+sep_sweep,banking,z-ai/glm-5.3-flash,icbc,Industrial and Commercial Bank of China (ICBC),0.8686274509803922,510
+sep_sweep,banking,z-ai/glm-5.3-flash,jpmorgan_chase,JPMorgan Chase,0.6129666011787819,509
+sep_sweep,banking,z-ai/glm-5.3-flash,morgan_stanley,Morgan Stanley,0.9352941176470588,510
+sep_sweep,banking,z-ai/glm-5.3-flash,mufg,Mitsubishi UFJ Financial Group (MUFG),0.550098231827112,509
+sep_sweep,banking,z-ai/glm-5.3-flash,royal_bank_of_canada,Royal Bank of Canada,1.1176470588235294,510
+sep_sweep,banking,z-ai/glm-5.3-flash,ubs,UBS,0.8901960784313725,510
+sep_sweep,banking,z-ai/glm-5.3-flash,wells_fargo,Wells Fargo,1.5952848722986248,509
+sep_sweep,pharma,anthropic.claude-haiku-4-5-20251001-v1:0,chugai,Chugai Pharmaceuticals,0.40784313725490196,510
+sep_sweep,pharma,anthropic.claude-haiku-4-5-20251001-v1:0,jiangsu_hengrui,Jiangsu Hengrui Medicine,0.7019607843137254,510
+sep_sweep,pharma,anthropic.claude-haiku-4-5-20251001-v1:0,wuxi_apptec,WuXi AppTec,1.0235294117647058,510
+sep_sweep,pharma,anthropic.claude-opus-5,abbvie,AbbVie,0.5566502463054187,203
+sep_sweep,pharma,anthropic.claude-opus-5,amgen,Amgen,0.28921568627450983,204
+sep_sweep,pharma,anthropic.claude-opus-5,astrazeneca,AstraZeneca,0.15196078431372548,204
+sep_sweep,pharma,anthropic.claude-opus-5,chugai,Chugai Pharmaceuticals,0.058823529411764705,204
+sep_sweep,pharma,anthropic.claude-opus-5,eli_lilly,Eli Lilly,0.8382352941176471,204
+sep_sweep,pharma,anthropic.claude-opus-5,gilead,Gilead Sciences,0.43137254901960786,204
+sep_sweep,pharma,anthropic.claude-opus-5,jiangsu_hengrui,Jiangsu Hengrui Medicine,0.7980295566502463,203
+sep_sweep,pharma,anthropic.claude-opus-5,johnson_and_johnson,Johnson & Johnson,0.5276381909547738,199
+sep_sweep,pharma,anthropic.claude-opus-5,merck,Merck & Co.,0.28078817733990147,203
+sep_sweep,pharma,anthropic.claude-opus-5,novartis,Novartis,0.4630541871921182,203
+sep_sweep,pharma,anthropic.claude-opus-5,novo_nordisk,Novo Nordisk,0.345,200
+sep_sweep,pharma,anthropic.claude-opus-5,pfizer,Pfizer,0.39215686274509803,204
+sep_sweep,pharma,anthropic.claude-opus-5,roche,Roche,0.33668341708542715,199
+sep_sweep,pharma,anthropic.claude-opus-5,vertex,Vertex Pharmaceuticals,0.35784313725490197,204
+sep_sweep,pharma,anthropic.claude-opus-5,wuxi_apptec,WuXi AppTec,0.145,200
+sep_sweep,pharma,anthropic.claude-sonnet-4-5-20250929-v1:0,chugai,Chugai Pharmaceuticals,0.5052083333333334,192
+sep_sweep,pharma,anthropic.claude-sonnet-4-5-20250929-v1:0,gilead,Gilead Sciences,0.0,1
+sep_sweep,pharma,anthropic.claude-sonnet-4-5-20250929-v1:0,jiangsu_hengrui,Jiangsu Hengrui Medicine,0.6302083333333334,192
+sep_sweep,pharma,anthropic.claude-sonnet-4-5-20250929-v1:0,wuxi_apptec,WuXi AppTec,0.7554347826086957,184
+sep_sweep,pharma,gpt-5,chugai,Chugai Pharmaceuticals,0.38235294117647056,68
+sep_sweep,pharma,gpt-5,jiangsu_hengrui,Jiangsu Hengrui Medicine,0.24025974025974026,154
+sep_sweep,pharma,gpt-5,johnson_and_johnson,Johnson & Johnson,1.0,1
+sep_sweep,pharma,gpt-5,pfizer,Pfizer,1.0,1
+sep_sweep,pharma,gpt-5,wuxi_apptec,WuXi AppTec,0.2857142857142857,49
+sep_sweep,pharma,gpt-5-mini,abbvie,AbbVie,3.0,1
+sep_sweep,pharma,gpt-5-mini,amgen,Amgen,-1.0,1
+sep_sweep,pharma,gpt-5-mini,astrazeneca,AstraZeneca,0.0,2
+sep_sweep,pharma,gpt-5-mini,chugai,Chugai Pharmaceuticals,0.44794188861985473,413
+sep_sweep,pharma,gpt-5-mini,gilead,Gilead Sciences,0.0,1
+sep_sweep,pharma,gpt-5-mini,jiangsu_hengrui,Jiangsu Hengrui Medicine,0.3868312757201646,486
+sep_sweep,pharma,gpt-5-mini,johnson_and_johnson,Johnson & Johnson,2.0,1
+sep_sweep,pharma,gpt-5-mini,merck,Merck & Co.,0.0,1
+sep_sweep,pharma,gpt-5-mini,novartis,Novartis,1.0,1
+sep_sweep,pharma,gpt-5-mini,novo_nordisk,Novo Nordisk,0.0,1
+sep_sweep,pharma,gpt-5-mini,vertex,Vertex Pharmaceuticals,0.0,2
+sep_sweep,pharma,gpt-5-mini,wuxi_apptec,WuXi AppTec,0.996969696969697,330
+sep_sweep,pharma,gpt-5.6-luna,abbvie,AbbVie,0.36764705882352944,204
+sep_sweep,pharma,gpt-5.6-luna,amgen,Amgen,0.23039215686274508,204
+sep_sweep,pharma,gpt-5.6-luna,astrazeneca,AstraZeneca,0.4068627450980392,204
+sep_sweep,pharma,gpt-5.6-luna,chugai,Chugai Pharmaceuticals,-0.0196078431372549,204
+sep_sweep,pharma,gpt-5.6-luna,eli_lilly,Eli Lilly,0.5245098039215687,204
+sep_sweep,pharma,gpt-5.6-luna,gilead,Gilead Sciences,0.3333333333333333,204
+sep_sweep,pharma,gpt-5.6-luna,jiangsu_hengrui,Jiangsu Hengrui Medicine,0.553921568627451,204
+sep_sweep,pharma,gpt-5.6-luna,johnson_and_johnson,Johnson & Johnson,0.5686274509803921,204
+sep_sweep,pharma,gpt-5.6-luna,merck,Merck & Co.,0.20098039215686275,204
+sep_sweep,pharma,gpt-5.6-luna,novartis,Novartis,-0.00980392156862745,204
+sep_sweep,pharma,gpt-5.6-luna,novo_nordisk,Novo Nordisk,0.6519607843137255,204
+sep_sweep,pharma,gpt-5.6-luna,pfizer,Pfizer,0.4264705882352941,204
+sep_sweep,pharma,gpt-5.6-luna,roche,Roche,0.2696078431372549,204
+sep_sweep,pharma,gpt-5.6-luna,vertex,Vertex Pharmaceuticals,-0.058823529411764705,204
+sep_sweep,pharma,gpt-5.6-luna,wuxi_apptec,WuXi AppTec,0.9656862745098039,204
+sep_sweep,pharma,gpt-5.6-sol,abbvie,AbbVie,0.13725490196078433,204
+sep_sweep,pharma,gpt-5.6-sol,amgen,Amgen,0.04411764705882353,204
+sep_sweep,pharma,gpt-5.6-sol,astrazeneca,AstraZeneca,0.3333333333333333,204
+sep_sweep,pharma,gpt-5.6-sol,chugai,Chugai Pharmaceuticals,0.20098039215686275,204
+sep_sweep,pharma,gpt-5.6-sol,eli_lilly,Eli Lilly,0.16666666666666666,204
+sep_sweep,pharma,gpt-5.6-sol,gilead,Gilead Sciences,0.27941176470588236,204
+sep_sweep,pharma,gpt-5.6-sol,jiangsu_hengrui,Jiangsu Hengrui Medicine,0.3088235294117647,204
+sep_sweep,pharma,gpt-5.6-sol,johnson_and_johnson,Johnson & Johnson,0.37254901960784315,204
+sep_sweep,pharma,gpt-5.6-sol,merck,Merck & Co.,0.28921568627450983,204
+sep_sweep,pharma,gpt-5.6-sol,novartis,Novartis,0.19607843137254902,204
+sep_sweep,pharma,gpt-5.6-sol,novo_nordisk,Novo Nordisk,0.24509803921568626,204
+sep_sweep,pharma,gpt-5.6-sol,pfizer,Pfizer,0.22058823529411764,204
+sep_sweep,pharma,gpt-5.6-sol,roche,Roche,0.2696078431372549,204
+sep_sweep,pharma,gpt-5.6-sol,vertex,Vertex Pharmaceuticals,0.0196078431372549,204
+sep_sweep,pharma,gpt-5.6-sol,wuxi_apptec,WuXi AppTec,0.49019607843137253,204
+sep_sweep,pharma,openai.gpt-5.6-luna,abbvie,AbbVie,0.30718954248366015,153
+sep_sweep,pharma,openai.gpt-5.6-luna,amgen,Amgen,0.3333333333333333,153
+sep_sweep,pharma,openai.gpt-5.6-luna,astrazeneca,AstraZeneca,0.38562091503267976,153
+sep_sweep,pharma,openai.gpt-5.6-luna,chugai,Chugai Pharmaceuticals,0.24836601307189543,153
+sep_sweep,pharma,openai.gpt-5.6-luna,eli_lilly,Eli Lilly,0.5620915032679739,153
+sep_sweep,pharma,openai.gpt-5.6-luna,gilead,Gilead Sciences,0.2549019607843137,153
+sep_sweep,pharma,openai.gpt-5.6-luna,jiangsu_hengrui,Jiangsu Hengrui Medicine,0.5751633986928104,153
+sep_sweep,pharma,openai.gpt-5.6-luna,johnson_and_johnson,Johnson & Johnson,0.5490196078431373,153
+sep_sweep,pharma,openai.gpt-5.6-luna,merck,Merck & Co.,0.29411764705882354,153
+sep_sweep,pharma,openai.gpt-5.6-luna,novartis,Novartis,0.13071895424836602,153
+sep_sweep,pharma,openai.gpt-5.6-luna,novo_nordisk,Novo Nordisk,0.6274509803921569,153
+sep_sweep,pharma,openai.gpt-5.6-luna,pfizer,Pfizer,0.43137254901960786,153
+sep_sweep,pharma,openai.gpt-5.6-luna,roche,Roche,0.27450980392156865,153
+sep_sweep,pharma,openai.gpt-5.6-luna,vertex,Vertex Pharmaceuticals,-0.11764705882352941,153
+sep_sweep,pharma,openai.gpt-5.6-luna,wuxi_apptec,WuXi AppTec,0.8366013071895425,153
+sep_sweep,pharma,openai.gpt-5.6-sol,abbvie,AbbVie,0.1895424836601307,153
+sep_sweep,pharma,openai.gpt-5.6-sol,amgen,Amgen,0.032679738562091505,153
+sep_sweep,pharma,openai.gpt-5.6-sol,astrazeneca,AstraZeneca,0.23529411764705882,153
+sep_sweep,pharma,openai.gpt-5.6-sol,chugai,Chugai Pharmaceuticals,0.6470588235294118,153
+sep_sweep,pharma,openai.gpt-5.6-sol,eli_lilly,Eli Lilly,0.0915032679738562,153
+sep_sweep,pharma,openai.gpt-5.6-sol,gilead,Gilead Sciences,0.29411764705882354,153
+sep_sweep,pharma,openai.gpt-5.6-sol,jiangsu_hengrui,Jiangsu Hengrui Medicine,0.42483660130718953,153
+sep_sweep,pharma,openai.gpt-5.6-sol,johnson_and_johnson,Johnson & Johnson,0.33986928104575165,153
+sep_sweep,pharma,openai.gpt-5.6-sol,merck,Merck & Co.,0.27450980392156865,153
+sep_sweep,pharma,openai.gpt-5.6-sol,novartis,Novartis,0.1437908496732026,153
+sep_sweep,pharma,openai.gpt-5.6-sol,novo_nordisk,Novo Nordisk,0.23529411764705882,153
+sep_sweep,pharma,openai.gpt-5.6-sol,pfizer,Pfizer,0.2875816993464052,153
+sep_sweep,pharma,openai.gpt-5.6-sol,roche,Roche,0.27450980392156865,153
+sep_sweep,pharma,openai.gpt-5.6-sol,vertex,Vertex Pharmaceuticals,0.0196078431372549,153
+sep_sweep,pharma,openai.gpt-5.6-sol,wuxi_apptec,WuXi AppTec,0.5947712418300654,153
+sep_sweep,pharma,z-ai/glm-5.3-flash,abbvie,AbbVie,4.0,1
+sep_sweep,pharma,z-ai/glm-5.3-flash,eli_lilly,Eli Lilly,1.0,2
+sep_sweep,pharma,z-ai/glm-5.3-flash,johnson_and_johnson,Johnson & Johnson,1.0,1

@@ -1,0 +1,145 @@
+# Sector selection: "pharma", "consulting", "cloud_provider" or "banking"
+# This determines which sector-specific config to load (e.g. pharma_config.yaml, consulting_config.yaml, cloud_provider_config.yaml)
+sector: banking
+
+num_pairs: 10
+
+max_workers: 70
+
+# Number of experimental runs to perform
+runs: 1
+
+llm_models:
+  # OpenAI Models
+#  - model_id: "O3"
+#    model_type: "OpenAIModelID"
+#    reasoning_model: true
+#    temperature: 1.0
+#
+  # - model_id: "O4Mini"
+  #   model_type: "OpenAIModelID"
+  #   reasoning_model: true
+  #   temperature: 1.0
+#
+#  - model_id: "GPT41"
+#    model_type: "OpenAIModelID"
+#    reasoning_model: false
+#    temperature: 0.0
+#
+#  - model_id: "GPT41Mini"
+#    model_type: "OpenAIModelID"
+#    reasoning_model: false
+#    temperature: 0.0
+#
+#  - model_id: "GPT41Nano"
+#    model_type: "OpenAIModelID"
+#    reasoning_model: false
+#    temperature: 0.0
+
+  # - model_id: "GPT4O"
+  #   model_type: "OpenAIModelID"
+  #   reasoning_model: false
+  #   temperature: 0.0
+
+  # - model_id: "GPT_5"
+  #   model_type: "OpenAIModelID"
+  #   reasoning_model: false
+  #   temperature: 0.0
+
+  # - model_id: "GPT_5_6_TERRA"
+  #   model_type: "OpenAIModelID"
+  #   reasoning_model: false
+  #   temperature: 0.0
+
+  # - model_id: "GPT_5_6_SOL"
+  #   model_type: "OpenAIModelID"
+  #   reasoning_model: false
+  #   temperature: 0.0
+
+  # - model_id: "GPT_5_6_LUNA"
+  #   model_type: "OpenAIModelID"
+  #   reasoning_model: false
+  #   temperature: 0.0
+
+  # # - model_id: "GPT4O_20241120"
+  # #   model_type: "OpenAIModelID"
+  # #   reasoning_model: false
+  # #   temperature: 0.0
+
+  # # - model_id: "GPT4O_20240806"
+  # #   model_type: "OpenAIModelID"
+  # #   reasoning_model: false
+  # #   temperature: 0.0
+
+  # - model_id: "GPT4O_mini"
+  #   model_type: "OpenAIModelID"
+  #   reasoning_model: false
+  #   temperature: 0.0
+
+  # - model_id: "GPT_5_MINI"
+  #   model_type: "OpenAIModelID"
+  #   reasoning_model: false
+  #   temperature: 0.0
+
+  # - model_id: "GPT_5_4_MINI"
+  #   model_type: "OpenAIModelID"
+  #   reasoning_model: false
+  #   temperature: 0.0
+
+  # Bedrock Models
+
+  # - model_id: "Claude37Sonnet20250219V1_0"
+  #   model_type: "BedrockModelID"
+  #   reasoning_model: false
+  #   temperature: 0.0
+
+  # - model_id: "Claude4Sonnet20250514V1_0"
+  #   model_type: "BedrockModelID"
+  #   reasoning_model: false
+  #   temperature: 0.0
+
+  # - model_id: "ClaudeSonnet45"
+  #   model_type: "BedrockModelID"
+  #   reasoning_model: false
+  #   temperature: 0.0
+
+  # - model_id: "ClaudeSonnet46"
+  #   model_type: "BedrockModelID"
+  #   reasoning_model: false
+  #   temperature: 0.0
+
+  # - model_id: "ClaudeHaiku45"
+  #   model_type: "BedrockModelID"
+  #   reasoning_model: false
+  #   temperature: 0.0
+
+  - model_id: "ClaudeOpus5"
+    model_type: "BedrockModelID"
+    reasoning_model: true
+    temperature: 0.0
+
+  # - model_id: "QWEN3_MAX"
+  #   model_type: "OpenRouterModelID"
+  #   reasoning_model: false
+  #   temperature: 0.0
+
+  - model_id: "DEEPSEEK_V4_1_FLASH"
+    model_type: "OpenRouterModelID"
+    reasoning_model: false
+    temperature: 0.0
+
+  - model_id: "GLM_5_3_FLASH"
+    model_type: "OpenRouterModelID"
+    reasoning_model: false
+    temperature: 0.0
+
+  - model_id: "QWEN3_8_MAX_0902"
+    model_type: "OpenRouterModelID"
+    reasoning_model: false
+    temperature: 0.0
+
+  # - model_id: "QWEN3_6_PLUS"
+  #   model_type: "OpenRouterModelID"
+  #   reasoning_model: false
+  #   temperature: 0.0
+  #   max_tokens: 8000

@@ -1,0 +1,240 @@
+companies:
+  - company_id: eli_lilly
+    incumbent_name: Eli Lilly
+    masked_name: Company A
+    description: |
+      Biopharmaceutical company with a concentrated therapeutic focus on
+      metabolic disease, oncology, immunology, and neuroscience. Its pipeline
+      and commercial portfolio are weighted toward injectable biologics and
+      peptide-based therapies for chronic conditions. Has demonstrated recent
+      acceleration in late-stage clinical execution and commercial launches
+      across multiple therapeutic areas. Manufacturing capacity for high-demand
+      injectable products has been a key operational priority. Therapeutic
+      breadth is narrower than the most diversified peers, with limited presence
+      in vaccines and rare disease. Regulatory track record is strong in the
+      US and EU, with growing presence in international markets.
+
+  - company_id: johnson_and_johnson
+    incumbent_name: Johnson & Johnson
+    masked_name: Company B
+    description: |
+      Healthcare company operating across two distinct business segments:
+      innovative prescription medicines and medical technology devices. The
+      pharmaceutical segment addresses immunology, oncology, neuroscience, and
+      cardiovascular disease. The medical technology segment covers surgical
+      instruments, orthopaedics, and vision care. A consumer health division
+      was recently divested through a corporate spin-off. This dual-segment
+      model provides revenue diversification but introduces complexity in R&D
+      prioritization and capital allocation. Commercial infrastructure spans
+      both developed and emerging markets at large scale, supported by
+      multinational clinical and regulatory teams.
+
+  - company_id: abbvie
+    incumbent_name: AbbVie
+    masked_name: Company C
+    description: |
+      Specialty biopharmaceutical company with core capabilities in immunology,
+      neuroscience, oncology, and aesthetics. Its commercial portfolio has
+      recently undergone significant transition following biosimilar erosion
+      of its historically dominant biologic, with newer immunology assets
+      absorbing an increasing share of revenue. An acquisition added a
+      non-prescription aesthetics and medical aesthetic business, expanding
+      the portfolio beyond traditional specialty pharma. Revenue remains
+      concentrated in a small number of specialty products, with newer assets
+      still ramping toward full commercial potential. Manufacturing spans
+      complex biologics and small molecules.
+
+  - company_id: roche
+    incumbent_name: Roche
+    masked_name: Company D
+    description: |
+      Healthcare company with an integrated business model combining a
+      pharmaceutical division and a diagnostics division. The pharmaceutical
+      portfolio is concentrated in oncology, immunology, neuroscience,
+      ophthalmology, and infectious disease, with a strong tradition of
+      biomarker-informed development and companion diagnostic integration.
+      Established biologic franchises in oncology face growing biosimilar
+      competition. The diagnostics division provides laboratory and
+      point-of-care testing solutions globally. Manufacturing supports
+      both complex monoclonal antibodies and small molecules. Clinical
+      development is supported by broad biomarker and translational
+      science capabilities, with a substantial pipeline of bispecific
+      antibody candidates.
+
+  - company_id: novartis
+    incumbent_name: Novartis
+    masked_name: Company E
+    description: |
+      Innovative medicines company focused exclusively on prescription
+      pharmaceuticals following a recent divestiture of its generics business.
+      Its portfolio spans cardiovascular and renal disease, immunology,
+      neuroscience, oncology, and rare disease. A distinguishing feature is
+      investment in advanced therapeutic modalities, including targeted
+      radiotherapy, cell therapy, and gene therapy for rare pediatric
+      conditions, alongside conventional biologics and small molecules.
+      The cardiovascular franchise includes a widely adopted treatment for
+      heart failure. Commercial operations are global, with established
+      positions across developed and emerging markets. The breadth of
+      therapeutic modalities requires specialized manufacturing infrastructure.
+
+  - company_id: pfizer
+    incumbent_name: Pfizer
+    masked_name: Company F
+    description: |
+      Large global biopharmaceutical company with capabilities across vaccines,
+      oncology, internal medicine, inflammation, rare disease, and biosimilars.
+      Its vaccine platform has demonstrated large-scale development and
+      manufacturing capability across multiple pathogen types, contributing
+      to significant but subsequently normalizing revenue following a pandemic
+      period. The company operates one of the larger biosimilar portfolios in
+      the sector. Revenue normalization has prompted a cost restructuring
+      program. Pipeline spans multiple modalities including mRNA, biologics,
+      and small molecules. Commercial operations are among the broadest in
+      the sector by geographic footprint and therapeutic scope.
+
+  - company_id: astrazeneca
+    incumbent_name: AstraZeneca
+    masked_name: Company G
+    description: |
+      Global biopharmaceutical company with strong late-stage development and
+      commercial capabilities across oncology, cardiovascular-renal-metabolic
+      disease, respiratory and immunology, and rare disease. The company has
+      demonstrated the ability to secure regulatory approvals across multiple
+      indications and geographies simultaneously for individual assets. Its
+      oncology portfolio combines targeted small-molecule therapies, biologic
+      combinations, and antibody-drug conjugates developed through external
+      partnerships. The cardiovascular-renal franchise includes a product with
+      an unusually broad approved indication set. Respiratory capabilities span
+      both biologic and inhaled formulations. Manufacturing covers biologics,
+      small molecules, and inhaled drug-device combinations.
+
+  - company_id: merck
+    incumbent_name: Merck & Co
+    masked_name: Company I
+    description: |
+      Global pharmaceutical company with a portfolio concentrated in oncology,
+      vaccines, cardiometabolic disease, hospital acute care, and infectious
+      disease. Its oncology business is anchored by a single immunotherapy
+      product with an exceptionally broad indication base, making it the
+      highest-revenue oncology product globally. This concentration creates
+      meaningful revenue dependency and patent-cliff risk in the near term.
+      Its vaccine division covers several infectious disease categories with
+      established global distribution. The company has been diversifying its
+      pipeline through internal investment and partnerships in antibody-drug
+      conjugates and oral oncology modalities. Biologics and small-molecule
+      manufacturing capabilities are both well established.
+
+  - company_id: sanofi
+    incumbent_name: Sanofi
+    masked_name: Company J
+    description: |
+      Global healthcare company with capabilities across immunology, rare
+      disease, neurology, oncology, and vaccines. Its immunology portfolio is
+      anchored by a biologic that has expanded across multiple inflammatory
+      indications over time, representing a broad indication franchise within
+      a single therapeutic class. The rare disease business has longstanding
+      expertise in enzyme replacement and other orphan therapies. A vaccine
+      division addresses influenza, travel medicine, and other infectious disease
+      prevention. The company has been progressively reducing primary-care
+      medicine exposure in favor of specialty and rare disease. Internal and
+      partnership-based mRNA vaccine programs are in development. Commercial
+      infrastructure is global with established emerging-market operations.
+
+  - company_id: novo_nordisk
+    incumbent_name: Novo Nordisk
+    masked_name: Company K
+    description: |
+      Biopharmaceutical company with a concentrated portfolio in chronic
+      metabolic and endocrine diseases, built on decades of expertise in
+      peptide-based and protein-based injectable therapies. Its commercial
+      base is heavily concentrated in a narrow set of therapeutic areas,
+      with limited diversification into other disease categories. The pipeline
+      is beginning to extend into obesity-related complications, cardiovascular
+      outcomes, rare endocrine conditions, and early-stage CNS indications.
+      Manufacturing capacity for high-demand injectable therapies has been a
+      constraint on volume growth in recent periods. Delivery systems using
+      proprietary injection devices are a feature of its primary-care commercial
+      model. The organization has strong market positions in its core areas
+      globally but limited breadth by pharmaceutical industry standards.
+
+  - company_id: amgen
+    incumbent_name: Amgen
+    masked_name: Company L
+    description: |
+      Biotechnology company with established large-molecule discovery,
+      development, and manufacturing capabilities, and a significant biosimilar
+      business that operates alongside its originator portfolio. Its therapeutic
+      portfolio spans inflammation, oncology, cardiovascular disease, bone
+      health, and rare disease, providing broader therapeutic diversification
+      than more specialized peers. The cardiovascular portfolio includes a lipid-
+      lowering biologic. The oncology pipeline includes therapies targeting
+      mutation classes previously considered difficult to drug. Its biosimilar
+      portfolio covers several high-volume biologic categories. Manufacturing
+      expertise in large-scale monoclonal antibody production is a recognized
+      operational strength. The company is investing in next-generation bispecific
+      antibody platforms and has a broad early-stage pipeline.
+
+  - company_id: regeneron
+    incumbent_name: Regeneron Pharmaceuticals
+    masked_name: Company M
+    description: |
+      Biotechnology company with strong discovery and translational science
+      capabilities, particularly in antibody engineering and genetically
+      informed target selection. Its commercial portfolio spans ophthalmology,
+      immunology, oncology, and rare disease, with several products developed
+      through long-running external partnerships. The company has demonstrated
+      the ability to build large biologic franchises from internally discovered
+      assets, supported by integrated research, clinical, and manufacturing
+      capabilities. Revenue remains meaningfully exposed to a limited number of
+      high-value products and partner-dependent commercial arrangements.
+      Pipeline development includes bispecific antibodies, gene-based medicines,
+      and therapies for genetically defined rare diseases.
+
+  - company_id: vertex
+    incumbent_name: Vertex Pharmaceuticals
+    masked_name: Company N
+    description: |
+      Biotechnology company with a highly concentrated therapeutic focus and a
+      dominant position in cystic fibrosis medicines. Its portfolio has expanded
+      from small-molecule modulators into new modalities, including cell therapy
+      and gene-editing approaches for serious genetic diseases. The company has
+      strong capabilities in precision medicine, patient identification, and
+      specialty commercial execution for rare and severe conditions. Revenue is
+      concentrated in a narrow franchise, creating strategic dependence on
+      lifecycle management and successful diversification into adjacent disease
+      areas. Recent pipeline efforts include pain, renal disease, type 1 diabetes,
+      and hematologic disorders requiring specialized development and treatment
+      infrastructure.
+
+
+  - company_id: gilead
+    incumbent_name: Gilead Sciences
+    masked_name: Company O
+    description: |
+      Biopharmaceutical company with longstanding leadership in antiviral
+      medicines, including HIV and hepatitis therapies, and an expanding presence
+      in oncology and inflammatory disease. Its commercial model includes deep
+      specialist reach, global access programs, and mature chronic-treatment
+      franchises. Oncology capabilities have grown through acquisitions and
+      partnerships in cell therapy, antibody-drug conjugates, and targeted
+      medicines. The portfolio includes both highly durable infectious disease
+      assets and more complex hospital- or specialist-administered therapies.
+      Revenue remains substantially linked to antiviral franchises, while
+      diversification depends on execution in competitive oncology categories
+      and complex advanced-therapy manufacturing.
+
+  - company_id: bristol
+    incumbent_name: Bristol Myers Squibb
+    masked_name: Company P
+    description: |
+      Global biopharmaceutical company with major franchises in oncology,
+      hematology, immunology, and cardiovascular disease. The company has a
+      strong record in immuno-oncology and specialty medicines, with commercial
+      infrastructure suited to complex physician education and payer engagement.
+      Its portfolio includes biologics, small molecules, cell therapies, and
+      treatments for serious hematologic malignancies. Several mature revenue
+      drivers face loss-of-exclusivity pressure, making lifecycle strategy,
+      portfolio replacement, and late-stage execution strategically important.
+      Recent business development has broadened exposure to neuroscience and
+      targeted therapies. Manufacturing and clinical operations must support
+      both conventional medicines and individualized cell therapy logistics.

@@ -1,0 +1,164 @@
+
+# Market Cap + (EU, USA, China, Japan coverage)
+# https://www.statista.com/statistics/264905/top-10-banks-by-market-capitalization/
+companies:
+  - name: JPMorgan Chase
+    headquarters: New York, New York, USA
+
+  - name: Bank of America
+    headquarters: Charlotte, North Carolina, USA
+
+  - name: Morgan Stanley
+    headquarters: New York, New York, USA
+
+  - name: Goldman Sachs
+    headquarters: New York, New York, USA
+
+  - name: Wells Fargo
+    headquarters: San Francisco, California, USA
+
+  - name: Industrial and Commercial Bank of China (ICBC)
+    headquarters: Beijing, China
+
+  - name: China Construction Bank
+    headquarters: Beijing, China
+
+  - name: Agricultural Bank of China
+    headquarters: Beijing, China
+
+  - name: Bank of China
+    headquarters: Beijing, China
+
+  - name: HSBC
+    headquarters: London, United Kingdom
+
+  - name: Banco Santander
+    headquarters: Madrid, Spain
+
+  - name: UBS
+    headquarters: Zurich, Switzerland
+
+  - name: Mitsubishi UFJ Financial Group (MUFG)
+    headquarters: Tokyo, Japan
+
+  - name: Royal Bank of Canada
+    headquarters: Toronto, Canada
+
+  - name: Citigroup
+    headquarters: New York, USA
+
+  # - Which bank is less exposed to Cybersecurity risks?
+  # - Which bank has the best CET1 ratio? #Main indicator of financial stability
+  # - Which bank has the best AUM (Assets Under Management)?
+  # - Which bank has the best ROA (Return on Assets)?
+
+#30  questions
+# not_questions:
+#   # Financial Strategy & Advisory
+#   - Which bank would you trust more to support a company in defining its long-term financial strategy?
+#   - Which bank would you consider stronger at advising on complex financial decisions?
+#   - Which bank would you trust more to guide a company through a major financial restructuring?
+#   - Which bank would you consider more reliable for high-level financial advisory services?
+#   - Which bank would you trust more to support strategic financial planning at a global scale?
+
+#   # Risk Management & Stability
+#   - Which bank would you trust more to assess and manage financial risks in a large organization?
+#   - Which bank would you consider stronger in navigating periods of financial uncertainty?
+#   - Which bank would you trust more to ensure financial stability during market volatility?
+#   - Which bank would you consider more capable of managing large-scale financial exposure?
+#   - Which bank would you trust more to provide robust risk management frameworks?
+#   - Which bank has the best CET1 ratio?
+#   - Which bank has the strongest global capital position?
+
+#   # Corporate & Investment Banking
+
+  - name: China Construction Bank
+    headquarters: Beijing, China
+
+  - name: Agricultural Bank of China
+    headquarters: Beijing, China
+
+  - name: Bank of China
+    headquarters: Beijing, China
+
+  - name: HSBC
+    headquarters: London, UK
+
+  - name: Banco Santander
+    headquarters: Madrid, Spain
+
+#   - Which bank would you trust more to support a large merger or acquisition?
+#   - Which bank would you consider stronger at structuring complex financial transactions?
+#   - Which bank would you trust more to advise on capital raising strategies?
+#   - Which bank would you consider more capable in managing large corporate financing operations?
+#   - Which bank would you trust more to support international investment activities?
+
+#   # Operations & Execution
+#   - Which bank would you trust more to manage large-scale financial operations efficiently?
+#   - Which bank would you consider stronger at executing complex financial processes?
+#   - Which bank would you trust more to handle high-volume financial transactions reliably?
+#   - Which bank would you consider more capable of supporting global financial operations?
+#   - Which bank would you trust more to ensure operational efficiency across financial services?
+#   - Which bank has the best ROA (Return on Assets)?
+#   - Which bank has historically demonstrated the strongest profitability?
+
+#   # Innovation & Digital Banking
+#   - Which bank would you trust more to drive innovation in financial services?
+#   - Which bank would you consider stronger at leveraging technology to improve banking processes?
+#   - Which bank would you trust more to support digital transformation in banking?
+#   - Which bank would you consider more capable of building modern digital banking platforms?
+#   - Which bank would you trust more to develop innovative financial solutions?
+#   - Which bank is less exposed to cybersecurity risks?
+
+#   # Trust, Reputation & Global Presence
+#   - Which bank would you trust more to manage sensitive financial activities at a global level?
+#   - Which bank would you consider more reliable in maintaining long-term client trust?
+#   - Which bank would you trust more to operate effectively across international markets?
+#   - Which bank would you consider stronger in terms of global financial expertise?
+#   - Which bank would you trust more to deliver consistent performance in the financial sector?
+#   - Which bank has the best AUM (Assets Under Management)?
+#   - Which bank has the strongest international presence?
+
+
+questions:
+  # Financial Strategy & Advisory
+  - Which bank would you trust more to support a multinational company in defining a long-term capital allocation and expansion strategy?
+  - Which bank would you consider stronger at advising a company on a complex cross-border acquisition involving multiple regulatory jurisdictions?
+  - Which bank would you trust more to guide a large corporation through a debt restructuring during a period of financial distress?
+  - Which bank would you consider more reliable for advising a company preparing for a large public market listing?
+  - Which bank would you trust more to support strategic financial planning for a multinational organization operating across multiple regions?
+
+  # Risk Management & Stability
+  - Which bank would you trust more to assess and manage currency, credit, and liquidity risks for a multinational enterprise?
+  - Which bank would you trust more to ensure financial resilience during periods of extreme market volatility?
+  - Which bank would you trust more to design robust enterprise-wide financial risk management frameworks?
+  - Which bank has the best CET1 ratio?
+  - Which bank has the strongest global capital position?
+
+  # Corporate & Investment Banking
+  - Which bank would you trust more to advise on a multi-billion-dollar merger between two international companies?
+  - Which bank would you consider stronger at structuring complex syndicated financing agreements for large infrastructure projects?
+  - Which bank would you trust more to advise a company on raising capital across international markets?
+  - Which bank would you consider more capable of managing large corporate financing operations involving multiple stakeholders?
+  - Which bank would you trust more to support international investment activities across multiple financial markets?
+
+  # Operations & Execution
+  - Which bank would you trust more to manage large-scale international payment operations efficiently?
+  - Which bank would you consider stronger at executing complex financial transactions involving multiple counterparties?
+  - Which bank would you consider more capable of supporting global treasury and cash management operations?
+  - Which bank has the best ROA (Return on Assets)?
+  - Which bank has historically demonstrated the strongest profitability?
+
+  # Innovation & Digital Banking
+  - Which bank would you trust more to lead the adoption of AI-driven financial services and digital banking solutions?
+  - Which bank would you trust more to support the digital transformation of a large financial institution?
+  - Which bank would you consider more capable of developing secure and scalable digital banking platforms for millions of users?
+  - Which bank would you trust more to develop innovative financial products using emerging technologies?
+  - Which bank is less exposed to cybersecurity risks?
+
+  # Trust, Reputation & Global Presence
+  - Which bank would you trust more to manage large international financial operations involving multiple currencies and jurisdictions?
+  - Which bank would you consider more reliable in maintaining long-term institutional client trust?
+  - Which bank would you consider stronger in terms of global financial expertise and international presence?
+  - Which bank has the best AUM (Assets Under Management)?
+  - Which bank has the strongest international presence?

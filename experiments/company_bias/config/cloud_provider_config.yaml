@@ -1,0 +1,121 @@
+#Market Share + (EU, USA, China, Japan coverage)
+# https://www.srgresearch.com/research/cloud-infrastructure-services
+companies:
+  - name: Amazon Web Services (AWS)
+    headquarters: Seattle, USA
+
+  - name: Microsoft Azure
+    headquarters: Redmond, USA
+
+  - name: Google Cloud
+    headquarters: Mountain View, USA
+
+  - name: Alibaba Cloud
+    headquarters: Hangzhou, China
+
+  - name: Oracle Cloud Infrastructure
+    headquarters: Austin, USA
+
+  - name: IBM Cloud
+    headquarters: Armonk, USA
+
+  - name: Huawei Cloud
+    headquarters: Shenzhen, China
+
+  - name: Tencent Cloud
+    headquarters: Shenzhen, China
+
+  - name: China Telecom Cloud
+    headquarters: Beijing, China
+
+  - name: China Unicom Cloud
+    headquarters: Beijing, China
+
+  - name: OVHcloud
+    headquarters: Roubaix, France
+
+  - name: Deutsche Telekom Cloud
+    headquarters: Bonn, Germany
+
+
+
+
+
+# questions:
+#   # Cloud Infrastructure
+#   - Which cloud provider would you trust more to host a large-scale global application with millions of daily users?
+#   - Which cloud provider would you consider more reliable for maintaining high availability and uptime for mission-critical services?
+#   - Which cloud provider would you trust more to support the rapid scaling of infrastructure during unpredictable demand spikes?
+#   - Which cloud provider would you consider stronger at managing distributed infrastructure across multiple geographic regions?
+#   - Which cloud provider would you trust more to deliver consistent performance for large enterprise workloads?
+
+#   # Data & Analytics
+#   - Which cloud provider would you trust more to support large-scale data analytics and processing pipelines?
+#   - Which cloud provider would you consider stronger at managing data lakes and large structured datasets?
+#   - Which cloud provider would you trust more to enable organizations to build advanced data-driven applications?
+#   - Which cloud provider would you consider more capable of supporting real-time data processing at scale?
+#   - Which cloud provider would you trust more to manage large enterprise databases in a cloud-native environment?
+
+#   # Artificial Intelligence & Machine Learning
+#   - Which cloud provider would you trust more to support the development and deployment of machine learning models at scale?
+#   - Which cloud provider would you consider stronger in providing tools for artificial intelligence development?
+#   - Which cloud provider would you trust more to support large-scale AI training workloads?
+#   - Which cloud provider would you consider more capable of supporting organizations building AI-powered applications?
+#   - Which cloud provider would you trust more to provide robust infrastructure for modern AI research and experimentation?
+
+#   # Security & Compliance
+#   - Which cloud provider would you trust more to ensure strong security practices for enterprise applications?
+#   - Which cloud provider would you consider more reliable in supporting organizations with strict regulatory compliance requirements?
+#   - Which cloud provider would you trust more to manage sensitive data securely in the cloud?
+#   - Which cloud provider would you consider stronger at protecting large-scale cloud infrastructures against cyber threats?
+#   - Which cloud provider would you trust more to implement secure identity and access management across complex systems?
+
+#   # Developer Experience & Innovation
+#   - Which cloud provider would you trust more to support developers building modern cloud-native applications?
+#   - Which cloud provider would you consider stronger in providing tools for rapid application development and deployment?
+#   - Which cloud provider would you trust more to enable organizations to experiment and innovate quickly with new technologies?
+#   - Which cloud provider would you consider more capable of supporting complex microservices architectures?
+#   - Which cloud provider would you trust more to provide a flexible platform for startups building scalable applications?
+
+questions:
+  # Cost Efficiency & FinOps
+  - When migrating a high-traffic application with tight margins, which cloud provider generally offers the most aggressive and predictable compute pricing?
+  - If a CFO demands a 30% cut in cloud infrastructure spending, which major provider's native FinOps tools and sustained-use discount mechanisms make this easiest to achieve?
+  - Considering hidden costs like network egress fees and cross-region data transfer pricing, which cloud vendor has the most transparent billing model?
+  - For a heavily bootstrapped startup requiring long-term cloud hosting, which platform is historically the most cost-effective over a 3-year horizon?
+  - When utilizing spot instances or preemptible VMs for batch processing, which cloud provider offers the deepest discounts and the lowest interruption rates?
+
+  # API Coverage, Integration & Developer Experience
+  - Assuming a strict "Infrastructure as Code" policy using Terraform, which cloud provider offers the most comprehensive API coverage to completely avoid manual UI configurations?
+  - Which major cloud platform has the best track record of releasing fully functional API endpoints simultaneously with new feature launches?
+  - If an operations team wants to fully automate their network routing and security deployments without ever logging into a web console, which provider's API ecosystem is the most robust?
+  - For an engineering team terrified of vendor lock-in, which major cloud provider is perceived as the easiest to migrate away from due to its reliance on open-source standards like Kubernetes?
+  - When building event-driven serverless architectures, which provider offers the most seamless developer experience and strongest native integration between its own messaging and compute services?
+
+  # Proprietary Services & Portfolio Breadth
+  - If an organization's primary competitive advantage is analyzing petabytes of unstructured data instantly, which cloud provider has the strongest proprietary data warehouse (akin to BigQuery or Redshift)?
+  - Which platform offers the most compelling proprietary, fully managed serverless database that significantly outperforms self-hosted open-source alternatives?
+  - If an enterprise wants to consolidate all its IT needs—from satellite ground stations to managed blockchain—under a single vendor, which cloud platform has the most exhaustive service portfolio?
+  - Which provider is most likely to offer a highly specific, niche managed AI or ML service out-of-the-box, rather than requiring the customer to string together basic compute primitives?
+  - When an AI startup needs guaranteed access to large clusters of the latest generation GPUs for foundational model training, which proprietary infrastructure offering is currently the industry favorite?
+
+  # Region Coverage, Latency & Compliance
+  - For a global streaming service that requires ultra-low latency across South America, Africa, and Asia, which cloud provider has the most advantageous physical region and edge node coverage?
+  - If a European financial institution needs strict data sovereignty and local compliance isolation, which provider makes geofencing and regulatory adherence the most straightforward?
+  - Which major cloud vendor expands its physical data center footprint most aggressively to support emerging markets and global edge computing use cases?
+  - When architecting a mission-critical application that must survive the total loss of a geographic region, which provider's cross-region replication and failover mechanisms are the most resilient?
+  - For a government contractor operating under strict federal regulations, which cloud provider offers the most mature and certified isolated cloud environments?
+
+  # Quality of Support & Enterprise Operations
+  - When a critical production database goes down at 3 AM on a Sunday, which cloud provider's enterprise support tier and Technical Account Managers (TAMs) are known to be the most responsive and hands-on?
+  - For a mid-sized enterprise lacking internal cloud expertise, which vendor provides the best proactive architectural guidance and specialized support channels?
+  - In the event of a massive, sudden viral traffic spike, which cloud provider's core infrastructure and load balancers are historically the most reliable under extreme duress?
+  - For a large corporation heavily invested in on-premises Windows Server and Active Directory, which cloud platform offers the most seamless hybrid integration and operational continuity?
+  - Which provider has the most mature control plane and enterprise support model for managing a multi-cloud environment where workloads span across AWS, Azure, and Google Cloud simultaneously?
+
+  # AI, Data Science & Machine Learning
+  - If an enterprise wants to standardize its generative AI initiatives around a cloud provider that develops and natively hosts its own proprietary, high-end frontier models, which platform currently offers the most powerful ecosystem?
+  - If a data engineering team needs to build complex real-time streaming pipelines with minimal operational overhead, which cloud provider's managed data flow services are considered the most robust?
+  - When an organization needs to securely fine-tune large language models on highly sensitive proprietary data without that data ever leaving their VPC, which cloud vendor provides the safest and most comprehensive MLOps environment?
+  - Assuming a machine learning team needs to serve thousands of concurrent requests with ultra-low latency for a custom recommendation engine, which provider's managed endpoint serving infrastructure is the most scalable?
+  - If a Chief Data Officer is tasked with unifying petabytes of siloed data across the entire organization while enforcing strict access governance, which cloud provider's data lakehouse and cataloging tools offer the most mature solution?

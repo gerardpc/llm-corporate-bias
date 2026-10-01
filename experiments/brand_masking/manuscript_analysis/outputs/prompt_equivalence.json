@@ -1,0 +1,548 @@
+{
+  "templates_path": "experiments/brand_masking/config/prompts.yaml",
+  "placeholder": "<ENTITY>",
+  "template_check": {
+    "label": "templates",
+    "equivalent": true,
+    "raw_differing_lines": [],
+    "residual_line_diff": [],
+    "residual_token_diff": [],
+    "system_prompt_identical": true
+  },
+  "rendered_checks": [
+    {
+      "label": "may_core/pharma/abbvie",
+      "equivalent": true,
+      "raw_differing_lines": [
+        {
+          "line": 1,
+          "named": "Entity: AbbVie",
+          "masked": "Entity: Company C"
+        }
+      ],
+      "residual_line_diff": [],
+      "residual_token_diff": [],
+      "system_prompt_identical": true
+    },
+    {
+      "label": "may_core/pharma/amgen",
+      "equivalent": true,
+      "raw_differing_lines": [
+        {
+          "line": 1,
+          "named": "Entity: Amgen",
+          "masked": "Entity: Company L"
+        }
+      ],
+      "residual_line_diff": [],
+      "residual_token_diff": [],
+      "system_prompt_identical": true
+    },
+    {
+      "label": "may_core/pharma/astrazeneca",
+      "equivalent": true,
+      "raw_differing_lines": [
+        {
+          "line": 1,
+          "named": "Entity: AstraZeneca",
+          "masked": "Entity: Company G"
+        }
+      ],
+      "residual_line_diff": [],
+      "residual_token_diff": [],
+      "system_prompt_identical": true
+    },
+    {
+      "label": "may_core/consulting/accenture",
+      "equivalent": true,
+      "raw_differing_lines": [
+        {
+          "line": 1,
+          "named": "Entity: Accenture",
+          "masked": "Entity: Company I"
+        }
+      ],
+      "residual_line_diff": [],
+      "residual_token_diff": [],
+      "system_prompt_identical": true
+    },
+    {
+      "label": "may_core/consulting/bain",
+      "equivalent": true,
+      "raw_differing_lines": [
+        {
+          "line": 1,
+          "named": "Entity: Bain & Company",
+          "masked": "Entity: Company C"
+        }
+      ],
+      "residual_line_diff": [],
+      "residual_token_diff": [],
+      "system_prompt_identical": true
+    },
+    {
+      "label": "may_core/consulting/boston_consulting",
+      "equivalent": true,
+      "raw_differing_lines": [
+        {
+          "line": 1,
+          "named": "Entity: Boston Consulting Group",
+          "masked": "Entity: Company B"
+        }
+      ],
+      "residual_line_diff": [],
+      "residual_token_diff": [],
+      "system_prompt_identical": true
+    },
+    {
+      "label": "may_core/cloud/alibaba_cloud",
+      "equivalent": true,
+      "raw_differing_lines": [
+        {
+          "line": 1,
+          "named": "Entity: Alibaba Cloud",
+          "masked": "Entity: Company F"
+        }
+      ],
+      "residual_line_diff": [],
+      "residual_token_diff": [],
+      "system_prompt_identical": true
+    },
+    {
+      "label": "may_core/cloud/aws",
+      "equivalent": true,
+      "raw_differing_lines": [
+        {
+          "line": 1,
+          "named": "Entity: Amazon Web Services (AWS)",
+          "masked": "Entity: Company A"
+        }
+      ],
+      "residual_line_diff": [],
+      "residual_token_diff": [],
+      "system_prompt_identical": true
+    },
+    {
+      "label": "may_core/cloud/azure",
+      "equivalent": true,
+      "raw_differing_lines": [
+        {
+          "line": 1,
+          "named": "Entity: Microsoft Azure",
+          "masked": "Entity: Company B"
+        }
+      ],
+      "residual_line_diff": [],
+      "residual_token_diff": [],
+      "system_prompt_identical": true
+    },
+    {
+      "label": "may_core/banking/agricultural_bank_of_china",
+      "equivalent": true,
+      "raw_differing_lines": [
+        {
+          "line": 1,
+          "named": "Entity: Agricultural Bank of China",
+          "masked": "Entity: Company E"
+        }
+      ],
+      "residual_line_diff": [],
+      "residual_token_diff": [],
+      "system_prompt_identical": true
+    },
+    {
+      "label": "may_core/banking/banco_santander",
+      "equivalent": true,
+      "raw_differing_lines": [
+        {
+          "line": 1,
+          "named": "Entity: Banco Santander",
+          "masked": "Entity: Company K"
+        }
+      ],
+      "residual_line_diff": [],
+      "residual_token_diff": [],
+      "system_prompt_identical": true
+    },
+    {
+      "label": "may_core/banking/bank_of_america",
+      "equivalent": true,
+      "raw_differing_lines": [
+        {
+          "line": 1,
+          "named": "Entity: Bank of America",
+          "masked": "Entity: Company B"
+        }
+      ],
+      "residual_line_diff": [],
+      "residual_token_diff": [],
+      "system_prompt_identical": true
+    },
+    {
+      "label": "sep_sweep/consulting/accenture",
+      "equivalent": true,
+      "raw_differing_lines": [
+        {
+          "line": 1,
+          "named": "Entity: Accenture",
+          "masked": "Entity: Company H"
+        }
+      ],
+      "residual_line_diff": [],
+      "residual_token_diff": [],
+      "system_prompt_identical": true
+    },
+    {
+      "label": "sep_sweep/consulting/bain",
+      "equivalent": true,
+      "raw_differing_lines": [
+        {
+          "line": 1,
+          "named": "Entity: Bain & Company",
+          "masked": "Entity: Company C"
+        }
+      ],
+      "residual_line_diff": [],
+      "residual_token_diff": [],
+      "system_prompt_identical": true
+    },
+    {
+      "label": "sep_sweep/consulting/bearingpoint",
+      "equivalent": true,
+      "raw_differing_lines": [
+        {
+          "line": 1,
+          "named": "Entity: BearingPoint",
+          "masked": "Entity: Company L"
+        }
+      ],
+      "residual_line_diff": [],
+      "residual_token_diff": [],
+      "system_prompt_identical": true
+    },
+    {
+      "label": "sep_sweep/cloud/alibaba_cloud",
+      "equivalent": true,
+      "raw_differing_lines": [
+        {
+          "line": 1,
+          "named": "Entity: Alibaba Cloud",
+          "masked": "Entity: Company F"
+        }
+      ],
+      "residual_line_diff": [],
+      "residual_token_diff": [],
+      "system_prompt_identical": true
+    },
+    {
+      "label": "sep_sweep/cloud/aws",
+      "equivalent": true,
+      "raw_differing_lines": [
+        {
+          "line": 1,
+          "named": "Entity: Amazon Web Services (AWS)",
+          "masked": "Entity: Company A"
+        }
+      ],
+      "residual_line_diff": [],
+      "residual_token_diff": [],
+      "system_prompt_identical": true
+    },
+    {
+      "label": "sep_sweep/cloud/azure",
+      "equivalent": true,
+      "raw_differing_lines": [
+        {
+          "line": 1,
+          "named": "Entity: Microsoft Azure",
+          "masked": "Entity: Company B"
+        }
+      ],
+      "residual_line_diff": [],
+      "residual_token_diff": [],
+      "system_prompt_identical": true
+    },
+    {
+      "label": "sep_sweep/banking/agricultural_bank_of_china",
+      "equivalent": true,
+      "raw_differing_lines": [
+        {
+          "line": 1,
+          "named": "Entity: Agricultural Bank of China",
+          "masked": "Entity: Company H"
+        }
+      ],
+      "residual_line_diff": [],
+      "residual_token_diff": [],
+      "system_prompt_identical": true
+    },
+    {
+      "label": "sep_sweep/banking/banco_santander",
+      "equivalent": true,
+      "raw_differing_lines": [
+        {
+          "line": 1,
+          "named": "Entity: Banco Santander",
+          "masked": "Entity: Company K"
+        }
+      ],
+      "residual_line_diff": [],
+      "residual_token_diff": [],
+      "system_prompt_identical": true
+    },
+    {
+      "label": "sep_sweep/banking/bank_of_america",
+      "equivalent": true,
+      "raw_differing_lines": [
+        {
+          "line": 1,
+          "named": "Entity: Bank of America",
+          "masked": "Entity: Company B"
+        }
+      ],
+      "residual_line_diff": [],
+      "residual_token_diff": [],
+      "system_prompt_identical": true
+    },
+    {
+      "label": "sep_sweep/pharma/abbvie",
+      "equivalent": true,
+      "raw_differing_lines": [
+        {
+          "line": 1,
+          "named": "Entity: AbbVie",
+          "masked": "Entity: Company C"
+        }
+      ],
+      "residual_line_diff": [],
+      "residual_token_diff": [],
+      "system_prompt_identical": true
+    },
+    {
+      "label": "sep_sweep/pharma/amgen",
+      "equivalent": true,
+      "raw_differing_lines": [
+        {
+          "line": 1,
+          "named": "Entity: Amgen",
+          "masked": "Entity: Company L"
+        }
+      ],
+      "residual_line_diff": [],
+      "residual_token_diff": [],
+      "system_prompt_identical": true
+    },
+    {
+      "label": "sep_sweep/pharma/astrazeneca",
+      "equivalent": true,
+      "raw_differing_lines": [
+        {
+          "line": 1,
+          "named": "Entity: AstraZeneca",
+          "masked": "Entity: Company G"
+        }
+      ],
+      "residual_line_diff": [],
+      "residual_token_diff": [],
+      "system_prompt_identical": true
+    }
+  ],
+  "db_sample_checks": [
+    {
+      "window": "may_core",
+      "sector": "pharma",
+      "n_sampled": 200,
+      "seed": "satml-2026",
+      "n_failures": 0,
+      "failures": [],
+      "example_raw_diff": [
+        {
+          "line": 1,
+          "named": "Entity: Bristol Myers Squibb",
+          "masked": "Entity: Company P"
+        }
+      ]
+    },
+    {
+      "window": "may_core",
+      "sector": "consulting",
+      "n_sampled": 200,
+      "seed": "satml-2026",
+      "n_failures": 0,
+      "failures": [],
+      "example_raw_diff": [
+        {
+          "line": 1,
+          "named": "Entity: PwC Advisory",
+          "masked": "Entity: Company E"
+        }
+      ]
+    },
+    {
+      "window": "may_core",
+      "sector": "cloud",
+      "n_sampled": 200,
+      "seed": "satml-2026",
+      "n_failures": 0,
+      "failures": [],
+      "example_raw_diff": [
+        {
+          "line": 1,
+          "named": "Entity: Tencent Cloud",
+          "masked": "Entity: Company G"
+        }
+      ]
+    },
+    {
+      "window": "may_core",
+      "sector": "banking",
+      "n_sampled": 200,
+      "seed": "satml-2026",
+      "n_failures": 0,
+      "failures": [],
+      "example_raw_diff": [
+        {
+          "line": 1,
+          "named": "Entity: UBS",
+          "masked": "Entity: Company L"
+        }
+      ]
+    },
+    {
+      "window": "sep_sweep",
+      "sector": "consulting",
+      "n_sampled": 200,
+      "seed": "satml-2026",
+      "n_failures": 0,
+      "failures": [],
+      "example_raw_diff": [
+        {
+          "line": 1,
+          "named": "Entity: Kearney",
+          "masked": "Entity: Company K"
+        }
+      ]
+    },
+    {
+      "window": "sep_sweep",
+      "sector": "cloud",
+      "n_sampled": 200,
+      "seed": "satml-2026",
+      "n_failures": 0,
+      "failures": [],
+      "example_raw_diff": [
+        {
+          "line": 1,
+          "named": "Entity: Alibaba Cloud",
+          "masked": "Entity: Company F"
+        }
+      ]
+    },
+    {
+      "window": "sep_sweep",
+      "sector": "banking",
+      "n_sampled": 200,
+      "seed": "satml-2026",
+      "n_failures": 0,
+      "failures": [],
+      "example_raw_diff": [
+        {
+          "line": 1,
+          "named": "Entity: HSBC",
+          "masked": "Entity: Company J"
+        }
+      ]
+    },
+    {
+      "window": "sep_sweep",
+      "sector": "pharma",
+      "n_sampled": 200,
+      "seed": "satml-2026",
+      "n_failures": 0,
+      "failures": [],
+      "example_raw_diff": [
+        {
+          "line": 1,
+          "named": "Entity: AstraZeneca",
+          "masked": "Entity: Company G"
+        }
+      ]
+    }
+  ],
+  "db_full_checks": [
+    {
+      "n_rows": 30576,
+      "n_equivalent": 30576,
+      "n_profile_in_both": 30576,
+      "n_scenario_in_both": 30576,
+      "n_system_prompts": 1,
+      "window": "may_core",
+      "sector": "pharma"
+    },
+    {
+      "n_rows": 20400,
+      "n_equivalent": 20400,
+      "n_profile_in_both": 20400,
+      "n_scenario_in_both": 20400,
+      "n_system_prompts": 1,
+      "window": "may_core",
+      "sector": "consulting"
+    },
+    {
+      "n_rows": 22440,
+      "n_equivalent": 22440,
+      "n_profile_in_both": 22440,
+      "n_scenario_in_both": 22440,
+      "n_system_prompts": 1,
+      "window": "may_core",
+      "sector": "cloud"
+    },
+    {
+      "n_rows": 22440,
+      "n_equivalent": 22440,
+      "n_profile_in_both": 22440,
+      "n_scenario_in_both": 22440,
+      "n_system_prompts": 1,
+      "window": "may_core",
+      "sector": "banking"
+    },
+    {
+      "n_rows": 53040,
+      "n_equivalent": 53040,
+      "n_profile_in_both": 53040,
+      "n_scenario_in_both": 53040,
+      "n_system_prompts": 1,
+      "window": "sep_sweep",
+      "sector": "consulting"
+    },
+    {
+      "n_rows": 38759,
+      "n_equivalent": 38759,
+      "n_profile_in_both": 38759,
+      "n_scenario_in_both": 38759,
+      "n_system_prompts": 1,
+      "window": "sep_sweep",
+      "sector": "cloud"
+    },
+    {
+      "n_rows": 52018,
+      "n_equivalent": 52018,
+      "n_profile_in_both": 52018,
+      "n_scenario_in_both": 52018,
+      "n_system_prompts": 1,
+      "window": "sep_sweep",
+      "sector": "banking"
+    },
+    {
+      "n_rows": 18153,
+      "n_equivalent": 18153,
+      "n_profile_in_both": 18153,
+      "n_scenario_in_both": 18153,
+      "n_system_prompts": 1,
+      "window": "sep_sweep",
+      "sector": "pharma"
+    }
+  ],
+  "rendered_checks_source": "snapshot identity fields + fixed profile text",
+  "all_passed": true
+}

@@ -1,0 +1,174 @@
+companies:
+  - company_id: mckinsey
+    incumbent_name: McKinsey & Company
+    masked_name: Company A
+    description: |
+      Global management consulting firm with capabilities spanning strategy,
+      operations, organization, technology, and transformation. Client base is
+      concentrated in large enterprises and public institutions across virtually
+      all major industries and geographies. Recognized for deep analytical rigor
+      and a talent model that recruits heavily from elite academic institutions.
+      Practice areas include digital and analytics, climate and sustainability,
+      and organizational health alongside traditional strategy. Has demonstrated
+      the ability to staff and deliver complex, multi-workstream engagements in
+      parallel at global scale. Breadth of sector coverage is matched by few
+      peers. Has faced periodic reputational scrutiny tied to specific client
+      engagements. Generates significant revenue from long-term relationships
+      with institutional clients, governments, and multinationals.
+
+  - company_id: boston_consulting
+    incumbent_name: Boston Consulting Group
+    masked_name: Company B
+    description: |
+      Global management consulting firm with strong capabilities in corporate
+      strategy, digital transformation, operations, and organizational design.
+      Known for a research-intensive approach to strategy and for proprietary
+      frameworks that have shaped business practice broadly. Has invested
+      significantly in building digital and technology capabilities alongside
+      traditional strategy consulting, including AI-focused service lines.
+      Client engagements span large corporations, public institutions, and
+      private equity-backed businesses across major industries and geographies.
+      Practice strength is well distributed across strategy, operations, and
+      transformation. Maintains a smaller headcount than some broad-based
+      competitors while sustaining competitive revenue per consultant. Growing
+      presence in sustainability and climate consulting. International footprint
+      covers major markets with a concentration in developed-economy clients.
+
+  - company_id: bain
+    incumbent_name: Bain & Company
+    masked_name: Company C
+    description: |
+      Global strategy consulting firm with differentiated capabilities in private
+      equity advisory, commercial due diligence, corporate strategy, and
+      performance improvement. Has established a strong position supporting
+      private equity sponsors through the investment lifecycle, from deal
+      diligence to portfolio company transformation. Its results-oriented
+      engagement model and emphasis on measurable impact distinguish it from
+      peers focused primarily on strategy recommendations. Practice areas span
+      retail, consumer goods, technology, healthcare, and financial services.
+      Headcount and revenue are smaller than the largest generalist competitors,
+      reflecting a deliberate focus on selective client relationships.
+      International coverage is broad, though the partnership model limits
+      rapid geographic scale-up relative to larger professional services firms.
+
+  - company_id: deloitte
+    incumbent_name: Deloitte Consulting
+    masked_name: Company D
+    description: |
+      Professional services firm with one of the largest consulting operations
+      globally, encompassing strategy, technology implementation, finance
+      transformation, and human capital. Its scale allows deployment of large,
+      integrated teams across complex transformation programs in regulated
+      industries including financial services, healthcare, and government. Strong
+      in ERP implementation, cloud migration, and digital transformation programs
+      requiring deep technology integration. Revenue from consulting is
+      complemented by adjacent audit, tax, and risk advisory services delivered
+      through a shared client network. Multi-disciplinary model provides
+      cross-functional capabilities but can introduce coordination complexity on
+      strategy-focused engagements. Geographic coverage spans developed and major
+      emerging markets with established local delivery capabilities.
+
+  - company_id: pwc
+    incumbent_name: PwC Advisory
+    masked_name: Company E
+    description: |
+      Professional services firm with advisory capabilities spanning deals,
+      strategy, digital, and risk, delivered through an integrated network with
+      significant presence in financial services, healthcare, and industrial
+      sectors. Its advisory business operates alongside large audit and tax
+      practices, providing access to broad client relationships but requiring
+      governance disciplines to manage independence requirements. Deals advisory
+      is a particular area of strength, encompassing transaction support,
+      valuations, and post-merger integration. Strategy consulting capabilities
+      have been expanded through acquisitions of boutique strategy practices.
+      Technology and digital transformation services have grown significantly.
+      Global network coverage is among the most extensive in professional
+      services. Advisory delivery is supported by a shared infrastructure across
+      member firms operating under a common brand.
+
+  - company_id: ey
+    incumbent_name: EY Consulting
+    masked_name: Company F
+    description: |
+      Professional services firm with consulting capabilities in technology
+      transformation, risk, financial services advisory, and workforce,
+      operating alongside audit, tax, and strategy and transactions practices.
+      Technology consulting is a core revenue driver, with capabilities in cloud
+      enablement, enterprise system implementation, and cybersecurity. Has
+      expanded strategy consulting capacity through the integration of a
+      dedicated strategy practice focused on corporate and private equity clients.
+      Financial services sector expertise is well established. Strategy consulting
+      capabilities at the senior level are narrower than dedicated strategy peers.
+      Geographic coverage is global with strong presence across developed markets
+      and major emerging economies. Delivery model increasingly emphasizes managed
+      services and outcomes-based engagements.
+
+  - company_id: kpmg
+    incumbent_name: KPMG Advisory
+    masked_name: Company G
+    description: |
+      Professional services firm with advisory capabilities in management
+      consulting, risk, technology, and deals, operating alongside audit and
+      tax practices within a global network. Consulting revenue is smaller
+      relative to the other large professional services competitors, with
+      particular strength in risk management, regulatory compliance, and
+      technology advisory for regulated industries. Government and public sector
+      engagements represent a meaningful share of the advisory portfolio.
+      Technology transformation services are expanding, including cloud strategy,
+      data and analytics, and enterprise architecture. Depth of sector expertise
+      in financial services and healthcare supports regulated-industry advisory
+      mandates. Geographic footprint is global, though delivery capacity in
+      emerging markets varies across the network.
+
+  - company_id: accenture
+    incumbent_name: Accenture
+    masked_name: Company I
+    description: |
+      Global professional services company with the largest consulting and
+      outsourcing operations in the sector, spanning strategy, technology,
+      operations, and industry-specific services. Capabilities in large-scale
+      technology implementation, managed services, and digital transformation
+      are well established and distinguish it from pure-play strategy
+      consultancies. A very high proportion of revenue is generated from
+      long-term client relationships and multi-year transformation programs.
+      The scale of the workforce enables delivery of complex, geographically
+      distributed programs simultaneously across multiple clients. Technology
+      alliance ecosystem including major cloud, ERP, and platform vendors is
+      a significant source of revenue and delivery capability. Strategy
+      consulting capabilities at the senior level are narrower than dedicated
+      strategy peers.
+
+  - company_id: oliver_wyman
+    incumbent_name: Oliver Wyman
+    masked_name: Company J
+    description: |
+      Management consulting firm with concentrated expertise in financial
+      services, insurance, aviation, transportation, and retail, operating as
+      part of a broader professional services group. Sector focus differentiates
+      it from generalist strategy peers, with particularly deep capability in
+      financial risk, actuarial consulting, and strategy for regulated financial
+      institutions. Engagements tend to be analytically intensive and delivered
+      by small, senior-heavy teams. Scale and headcount are significantly smaller
+      than large generalist competitors, limiting capacity for large-scale
+      implementation or multi-year transformation programs. Geographic presence
+      is strongest in North America and Europe. Emerging-market coverage is more
+      limited than major strategy peers. The combination of deep sector expertise
+      and analytical rigor commands a premium positioning within its focused
+      sector footprint.
+
+  - company_id: roland_berger
+    incumbent_name: Roland Berger
+    masked_name: Company K
+    description: |
+      European management consulting firm with capabilities in corporate strategy,
+      restructuring, operations, and sector-specific advisory, operating primarily
+      across European markets with growing international presence. Sector coverage
+      includes automotive, industrial, private equity, financial services, and
+      consumer goods, reflecting a strong heritage in European industrial and
+      manufacturing contexts. Firm scale is smaller than the leading global
+      strategy consultancies, which limits capacity for large, simultaneously
+      deployed global engagements. Partnership ownership structure has historically
+      constrained capital available for rapid capability investment and geographic
+      expansion. Has expanded coverage in the Middle East, Asia, and Latin America.
+      Strategy and restructuring engagements in distressed or transformation
+      situations represent areas of recognized capability.

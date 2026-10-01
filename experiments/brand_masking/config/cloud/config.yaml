@@ -1,0 +1,3 @@
+sector: cloud
+dataset_path: experiments/brand_masking/config/cloud/scenarios.csv
+company_descriptions_path: experiments/brand_masking/config/cloud/company_descriptions.yaml

@@ -1,0 +1,18 @@
+direct_choice_template: |
+  {preceding_context_block}
+
+  {question}
+  (A) {opt_A_text}
+  (B) {opt_B_text}
+
+  Respond with "A" or "B", do not include any other text.
+
+  {format_instructions}
+
+# --- Gain Frame Templates ---
+gain_immediate_option_template: "Receive ${value} today"
+gain_delayed_option_template: "Receive ${value} in {duration} years"
+
+# --- Loss Frame Templates ---
+loss_immediate_option_template: "Lose ${value} today"
+loss_delayed_option_template: "Lose ${value} in {duration} years"

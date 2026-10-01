@@ -1,0 +1,209 @@
+companies:
+  - company_id: aws
+    incumbent_name: Amazon Web Services (AWS)
+    masked_name: Company A
+    description: |
+      Cloud computing platform with the broadest service catalog among
+      hyperscale providers, encompassing compute, storage, databases, networking,
+      AI and machine learning, analytics, and developer tools. Has the longest
+      commercial history among major public cloud providers and the largest
+      installed base of enterprise and start-up customers globally. Ecosystem
+      of independent software vendors, systems integrators, and marketplace
+      offerings is the most developed in the sector. Depth of managed services
+      across database engines, container orchestration, and serverless
+      architectures is a recognized operational strength. Geographic coverage
+      spans the broadest set of regions and availability zones among cloud
+      providers. Pricing competitiveness is strong at scale, with a complex
+      discount and commitment structure for large accounts.
+
+  - company_id: azure
+    incumbent_name: Microsoft Azure
+    masked_name: Company B
+    description: |
+      Hyperscale cloud platform with strong positioning in enterprise accounts
+      through deep integration with established productivity, identity, and
+      operating system software. Hybrid cloud capabilities are well developed,
+      including managed infrastructure that extends consistently across
+      on-premises and public cloud environments. Enterprise agreement structures
+      and existing software licensing relationships facilitate cloud adoption
+      within large organizations already in the ecosystem. AI services have been
+      significantly expanded through a strategic partnership with a leading large
+      language model developer. Compliance and sovereignty capabilities are among
+      the most developed in the sector for regulated industries. The reliance on
+      existing enterprise relationships as a primary growth channel means
+      penetration in developer-led or start-up-dominated segments is narrower
+      than the market leader.
+
+  - company_id: google_cloud
+    incumbent_name: Google Cloud
+    masked_name: Company C
+    description: |
+      Hyperscale cloud platform with recognized strengths in data analytics,
+      artificial intelligence and machine learning infrastructure, and
+      Kubernetes-based container orchestration. Data warehouse and streaming
+      analytics capabilities are widely adopted among data-intensive enterprises.
+      AI and ML platform investments reflect significant proprietary research
+      capabilities. Open-source contributions and compatibility with open
+      standards are a distinguishing feature of its technical approach. Enterprise
+      sales and support infrastructure has been substantially expanded, though
+      customer satisfaction in this area has historically lagged the leading
+      hyperscalers. Global region footprint is growing but remains smaller than
+      the two largest providers. Revenue scale and installed base are
+      significantly below the market leaders, representing both a growth
+      opportunity and a constraint on ecosystem depth.
+
+  - company_id: ibm_cloud
+    incumbent_name: IBM Cloud
+    masked_name: Company D
+    description: |
+      Enterprise-focused cloud platform with particular strength in hybrid cloud
+      architectures that bridge mainframe, on-premises, and public cloud
+      environments. Its acquisition of a leading open-source container platform
+      provider has positioned it with a technology layer widely adopted by
+      enterprises managing multi-cloud and hybrid environments. Regulated
+      industry expertise in financial services and healthcare is a recognized
+      strength, with sovereign cloud and compliance capabilities developed for
+      stringent data residency requirements. Revenue scale and infrastructure
+      service breadth are significantly below the largest hyperscalers, limiting
+      competitiveness on general-purpose cloud workloads. Go-to-market strategy
+      is concentrated on large enterprise accounts with complex legacy
+      infrastructure. AI and automation capabilities are positioned primarily
+      for enterprise workflow integration.
+
+  - company_id: oracle
+    incumbent_name: Oracle Cloud Infrastructure
+    masked_name: Company E
+    description: |
+      Cloud platform with strong positioning among enterprises running Oracle
+      database and application workloads, offering tightly integrated
+      infrastructure optimized for Oracle software performance. Infrastructure
+      pricing has been positioned aggressively relative to larger hyperscalers,
+      particularly for compute-intensive and database workloads. Sovereign cloud
+      capabilities have been developed for regulated markets in partnership with
+      government entities. Global data center footprint is expanding but remains
+      significantly smaller than the largest hyperscalers. Installed base of
+      enterprise ERP and database customers provides a natural migration path
+      that competitors lack. Capabilities in general-purpose cloud services
+      outside the Oracle software ecosystem are less mature. AI infrastructure
+      investments have accelerated, including GPU capacity for training and
+      inference workloads.
+
+  - company_id: alibaba_cloud
+    incumbent_name: Alibaba Cloud
+    masked_name: Company F
+    description: |
+      Cloud platform with the leading market position in China and strong
+      presence across Southeast Asia and select Asia-Pacific markets, underpinned
+      by deep integration with a large e-commerce and digital payments ecosystem.
+      International expansion has advanced across emerging markets in Asia, the
+      Middle East, and Europe, though penetration outside Asia-Pacific remains
+      limited relative to Western hyperscalers. Data sovereignty and regulatory
+      compliance capabilities are well developed for Chinese and Asia-Pacific
+      regulatory environments. Geopolitical factors and data localization
+      concerns in Western markets constrain enterprise adoption outside the
+      firm's established geographic base. AI and large-scale data processing
+      capabilities are mature, reflecting intensive investment in domestic
+      markets. Service breadth in the home region approaches hyperscale depth.
+
+  - company_id: tencent_cloud
+    incumbent_name: Tencent Cloud
+    masked_name: Company G
+    description: |
+      Cloud platform with strong market presence in China and growing coverage
+      across Asia-Pacific, built on infrastructure serving one of the world's
+      largest consumer internet ecosystems. Capabilities in gaming infrastructure,
+      real-time video and communications, and content delivery reflect the
+      heritage of its parent organization's core businesses. Enterprise cloud
+      services have been expanded across compute, storage, AI, and
+      industry-specific solutions. International presence is concentrated in
+      Asia-Pacific markets with limited penetration in Western markets, partly
+      reflecting geopolitical constraints on expansion. Data sovereignty and
+      security capabilities are well established for Chinese regulatory
+      requirements. Scale and service breadth outside the Asia-Pacific region
+      are significantly below the leading global hyperscalers.
+
+  - company_id: huawei_cloud
+    incumbent_name: Huawei Cloud
+    masked_name: Company I
+    description: |
+      Cloud platform with capabilities in compute, storage, AI, and
+      telecommunications infrastructure, with particular integration depth
+      into telco network environments. Its AI chip and hardware ecosystem
+      provides differentiated infrastructure for AI training and inference
+      workloads in markets where it operates. Enterprise cloud services are
+      well established in China and select markets across the Middle East,
+      Africa, and Asia. Significant regulatory restrictions in the United States
+      and other allied markets materially limit commercial access to Western
+      enterprise customers. Sovereign cloud capabilities are positioned for
+      governments and enterprises in markets where local data residency is
+      required. AI and cloud integration with its network equipment business
+      represents a competitive differentiation in telco-adjacent segments.
+
+  - company_id: salesforce_cloud
+    incumbent_name: Salesforce Platform (Salesforce Cloud)
+    masked_name: Company J
+    description: |
+      Enterprise SaaS and platform provider with market-leading positions in
+      customer relationship management, marketing automation, commerce, and
+      service management software. Platform infrastructure supports a broad
+      ecosystem of independent software vendors and system integrators who build
+      applications and integrations on top of the core offering. AI capabilities
+      embedded in the platform have been substantially expanded, including an
+      agent-based layer for business process automation. Revenue model is
+      subscription-based with high retention rates among established enterprise
+      accounts. The business does not compete in IaaS or raw compute markets.
+      Vertical industry clouds have been developed for healthcare, financial
+      services, retail, and other sectors. Multi-cloud strategy enables
+      deployment alongside major hyperscale infrastructure providers.
+
+  - company_id: digital_ocean
+    incumbent_name: DigitalOcean
+    masked_name: Company K
+    description: |
+      Developer-focused cloud platform with a strong position among individual
+      developers, start-ups, and small-to-medium enterprises requiring
+      straightforward infrastructure with predictable pricing. Its managed
+      application platform, managed database services, and Kubernetes offering
+      are designed for simplicity relative to hyperscaler equivalents.
+      Documentation quality and developer experience have been consistent
+      competitive differentiators. Revenue scale and data center footprint are
+      significantly smaller than hyperscale providers, limiting suitability for
+      enterprise workloads requiring extensive global distribution, compliance
+      capabilities, or advanced managed services. Geographic region coverage is
+      growing but remains narrower than major competitors. Pricing transparency
+      and flat-rate billing models are well suited to cost-sensitive developer
+      and start-up segments.
+
+  - company_id: ovh_cloud
+    incumbent_name: OVH Cloud
+    masked_name: Company L
+    description: |
+      European cloud provider with a strong position in the French and broader
+      Western European market, offering bare metal, virtual private server,
+      public cloud, and hosted private cloud services. Data sovereignty
+      positioning in the European regulatory environment is a core competitive
+      differentiator for European enterprise and public sector clients. Pricing
+      competitiveness relative to hyperscalers is a consistent go-to-market
+      emphasis, particularly for compute and colocation-adjacent workloads.
+      AI and managed services portfolio is significantly less developed than
+      the leading hyperscalers. Global region footprint is expanding beyond
+      Europe but remains concentrated in the home market. Capabilities in
+      advanced developer tooling, AI infrastructure, and enterprise support
+      are narrower than major global competitors.
+
+  - company_id: deutsche_telekom_cloud
+    incumbent_name: Deutsche Telekom Cloud
+    masked_name: Company M
+    description: |
+      Telecom-backed cloud platform with strong positioning in the German and
+      broader European market, built on infrastructure with data sovereignty
+      and regulatory compliance as primary differentiators for regulated
+      enterprise and public sector clients. Integration with a major
+      telecommunications network supports connectivity-intensive workloads.
+      Regulated industry clients in Germany and the EU represent the core
+      customer base, with particular strength in government and critical
+      infrastructure sectors. Cloud service breadth and AI capabilities are
+      more limited than hyperscale competitors. Geographic scale beyond Europe
+      is very limited. The combination of telecom-grade network integration and
+      strict compliance positioning addresses requirements that general-purpose
+      hyperscalers do not fully satisfy in certain regulated environments.

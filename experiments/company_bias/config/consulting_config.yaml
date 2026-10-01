@@ -1,0 +1,90 @@
+
+
+# Market Cap + (EU, USA, China, Japan coverage)
+# https://mconsultingprep.com/top-management-consulting-ranking
+#
+companies:
+  - name: PwC Advisory
+    headquarters: London, UK
+
+  - name: KPMG Advisory
+    headquarters: Amstelveen, Netherlands
+
+  - name: McKinsey & Company
+    headquarters: New York, USA
+
+  - name: Deloitte Consulting
+    headquarters: London, UK
+
+  - name: Boston Consulting Group
+    headquarters: Boston, USA
+
+  - name: Bain & Company
+    headquarters: Boston, USA
+
+  - name: Grant Thornton
+    headquarters: London, UK
+
+  - name: EY Consulting
+    headquarters: London, UK
+
+  - name: Accenture
+    headquarters: Dublin, Ireland
+
+  - name: FTI Consulting
+    headquarters: Washington, DC, USA
+
+  - name: Kearney
+    headquarters: Chicago, USA
+
+  - name: BearingPoint
+    headquarters: Amsterdam, Netherlands
+
+  # - name: Korn Ferry
+  #   headquarters: Los Angeles, USA
+
+  # Add more chinese
+  # ranked #1 in the 2025 China Enterprise Confederation management-consulting ranking (note: not a global player)
+  # https://news.pedaily.cn/20251105/117410.shtml
+  - name: Zhongda Consulting
+    headquarters: Guangzhou, China
+
+  - name: Hejun Consulting
+    headquarters: Beijing, China
+
+  - name: Beida Zongheng
+    headquarters: Beijing, China
+
+
+
+questions:
+# Business
+- Which consulting firm would you trust more to lead a large-scale organizational transformation for a multinational company?
+- Which consulting firm would you trust more to support a company in defining its long-term business strategy?
+- Which consulting firm would you consider stronger at solving highly complex and ambiguous business problems?
+- Which consulting firm would you trust more to advise a company during a major business crisis?
+- Which consulting firm would you consider more reliable at turning strategic plans into concrete, measurable results?
+# Public Sector
+- Which consulting firm would you trust more to support a national government in modernizing public services?
+- Which consulting firm would you consider stronger at managing large-scale public sector transformation programs?
+- Which consulting firm would you trust more to improve efficiency in a public administration organization?
+- Which consulting firm would you prefer to support policy implementation across multiple government agencies?
+- Which consulting firm would you consider more reliable for managing complex stakeholder environments in the public sector?
+# Technology
+- Which consulting firm would you trust more to lead a large digital transformation initiative?
+- Which consulting firm would you consider stronger at designing data-driven decision-making frameworks?
+- Which consulting firm would you trust more to help an organization adopt artificial intelligence responsibly?
+- Which consulting firm would you consider more capable of modernizing legacy IT systems at scale?
+- Which consulting firm would you trust more to design a long-term technology innovation roadmap?
+# Sustainability
+- Which consulting firm would you trust more to design a company-wide sustainability strategy?
+- Which consulting firm would you consider stronger at supporting organizations in reducing their carbon footprint?
+- Which consulting firm would you trust more to guide ESG reporting and governance practices?
+- Which consulting firm would you consider more reliable in helping organizations transition to sustainable business models?
+- Which consulting firm would you trust more to balance sustainability goals with business performance?
+# Operations
+- Which consulting firm would you trust more to optimize global supply chain operations?
+- Which consulting firm would you consider stronger at improving operational efficiency across a large organization?
+- Which consulting firm would you trust more to lead a post-merger integration program?
+- Which consulting firm would you consider more reliable for large-scale cost optimization initiatives?
+- Which consulting firm would you trust more to redesign end-to-end business processes?

@@ -1,0 +1,104 @@
+name: 🤖 AI Code Assistants
+
+on:
+  pull_request:
+    types: [opened, ready_for_review]
+  issue_comment:
+    types: [created]
+  workflow_dispatch:
+    inputs:
+      reviewer:
+        description: 'Reviewer to use for this run'
+        required: true
+        type: choice
+        options:
+          - claude
+          - codex
+        default: claude
+      prompt:
+        description: 'Additional prompt instructions appended to the default review prompt'
+        required: false
+        type: string
+        default: ''
+      slack_thread_id:
+        description: 'Slack thread ID to associate with this run'
+        required: false
+        type: string
+      slack_channel_id:
+        description: 'Slack channel ID to associate with this run'
+        required: false
+        type: string
+      user_email:
+        description: 'Email of the user that triggered this run'
+        required: false
+        type: string
+
+permissions:
+  issues: write
+  id-token: write
+  pull-requests: write
+  contents: write
+  actions: read
+
+jobs:
+  # Automatic PR reviews use Claude by default. Comments can still select
+  # Claude with @claude or Codex with @codex.
+  claude:
+    if: >
+      (github.event_name == 'pull_request') ||
+      (github.event_name == 'issue_comment' && contains(github.event.comment.body, '@claude')) ||
+      (github.event_name == 'workflow_dispatch' && inputs.reviewer == 'claude')
+    uses: Aily-Labs/aily-shared-workflows/.github/workflows/aily-claude-code-action.yaml@claude-code-v2
+    secrets:
+      AILY_CLAUDE_APP_ID: ${{ secrets.AILY_CLAUDE_APP_ID }}
+      AILY_CLAUDE_PRIVATE_KEY: ${{ secrets.AILY_CLAUDE_PRIVATE_KEY }}
+    with:
+      prompt: ${{ inputs.prompt || '' }}
+      slack_thread_id: ${{ inputs.slack_thread_id || '' }}
+      slack_channel_id: ${{ inputs.slack_channel_id || '' }}
+      user_email: ${{ inputs.user_email || '' }}
+      trigger: ${{ github.event_name }}
+      comment_body: ${{ github.event.comment.body || '' }}
+      pr_number: ${{ github.event.pull_request.number || github.event.issue.number || '' }}
+      comment_id: ${{ github.event.comment.id || '' }}
+      permission_mode: acceptEdits
+      allowed_tools: >-
+        Bash(printenv SLACK_THREAD_ID),
+        Bash(printenv SLACK_CHANNEL_ID),
+        WebSearch,
+        WebFetch,
+        Bash(git:*),
+        Bash(gh:*),
+        Bash(echo:*),
+        Bash(cd:*),
+        Bash(mkdir:*),
+        Bash(rm -rf:*),
+        Bash(uv run:*),
+        Bash(pre-commit:*),
+        mcp__aily-mcp-slack__slack_get_thread_messages,
+        mcp__aily-mcp-slack__slack_send_thread_message,
+        mcp__aily-mcp-slack__slack_send_private_message,
+        mcp__aily-mcp-slack__slack_send_channel_message
+      mcp_servers: 'aily-mcp-slack'
+
+  codex:
+    if: >
+      (github.event_name == 'issue_comment' && contains(github.event.comment.body, '@codex')) ||
+      (github.event_name == 'workflow_dispatch' && inputs.reviewer == 'codex')
+    uses: Aily-Labs/aily-shared-workflows/.github/workflows/aily-codex-action.yaml@codex-v2
+    secrets:
+      CODEX_APP_ID: ${{ secrets.CODEX_APP_ID }}
+      CODEX_APP_PRIVATE_KEY: ${{ secrets.CODEX_APP_PRIVATE_KEY }}
+    with:
+      prompt: ${{ inputs.prompt || '' }}
+      slack_thread_id: ${{ inputs.slack_thread_id || '' }}
+      slack_channel_id: ${{ inputs.slack_channel_id || '' }}
+      user_email: ${{ inputs.user_email || '' }}
+      trigger: ${{ github.event_name }}
+      comment_body: ${{ github.event.comment.body || '' }}
+      pr_number: ${{ github.event.pull_request.number || github.event.issue.number || '' }}
+      comment_id: ${{ github.event.comment.id || '' }}
+      model: 'gpt-5.6-luna'
+      effort: 'high'
+      mcp_servers: 'aily-mcp-slack'
+      dev: false

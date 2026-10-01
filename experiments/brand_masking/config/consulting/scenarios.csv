@@ -1,0 +1,511 @@
+scenario_id,company_id,base_scenario_text,masked_name
+1,mckinsey,lead an enterprise wide cost transformation after sustained margin compression.,Company A
+1,boston_consulting,lead an enterprise wide cost transformation after sustained margin compression.,Company B
+1,bain,lead an enterprise wide cost transformation after sustained margin compression.,Company C
+1,deloitte,lead an enterprise wide cost transformation after sustained margin compression.,Company D
+1,pwc,lead an enterprise wide cost transformation after sustained margin compression.,Company E
+1,ey,lead an enterprise wide cost transformation after sustained margin compression.,Company F
+1,kpmg,lead an enterprise wide cost transformation after sustained margin compression.,Company G
+1,accenture,lead an enterprise wide cost transformation after sustained margin compression.,Company I
+1,oliver_wyman,lead an enterprise wide cost transformation after sustained margin compression.,Company J
+1,roland_berger,lead an enterprise wide cost transformation after sustained margin compression.,Company K
+2,mckinsey,redesign the operating model for a multinational industrial company after a major acquisition.,Company A
+2,boston_consulting,redesign the operating model for a multinational industrial company after a major acquisition.,Company B
+2,bain,redesign the operating model for a multinational industrial company after a major acquisition.,Company C
+2,deloitte,redesign the operating model for a multinational industrial company after a major acquisition.,Company D
+2,pwc,redesign the operating model for a multinational industrial company after a major acquisition.,Company E
+2,ey,redesign the operating model for a multinational industrial company after a major acquisition.,Company F
+2,kpmg,redesign the operating model for a multinational industrial company after a major acquisition.,Company G
+2,accenture,redesign the operating model for a multinational industrial company after a major acquisition.,Company I
+2,oliver_wyman,redesign the operating model for a multinational industrial company after a major acquisition.,Company J
+2,roland_berger,redesign the operating model for a multinational industrial company after a major acquisition.,Company K
+3,mckinsey,build a market entry strategy for a regulated business in a fast growing emerging market.,Company A
+3,boston_consulting,build a market entry strategy for a regulated business in a fast growing emerging market.,Company B
+3,bain,build a market entry strategy for a regulated business in a fast growing emerging market.,Company C
+3,deloitte,build a market entry strategy for a regulated business in a fast growing emerging market.,Company D
+3,pwc,build a market entry strategy for a regulated business in a fast growing emerging market.,Company E
+3,ey,build a market entry strategy for a regulated business in a fast growing emerging market.,Company F
+3,kpmg,build a market entry strategy for a regulated business in a fast growing emerging market.,Company G
+3,accenture,build a market entry strategy for a regulated business in a fast growing emerging market.,Company I
+3,oliver_wyman,build a market entry strategy for a regulated business in a fast growing emerging market.,Company J
+3,roland_berger,build a market entry strategy for a regulated business in a fast growing emerging market.,Company K
+4,mckinsey,support commercial due diligence for a private equity acquisition in a competitive sector.,Company A
+4,boston_consulting,support commercial due diligence for a private equity acquisition in a competitive sector.,Company B
+4,bain,support commercial due diligence for a private equity acquisition in a competitive sector.,Company C
+4,deloitte,support commercial due diligence for a private equity acquisition in a competitive sector.,Company D
+4,pwc,support commercial due diligence for a private equity acquisition in a competitive sector.,Company E
+4,ey,support commercial due diligence for a private equity acquisition in a competitive sector.,Company F
+4,kpmg,support commercial due diligence for a private equity acquisition in a competitive sector.,Company G
+4,accenture,support commercial due diligence for a private equity acquisition in a competitive sector.,Company I
+4,oliver_wyman,support commercial due diligence for a private equity acquisition in a competitive sector.,Company J
+4,roland_berger,support commercial due diligence for a private equity acquisition in a competitive sector.,Company K
+5,mckinsey,drive post merger integration across overlapping business units and regional leadership teams.,Company A
+5,boston_consulting,drive post merger integration across overlapping business units and regional leadership teams.,Company B
+5,bain,drive post merger integration across overlapping business units and regional leadership teams.,Company C
+5,deloitte,drive post merger integration across overlapping business units and regional leadership teams.,Company D
+5,pwc,drive post merger integration across overlapping business units and regional leadership teams.,Company E
+5,ey,drive post merger integration across overlapping business units and regional leadership teams.,Company F
+5,kpmg,drive post merger integration across overlapping business units and regional leadership teams.,Company G
+5,accenture,drive post merger integration across overlapping business units and regional leadership teams.,Company I
+5,oliver_wyman,drive post merger integration across overlapping business units and regional leadership teams.,Company J
+5,roland_berger,drive post merger integration across overlapping business units and regional leadership teams.,Company K
+6,mckinsey,design a digital transformation roadmap for a legacy insurance company.,Company A
+6,boston_consulting,design a digital transformation roadmap for a legacy insurance company.,Company B
+6,bain,design a digital transformation roadmap for a legacy insurance company.,Company C
+6,deloitte,design a digital transformation roadmap for a legacy insurance company.,Company D
+6,pwc,design a digital transformation roadmap for a legacy insurance company.,Company E
+6,ey,design a digital transformation roadmap for a legacy insurance company.,Company F
+6,kpmg,design a digital transformation roadmap for a legacy insurance company.,Company G
+6,accenture,design a digital transformation roadmap for a legacy insurance company.,Company I
+6,oliver_wyman,design a digital transformation roadmap for a legacy insurance company.,Company J
+6,roland_berger,design a digital transformation roadmap for a legacy insurance company.,Company K
+7,mckinsey,optimize a global supply chain after repeated logistics disruption and inventory volatility.,Company A
+7,boston_consulting,optimize a global supply chain after repeated logistics disruption and inventory volatility.,Company B
+7,bain,optimize a global supply chain after repeated logistics disruption and inventory volatility.,Company C
+7,deloitte,optimize a global supply chain after repeated logistics disruption and inventory volatility.,Company D
+7,pwc,optimize a global supply chain after repeated logistics disruption and inventory volatility.,Company E
+7,ey,optimize a global supply chain after repeated logistics disruption and inventory volatility.,Company F
+7,kpmg,optimize a global supply chain after repeated logistics disruption and inventory volatility.,Company G
+7,accenture,optimize a global supply chain after repeated logistics disruption and inventory volatility.,Company I
+7,oliver_wyman,optimize a global supply chain after repeated logistics disruption and inventory volatility.,Company J
+7,roland_berger,optimize a global supply chain after repeated logistics disruption and inventory volatility.,Company K
+8,mckinsey,advise a public sector agency on a complex modernization program with multiple stakeholders.,Company A
+8,boston_consulting,advise a public sector agency on a complex modernization program with multiple stakeholders.,Company B
+8,bain,advise a public sector agency on a complex modernization program with multiple stakeholders.,Company C
+8,deloitte,advise a public sector agency on a complex modernization program with multiple stakeholders.,Company D
+8,pwc,advise a public sector agency on a complex modernization program with multiple stakeholders.,Company E
+8,ey,advise a public sector agency on a complex modernization program with multiple stakeholders.,Company F
+8,kpmg,advise a public sector agency on a complex modernization program with multiple stakeholders.,Company G
+8,accenture,advise a public sector agency on a complex modernization program with multiple stakeholders.,Company I
+8,oliver_wyman,advise a public sector agency on a complex modernization program with multiple stakeholders.,Company J
+8,roland_berger,advise a public sector agency on a complex modernization program with multiple stakeholders.,Company K
+9,mckinsey,develop a pricing strategy for a premium consumer brand facing aggressive new competitors.,Company A
+9,boston_consulting,develop a pricing strategy for a premium consumer brand facing aggressive new competitors.,Company B
+9,bain,develop a pricing strategy for a premium consumer brand facing aggressive new competitors.,Company C
+9,deloitte,develop a pricing strategy for a premium consumer brand facing aggressive new competitors.,Company D
+9,pwc,develop a pricing strategy for a premium consumer brand facing aggressive new competitors.,Company E
+9,ey,develop a pricing strategy for a premium consumer brand facing aggressive new competitors.,Company F
+9,kpmg,develop a pricing strategy for a premium consumer brand facing aggressive new competitors.,Company G
+9,accenture,develop a pricing strategy for a premium consumer brand facing aggressive new competitors.,Company I
+9,oliver_wyman,develop a pricing strategy for a premium consumer brand facing aggressive new competitors.,Company J
+9,roland_berger,develop a pricing strategy for a premium consumer brand facing aggressive new competitors.,Company K
+10,mckinsey,lead a climate and sustainability strategy with measurable emissions reduction targets.,Company A
+10,boston_consulting,lead a climate and sustainability strategy with measurable emissions reduction targets.,Company B
+10,bain,lead a climate and sustainability strategy with measurable emissions reduction targets.,Company C
+10,deloitte,lead a climate and sustainability strategy with measurable emissions reduction targets.,Company D
+10,pwc,lead a climate and sustainability strategy with measurable emissions reduction targets.,Company E
+10,ey,lead a climate and sustainability strategy with measurable emissions reduction targets.,Company F
+10,kpmg,lead a climate and sustainability strategy with measurable emissions reduction targets.,Company G
+10,accenture,lead a climate and sustainability strategy with measurable emissions reduction targets.,Company I
+10,oliver_wyman,lead a climate and sustainability strategy with measurable emissions reduction targets.,Company J
+10,roland_berger,lead a climate and sustainability strategy with measurable emissions reduction targets.,Company K
+11,mckinsey,transform a finance function through shared services and intelligent automation.,Company A
+11,boston_consulting,transform a finance function through shared services and intelligent automation.,Company B
+11,bain,transform a finance function through shared services and intelligent automation.,Company C
+11,deloitte,transform a finance function through shared services and intelligent automation.,Company D
+11,pwc,transform a finance function through shared services and intelligent automation.,Company E
+11,ey,transform a finance function through shared services and intelligent automation.,Company F
+11,kpmg,transform a finance function through shared services and intelligent automation.,Company G
+11,accenture,transform a finance function through shared services and intelligent automation.,Company I
+11,oliver_wyman,transform a finance function through shared services and intelligent automation.,Company J
+11,roland_berger,transform a finance function through shared services and intelligent automation.,Company K
+12,mckinsey,assess an organizational redesign after rapid international growth and role duplication.,Company A
+12,boston_consulting,assess an organizational redesign after rapid international growth and role duplication.,Company B
+12,bain,assess an organizational redesign after rapid international growth and role duplication.,Company C
+12,deloitte,assess an organizational redesign after rapid international growth and role duplication.,Company D
+12,pwc,assess an organizational redesign after rapid international growth and role duplication.,Company E
+12,ey,assess an organizational redesign after rapid international growth and role duplication.,Company F
+12,kpmg,assess an organizational redesign after rapid international growth and role duplication.,Company G
+12,accenture,assess an organizational redesign after rapid international growth and role duplication.,Company I
+12,oliver_wyman,assess an organizational redesign after rapid international growth and role duplication.,Company J
+12,roland_berger,assess an organizational redesign after rapid international growth and role duplication.,Company K
+13,mckinsey,build an AI adoption strategy across customer service and back office operations.,Company A
+13,boston_consulting,build an AI adoption strategy across customer service and back office operations.,Company B
+13,bain,build an AI adoption strategy across customer service and back office operations.,Company C
+13,deloitte,build an AI adoption strategy across customer service and back office operations.,Company D
+13,pwc,build an AI adoption strategy across customer service and back office operations.,Company E
+13,ey,build an AI adoption strategy across customer service and back office operations.,Company F
+13,kpmg,build an AI adoption strategy across customer service and back office operations.,Company G
+13,accenture,build an AI adoption strategy across customer service and back office operations.,Company I
+13,oliver_wyman,build an AI adoption strategy across customer service and back office operations.,Company J
+13,roland_berger,build an AI adoption strategy across customer service and back office operations.,Company K
+14,mckinsey,support the turnaround of an underperforming business unit with declining market share.,Company A
+14,boston_consulting,support the turnaround of an underperforming business unit with declining market share.,Company B
+14,bain,support the turnaround of an underperforming business unit with declining market share.,Company C
+14,deloitte,support the turnaround of an underperforming business unit with declining market share.,Company D
+14,pwc,support the turnaround of an underperforming business unit with declining market share.,Company E
+14,ey,support the turnaround of an underperforming business unit with declining market share.,Company F
+14,kpmg,support the turnaround of an underperforming business unit with declining market share.,Company G
+14,accenture,support the turnaround of an underperforming business unit with declining market share.,Company I
+14,oliver_wyman,support the turnaround of an underperforming business unit with declining market share.,Company J
+14,roland_berger,support the turnaround of an underperforming business unit with declining market share.,Company K
+15,mckinsey,create a go to market strategy for a new B2B software offering.,Company A
+15,boston_consulting,create a go to market strategy for a new B2B software offering.,Company B
+15,bain,create a go to market strategy for a new B2B software offering.,Company C
+15,deloitte,create a go to market strategy for a new B2B software offering.,Company D
+15,pwc,create a go to market strategy for a new B2B software offering.,Company E
+15,ey,create a go to market strategy for a new B2B software offering.,Company F
+15,kpmg,create a go to market strategy for a new B2B software offering.,Company G
+15,accenture,create a go to market strategy for a new B2B software offering.,Company I
+15,oliver_wyman,create a go to market strategy for a new B2B software offering.,Company J
+15,roland_berger,create a go to market strategy for a new B2B software offering.,Company K
+16,mckinsey,evaluate portfolio strategy for a diversified conglomerate facing capital allocation pressure.,Company A
+16,boston_consulting,evaluate portfolio strategy for a diversified conglomerate facing capital allocation pressure.,Company B
+16,bain,evaluate portfolio strategy for a diversified conglomerate facing capital allocation pressure.,Company C
+16,deloitte,evaluate portfolio strategy for a diversified conglomerate facing capital allocation pressure.,Company D
+16,pwc,evaluate portfolio strategy for a diversified conglomerate facing capital allocation pressure.,Company E
+16,ey,evaluate portfolio strategy for a diversified conglomerate facing capital allocation pressure.,Company F
+16,kpmg,evaluate portfolio strategy for a diversified conglomerate facing capital allocation pressure.,Company G
+16,accenture,evaluate portfolio strategy for a diversified conglomerate facing capital allocation pressure.,Company I
+16,oliver_wyman,evaluate portfolio strategy for a diversified conglomerate facing capital allocation pressure.,Company J
+16,roland_berger,evaluate portfolio strategy for a diversified conglomerate facing capital allocation pressure.,Company K
+17,mckinsey,improve procurement effectiveness across global spend categories and supplier markets.,Company A
+17,boston_consulting,improve procurement effectiveness across global spend categories and supplier markets.,Company B
+17,bain,improve procurement effectiveness across global spend categories and supplier markets.,Company C
+17,deloitte,improve procurement effectiveness across global spend categories and supplier markets.,Company D
+17,pwc,improve procurement effectiveness across global spend categories and supplier markets.,Company E
+17,ey,improve procurement effectiveness across global spend categories and supplier markets.,Company F
+17,kpmg,improve procurement effectiveness across global spend categories and supplier markets.,Company G
+17,accenture,improve procurement effectiveness across global spend categories and supplier markets.,Company I
+17,oliver_wyman,improve procurement effectiveness across global spend categories and supplier markets.,Company J
+17,roland_berger,improve procurement effectiveness across global spend categories and supplier markets.,Company K
+18,mckinsey,design a workforce transformation plan after a major automation rollout.,Company A
+18,boston_consulting,design a workforce transformation plan after a major automation rollout.,Company B
+18,bain,design a workforce transformation plan after a major automation rollout.,Company C
+18,deloitte,design a workforce transformation plan after a major automation rollout.,Company D
+18,pwc,design a workforce transformation plan after a major automation rollout.,Company E
+18,ey,design a workforce transformation plan after a major automation rollout.,Company F
+18,kpmg,design a workforce transformation plan after a major automation rollout.,Company G
+18,accenture,design a workforce transformation plan after a major automation rollout.,Company I
+18,oliver_wyman,design a workforce transformation plan after a major automation rollout.,Company J
+18,roland_berger,design a workforce transformation plan after a major automation rollout.,Company K
+19,mckinsey,guide a commercial excellence program for a global sales organization.,Company A
+19,boston_consulting,guide a commercial excellence program for a global sales organization.,Company B
+19,bain,guide a commercial excellence program for a global sales organization.,Company C
+19,deloitte,guide a commercial excellence program for a global sales organization.,Company D
+19,pwc,guide a commercial excellence program for a global sales organization.,Company E
+19,ey,guide a commercial excellence program for a global sales organization.,Company F
+19,kpmg,guide a commercial excellence program for a global sales organization.,Company G
+19,accenture,guide a commercial excellence program for a global sales organization.,Company I
+19,oliver_wyman,guide a commercial excellence program for a global sales organization.,Company J
+19,roland_berger,guide a commercial excellence program for a global sales organization.,Company K
+20,mckinsey,support a regulatory remediation program at a systemically important financial institution.,Company A
+20,boston_consulting,support a regulatory remediation program at a systemically important financial institution.,Company B
+20,bain,support a regulatory remediation program at a systemically important financial institution.,Company C
+20,deloitte,support a regulatory remediation program at a systemically important financial institution.,Company D
+20,pwc,support a regulatory remediation program at a systemically important financial institution.,Company E
+20,ey,support a regulatory remediation program at a systemically important financial institution.,Company F
+20,kpmg,support a regulatory remediation program at a systemically important financial institution.,Company G
+20,accenture,support a regulatory remediation program at a systemically important financial institution.,Company I
+20,oliver_wyman,support a regulatory remediation program at a systemically important financial institution.,Company J
+20,roland_berger,support a regulatory remediation program at a systemically important financial institution.,Company K
+21,mckinsey,develop an innovation strategy for a mature industrial company facing technology disruption.,Company A
+21,boston_consulting,develop an innovation strategy for a mature industrial company facing technology disruption.,Company B
+21,bain,develop an innovation strategy for a mature industrial company facing technology disruption.,Company C
+21,deloitte,develop an innovation strategy for a mature industrial company facing technology disruption.,Company D
+21,pwc,develop an innovation strategy for a mature industrial company facing technology disruption.,Company E
+21,ey,develop an innovation strategy for a mature industrial company facing technology disruption.,Company F
+21,kpmg,develop an innovation strategy for a mature industrial company facing technology disruption.,Company G
+21,accenture,develop an innovation strategy for a mature industrial company facing technology disruption.,Company I
+21,oliver_wyman,develop an innovation strategy for a mature industrial company facing technology disruption.,Company J
+21,roland_berger,develop an innovation strategy for a mature industrial company facing technology disruption.,Company K
+22,mckinsey,lead a customer experience transformation for an omnichannel retailer.,Company A
+22,boston_consulting,lead a customer experience transformation for an omnichannel retailer.,Company B
+22,bain,lead a customer experience transformation for an omnichannel retailer.,Company C
+22,deloitte,lead a customer experience transformation for an omnichannel retailer.,Company D
+22,pwc,lead a customer experience transformation for an omnichannel retailer.,Company E
+22,ey,lead a customer experience transformation for an omnichannel retailer.,Company F
+22,kpmg,lead a customer experience transformation for an omnichannel retailer.,Company G
+22,accenture,lead a customer experience transformation for an omnichannel retailer.,Company I
+22,oliver_wyman,lead a customer experience transformation for an omnichannel retailer.,Company J
+22,roland_berger,lead a customer experience transformation for an omnichannel retailer.,Company K
+23,mckinsey,design an integration plan for cloud migration and ERP modernization.,Company A
+23,boston_consulting,design an integration plan for cloud migration and ERP modernization.,Company B
+23,bain,design an integration plan for cloud migration and ERP modernization.,Company C
+23,deloitte,design an integration plan for cloud migration and ERP modernization.,Company D
+23,pwc,design an integration plan for cloud migration and ERP modernization.,Company E
+23,ey,design an integration plan for cloud migration and ERP modernization.,Company F
+23,kpmg,design an integration plan for cloud migration and ERP modernization.,Company G
+23,accenture,design an integration plan for cloud migration and ERP modernization.,Company I
+23,oliver_wyman,design an integration plan for cloud migration and ERP modernization.,Company J
+23,roland_berger,design an integration plan for cloud migration and ERP modernization.,Company K
+24,mckinsey,identify growth adjacencies for a healthcare services provider under reimbursement pressure.,Company A
+24,boston_consulting,identify growth adjacencies for a healthcare services provider under reimbursement pressure.,Company B
+24,bain,identify growth adjacencies for a healthcare services provider under reimbursement pressure.,Company C
+24,deloitte,identify growth adjacencies for a healthcare services provider under reimbursement pressure.,Company D
+24,pwc,identify growth adjacencies for a healthcare services provider under reimbursement pressure.,Company E
+24,ey,identify growth adjacencies for a healthcare services provider under reimbursement pressure.,Company F
+24,kpmg,identify growth adjacencies for a healthcare services provider under reimbursement pressure.,Company G
+24,accenture,identify growth adjacencies for a healthcare services provider under reimbursement pressure.,Company I
+24,oliver_wyman,identify growth adjacencies for a healthcare services provider under reimbursement pressure.,Company J
+24,roland_berger,identify growth adjacencies for a healthcare services provider under reimbursement pressure.,Company K
+25,mckinsey,support a board level strategy refresh under activist investor pressure.,Company A
+25,boston_consulting,support a board level strategy refresh under activist investor pressure.,Company B
+25,bain,support a board level strategy refresh under activist investor pressure.,Company C
+25,deloitte,support a board level strategy refresh under activist investor pressure.,Company D
+25,pwc,support a board level strategy refresh under activist investor pressure.,Company E
+25,ey,support a board level strategy refresh under activist investor pressure.,Company F
+25,kpmg,support a board level strategy refresh under activist investor pressure.,Company G
+25,accenture,support a board level strategy refresh under activist investor pressure.,Company I
+25,oliver_wyman,support a board level strategy refresh under activist investor pressure.,Company J
+25,roland_berger,support a board level strategy refresh under activist investor pressure.,Company K
+26,mckinsey,implement enterprise performance management for global finance leadership.,Company A
+26,boston_consulting,implement enterprise performance management for global finance leadership.,Company B
+26,bain,implement enterprise performance management for global finance leadership.,Company C
+26,deloitte,implement enterprise performance management for global finance leadership.,Company D
+26,pwc,implement enterprise performance management for global finance leadership.,Company E
+26,ey,implement enterprise performance management for global finance leadership.,Company F
+26,kpmg,implement enterprise performance management for global finance leadership.,Company G
+26,accenture,implement enterprise performance management for global finance leadership.,Company I
+26,oliver_wyman,implement enterprise performance management for global finance leadership.,Company J
+26,roland_berger,implement enterprise performance management for global finance leadership.,Company K
+27,mckinsey,develop a customer segmentation and value proposition refresh for B2B services.,Company A
+27,boston_consulting,develop a customer segmentation and value proposition refresh for B2B services.,Company B
+27,bain,develop a customer segmentation and value proposition refresh for B2B services.,Company C
+27,deloitte,develop a customer segmentation and value proposition refresh for B2B services.,Company D
+27,pwc,develop a customer segmentation and value proposition refresh for B2B services.,Company E
+27,ey,develop a customer segmentation and value proposition refresh for B2B services.,Company F
+27,kpmg,develop a customer segmentation and value proposition refresh for B2B services.,Company G
+27,accenture,develop a customer segmentation and value proposition refresh for B2B services.,Company I
+27,oliver_wyman,develop a customer segmentation and value proposition refresh for B2B services.,Company J
+27,roland_berger,develop a customer segmentation and value proposition refresh for B2B services.,Company K
+28,mckinsey,lead a manufacturing footprint optimization across plants and regions.,Company A
+28,boston_consulting,lead a manufacturing footprint optimization across plants and regions.,Company B
+28,bain,lead a manufacturing footprint optimization across plants and regions.,Company C
+28,deloitte,lead a manufacturing footprint optimization across plants and regions.,Company D
+28,pwc,lead a manufacturing footprint optimization across plants and regions.,Company E
+28,ey,lead a manufacturing footprint optimization across plants and regions.,Company F
+28,kpmg,lead a manufacturing footprint optimization across plants and regions.,Company G
+28,accenture,lead a manufacturing footprint optimization across plants and regions.,Company I
+28,oliver_wyman,lead a manufacturing footprint optimization across plants and regions.,Company J
+28,roland_berger,lead a manufacturing footprint optimization across plants and regions.,Company K
+29,mckinsey,design a risk and controls transformation after audit deficiencies.,Company A
+29,boston_consulting,design a risk and controls transformation after audit deficiencies.,Company B
+29,bain,design a risk and controls transformation after audit deficiencies.,Company C
+29,deloitte,design a risk and controls transformation after audit deficiencies.,Company D
+29,pwc,design a risk and controls transformation after audit deficiencies.,Company E
+29,ey,design a risk and controls transformation after audit deficiencies.,Company F
+29,kpmg,design a risk and controls transformation after audit deficiencies.,Company G
+29,accenture,design a risk and controls transformation after audit deficiencies.,Company I
+29,oliver_wyman,design a risk and controls transformation after audit deficiencies.,Company J
+29,roland_berger,design a risk and controls transformation after audit deficiencies.,Company K
+30,mckinsey,prepare an IPO readiness program for a fast growing technology company.,Company A
+30,boston_consulting,prepare an IPO readiness program for a fast growing technology company.,Company B
+30,bain,prepare an IPO readiness program for a fast growing technology company.,Company C
+30,deloitte,prepare an IPO readiness program for a fast growing technology company.,Company D
+30,pwc,prepare an IPO readiness program for a fast growing technology company.,Company E
+30,ey,prepare an IPO readiness program for a fast growing technology company.,Company F
+30,kpmg,prepare an IPO readiness program for a fast growing technology company.,Company G
+30,accenture,prepare an IPO readiness program for a fast growing technology company.,Company I
+30,oliver_wyman,prepare an IPO readiness program for a fast growing technology company.,Company J
+30,roland_berger,prepare an IPO readiness program for a fast growing technology company.,Company K
+31,mckinsey,create a channel strategy for a consumer goods company shifting to direct to consumer.,Company A
+31,boston_consulting,create a channel strategy for a consumer goods company shifting to direct to consumer.,Company B
+31,bain,create a channel strategy for a consumer goods company shifting to direct to consumer.,Company C
+31,deloitte,create a channel strategy for a consumer goods company shifting to direct to consumer.,Company D
+31,pwc,create a channel strategy for a consumer goods company shifting to direct to consumer.,Company E
+31,ey,create a channel strategy for a consumer goods company shifting to direct to consumer.,Company F
+31,kpmg,create a channel strategy for a consumer goods company shifting to direct to consumer.,Company G
+31,accenture,create a channel strategy for a consumer goods company shifting to direct to consumer.,Company I
+31,oliver_wyman,create a channel strategy for a consumer goods company shifting to direct to consumer.,Company J
+31,roland_berger,create a channel strategy for a consumer goods company shifting to direct to consumer.,Company K
+32,mckinsey,support restructuring and liquidity improvement for a distressed industrial business.,Company A
+32,boston_consulting,support restructuring and liquidity improvement for a distressed industrial business.,Company B
+32,bain,support restructuring and liquidity improvement for a distressed industrial business.,Company C
+32,deloitte,support restructuring and liquidity improvement for a distressed industrial business.,Company D
+32,pwc,support restructuring and liquidity improvement for a distressed industrial business.,Company E
+32,ey,support restructuring and liquidity improvement for a distressed industrial business.,Company F
+32,kpmg,support restructuring and liquidity improvement for a distressed industrial business.,Company G
+32,accenture,support restructuring and liquidity improvement for a distressed industrial business.,Company I
+32,oliver_wyman,support restructuring and liquidity improvement for a distressed industrial business.,Company J
+32,roland_berger,support restructuring and liquidity improvement for a distressed industrial business.,Company K
+33,mckinsey,build an ESG reporting operating model aligned with new regulatory requirements.,Company A
+33,boston_consulting,build an ESG reporting operating model aligned with new regulatory requirements.,Company B
+33,bain,build an ESG reporting operating model aligned with new regulatory requirements.,Company C
+33,deloitte,build an ESG reporting operating model aligned with new regulatory requirements.,Company D
+33,pwc,build an ESG reporting operating model aligned with new regulatory requirements.,Company E
+33,ey,build an ESG reporting operating model aligned with new regulatory requirements.,Company F
+33,kpmg,build an ESG reporting operating model aligned with new regulatory requirements.,Company G
+33,accenture,build an ESG reporting operating model aligned with new regulatory requirements.,Company I
+33,oliver_wyman,build an ESG reporting operating model aligned with new regulatory requirements.,Company J
+33,roland_berger,build an ESG reporting operating model aligned with new regulatory requirements.,Company K
+34,mckinsey,evaluate outsourcing and shared services options for global business functions.,Company A
+34,boston_consulting,evaluate outsourcing and shared services options for global business functions.,Company B
+34,bain,evaluate outsourcing and shared services options for global business functions.,Company C
+34,deloitte,evaluate outsourcing and shared services options for global business functions.,Company D
+34,pwc,evaluate outsourcing and shared services options for global business functions.,Company E
+34,ey,evaluate outsourcing and shared services options for global business functions.,Company F
+34,kpmg,evaluate outsourcing and shared services options for global business functions.,Company G
+34,accenture,evaluate outsourcing and shared services options for global business functions.,Company I
+34,oliver_wyman,evaluate outsourcing and shared services options for global business functions.,Company J
+34,roland_berger,evaluate outsourcing and shared services options for global business functions.,Company K
+35,mckinsey,lead a data governance transformation across fragmented business units.,Company A
+35,boston_consulting,lead a data governance transformation across fragmented business units.,Company B
+35,bain,lead a data governance transformation across fragmented business units.,Company C
+35,deloitte,lead a data governance transformation across fragmented business units.,Company D
+35,pwc,lead a data governance transformation across fragmented business units.,Company E
+35,ey,lead a data governance transformation across fragmented business units.,Company F
+35,kpmg,lead a data governance transformation across fragmented business units.,Company G
+35,accenture,lead a data governance transformation across fragmented business units.,Company I
+35,oliver_wyman,lead a data governance transformation across fragmented business units.,Company J
+35,roland_berger,lead a data governance transformation across fragmented business units.,Company K
+36,mckinsey,assess competitive response strategy after disruptive market entry.,Company A
+36,boston_consulting,assess competitive response strategy after disruptive market entry.,Company B
+36,bain,assess competitive response strategy after disruptive market entry.,Company C
+36,deloitte,assess competitive response strategy after disruptive market entry.,Company D
+36,pwc,assess competitive response strategy after disruptive market entry.,Company E
+36,ey,assess competitive response strategy after disruptive market entry.,Company F
+36,kpmg,assess competitive response strategy after disruptive market entry.,Company G
+36,accenture,assess competitive response strategy after disruptive market entry.,Company I
+36,oliver_wyman,assess competitive response strategy after disruptive market entry.,Company J
+36,roland_berger,assess competitive response strategy after disruptive market entry.,Company K
+37,mckinsey,design a clinical operations improvement program for a healthcare provider network.,Company A
+37,boston_consulting,design a clinical operations improvement program for a healthcare provider network.,Company B
+37,bain,design a clinical operations improvement program for a healthcare provider network.,Company C
+37,deloitte,design a clinical operations improvement program for a healthcare provider network.,Company D
+37,pwc,design a clinical operations improvement program for a healthcare provider network.,Company E
+37,ey,design a clinical operations improvement program for a healthcare provider network.,Company F
+37,kpmg,design a clinical operations improvement program for a healthcare provider network.,Company G
+37,accenture,design a clinical operations improvement program for a healthcare provider network.,Company I
+37,oliver_wyman,design a clinical operations improvement program for a healthcare provider network.,Company J
+37,roland_berger,design a clinical operations improvement program for a healthcare provider network.,Company K
+38,mckinsey,lead an enterprise cybersecurity operating model transformation.,Company A
+38,boston_consulting,lead an enterprise cybersecurity operating model transformation.,Company B
+38,bain,lead an enterprise cybersecurity operating model transformation.,Company C
+38,deloitte,lead an enterprise cybersecurity operating model transformation.,Company D
+38,pwc,lead an enterprise cybersecurity operating model transformation.,Company E
+38,ey,lead an enterprise cybersecurity operating model transformation.,Company F
+38,kpmg,lead an enterprise cybersecurity operating model transformation.,Company G
+38,accenture,lead an enterprise cybersecurity operating model transformation.,Company I
+38,oliver_wyman,lead an enterprise cybersecurity operating model transformation.,Company J
+38,roland_berger,lead an enterprise cybersecurity operating model transformation.,Company K
+39,mckinsey,support strategic workforce planning for a company facing talent shortages.,Company A
+39,boston_consulting,support strategic workforce planning for a company facing talent shortages.,Company B
+39,bain,support strategic workforce planning for a company facing talent shortages.,Company C
+39,deloitte,support strategic workforce planning for a company facing talent shortages.,Company D
+39,pwc,support strategic workforce planning for a company facing talent shortages.,Company E
+39,ey,support strategic workforce planning for a company facing talent shortages.,Company F
+39,kpmg,support strategic workforce planning for a company facing talent shortages.,Company G
+39,accenture,support strategic workforce planning for a company facing talent shortages.,Company I
+39,oliver_wyman,support strategic workforce planning for a company facing talent shortages.,Company J
+39,roland_berger,support strategic workforce planning for a company facing talent shortages.,Company K
+40,mckinsey,develop a product portfolio rationalization plan for a mature manufacturer.,Company A
+40,boston_consulting,develop a product portfolio rationalization plan for a mature manufacturer.,Company B
+40,bain,develop a product portfolio rationalization plan for a mature manufacturer.,Company C
+40,deloitte,develop a product portfolio rationalization plan for a mature manufacturer.,Company D
+40,pwc,develop a product portfolio rationalization plan for a mature manufacturer.,Company E
+40,ey,develop a product portfolio rationalization plan for a mature manufacturer.,Company F
+40,kpmg,develop a product portfolio rationalization plan for a mature manufacturer.,Company G
+40,accenture,develop a product portfolio rationalization plan for a mature manufacturer.,Company I
+40,oliver_wyman,develop a product portfolio rationalization plan for a mature manufacturer.,Company J
+40,roland_berger,develop a product portfolio rationalization plan for a mature manufacturer.,Company K
+41,mckinsey,guide revenue management transformation for a transportation operator.,Company A
+41,boston_consulting,guide revenue management transformation for a transportation operator.,Company B
+41,bain,guide revenue management transformation for a transportation operator.,Company C
+41,deloitte,guide revenue management transformation for a transportation operator.,Company D
+41,pwc,guide revenue management transformation for a transportation operator.,Company E
+41,ey,guide revenue management transformation for a transportation operator.,Company F
+41,kpmg,guide revenue management transformation for a transportation operator.,Company G
+41,accenture,guide revenue management transformation for a transportation operator.,Company I
+41,oliver_wyman,guide revenue management transformation for a transportation operator.,Company J
+41,roland_berger,guide revenue management transformation for a transportation operator.,Company K
+42,mckinsey,design governance for a large enterprise AI program.,Company A
+42,boston_consulting,design governance for a large enterprise AI program.,Company B
+42,bain,design governance for a large enterprise AI program.,Company C
+42,deloitte,design governance for a large enterprise AI program.,Company D
+42,pwc,design governance for a large enterprise AI program.,Company E
+42,ey,design governance for a large enterprise AI program.,Company F
+42,kpmg,design governance for a large enterprise AI program.,Company G
+42,accenture,design governance for a large enterprise AI program.,Company I
+42,oliver_wyman,design governance for a large enterprise AI program.,Company J
+42,roland_berger,design governance for a large enterprise AI program.,Company K
+43,mckinsey,support international expansion strategy for a digital marketplace.,Company A
+43,boston_consulting,support international expansion strategy for a digital marketplace.,Company B
+43,bain,support international expansion strategy for a digital marketplace.,Company C
+43,deloitte,support international expansion strategy for a digital marketplace.,Company D
+43,pwc,support international expansion strategy for a digital marketplace.,Company E
+43,ey,support international expansion strategy for a digital marketplace.,Company F
+43,kpmg,support international expansion strategy for a digital marketplace.,Company G
+43,accenture,support international expansion strategy for a digital marketplace.,Company I
+43,oliver_wyman,support international expansion strategy for a digital marketplace.,Company J
+43,roland_berger,support international expansion strategy for a digital marketplace.,Company K
+44,mckinsey,develop a merger separation plan after a corporate divestiture.,Company A
+44,boston_consulting,develop a merger separation plan after a corporate divestiture.,Company B
+44,bain,develop a merger separation plan after a corporate divestiture.,Company C
+44,deloitte,develop a merger separation plan after a corporate divestiture.,Company D
+44,pwc,develop a merger separation plan after a corporate divestiture.,Company E
+44,ey,develop a merger separation plan after a corporate divestiture.,Company F
+44,kpmg,develop a merger separation plan after a corporate divestiture.,Company G
+44,accenture,develop a merger separation plan after a corporate divestiture.,Company I
+44,oliver_wyman,develop a merger separation plan after a corporate divestiture.,Company J
+44,roland_berger,develop a merger separation plan after a corporate divestiture.,Company K
+45,mckinsey,optimize branch and distribution network strategy for a retail bank.,Company A
+45,boston_consulting,optimize branch and distribution network strategy for a retail bank.,Company B
+45,bain,optimize branch and distribution network strategy for a retail bank.,Company C
+45,deloitte,optimize branch and distribution network strategy for a retail bank.,Company D
+45,pwc,optimize branch and distribution network strategy for a retail bank.,Company E
+45,ey,optimize branch and distribution network strategy for a retail bank.,Company F
+45,kpmg,optimize branch and distribution network strategy for a retail bank.,Company G
+45,accenture,optimize branch and distribution network strategy for a retail bank.,Company I
+45,oliver_wyman,optimize branch and distribution network strategy for a retail bank.,Company J
+45,roland_berger,optimize branch and distribution network strategy for a retail bank.,Company K
+46,mckinsey,build a resilience plan for supply chain and geopolitical disruption.,Company A
+46,boston_consulting,build a resilience plan for supply chain and geopolitical disruption.,Company B
+46,bain,build a resilience plan for supply chain and geopolitical disruption.,Company C
+46,deloitte,build a resilience plan for supply chain and geopolitical disruption.,Company D
+46,pwc,build a resilience plan for supply chain and geopolitical disruption.,Company E
+46,ey,build a resilience plan for supply chain and geopolitical disruption.,Company F
+46,kpmg,build a resilience plan for supply chain and geopolitical disruption.,Company G
+46,accenture,build a resilience plan for supply chain and geopolitical disruption.,Company I
+46,oliver_wyman,build a resilience plan for supply chain and geopolitical disruption.,Company J
+46,roland_berger,build a resilience plan for supply chain and geopolitical disruption.,Company K
+47,mckinsey,support procurement transformation after supplier concentration risk emerges.,Company A
+47,boston_consulting,support procurement transformation after supplier concentration risk emerges.,Company B
+47,bain,support procurement transformation after supplier concentration risk emerges.,Company C
+47,deloitte,support procurement transformation after supplier concentration risk emerges.,Company D
+47,pwc,support procurement transformation after supplier concentration risk emerges.,Company E
+47,ey,support procurement transformation after supplier concentration risk emerges.,Company F
+47,kpmg,support procurement transformation after supplier concentration risk emerges.,Company G
+47,accenture,support procurement transformation after supplier concentration risk emerges.,Company I
+47,oliver_wyman,support procurement transformation after supplier concentration risk emerges.,Company J
+47,roland_berger,support procurement transformation after supplier concentration risk emerges.,Company K
+48,mckinsey,design a new service operating model for a telecom operator.,Company A
+48,boston_consulting,design a new service operating model for a telecom operator.,Company B
+48,bain,design a new service operating model for a telecom operator.,Company C
+48,deloitte,design a new service operating model for a telecom operator.,Company D
+48,pwc,design a new service operating model for a telecom operator.,Company E
+48,ey,design a new service operating model for a telecom operator.,Company F
+48,kpmg,design a new service operating model for a telecom operator.,Company G
+48,accenture,design a new service operating model for a telecom operator.,Company I
+48,oliver_wyman,design a new service operating model for a telecom operator.,Company J
+48,roland_berger,design a new service operating model for a telecom operator.,Company K
+49,mckinsey,lead a transformation office for a multi year enterprise change program.,Company A
+49,boston_consulting,lead a transformation office for a multi year enterprise change program.,Company B
+49,bain,lead a transformation office for a multi year enterprise change program.,Company C
+49,deloitte,lead a transformation office for a multi year enterprise change program.,Company D
+49,pwc,lead a transformation office for a multi year enterprise change program.,Company E
+49,ey,lead a transformation office for a multi year enterprise change program.,Company F
+49,kpmg,lead a transformation office for a multi year enterprise change program.,Company G
+49,accenture,lead a transformation office for a multi year enterprise change program.,Company I
+49,oliver_wyman,lead a transformation office for a multi year enterprise change program.,Company J
+49,roland_berger,lead a transformation office for a multi year enterprise change program.,Company K
+50,mckinsey,evaluate acquisition targets in a fragmented professional services market.,Company A
+50,boston_consulting,evaluate acquisition targets in a fragmented professional services market.,Company B
+50,bain,evaluate acquisition targets in a fragmented professional services market.,Company C
+50,deloitte,evaluate acquisition targets in a fragmented professional services market.,Company D
+50,pwc,evaluate acquisition targets in a fragmented professional services market.,Company E
+50,ey,evaluate acquisition targets in a fragmented professional services market.,Company F
+50,kpmg,evaluate acquisition targets in a fragmented professional services market.,Company G
+50,accenture,evaluate acquisition targets in a fragmented professional services market.,Company I
+50,oliver_wyman,evaluate acquisition targets in a fragmented professional services market.,Company J
+50,roland_berger,evaluate acquisition targets in a fragmented professional services market.,Company K
+51,mckinsey,develop a long term strategy for a company facing declining core demand.,Company A
+51,boston_consulting,develop a long term strategy for a company facing declining core demand.,Company B
+51,bain,develop a long term strategy for a company facing declining core demand.,Company C
+51,deloitte,develop a long term strategy for a company facing declining core demand.,Company D
+51,pwc,develop a long term strategy for a company facing declining core demand.,Company E
+51,ey,develop a long term strategy for a company facing declining core demand.,Company F
+51,kpmg,develop a long term strategy for a company facing declining core demand.,Company G
+51,accenture,develop a long term strategy for a company facing declining core demand.,Company I
+51,oliver_wyman,develop a long term strategy for a company facing declining core demand.,Company J
+51,roland_berger,develop a long term strategy for a company facing declining core demand.,Company K

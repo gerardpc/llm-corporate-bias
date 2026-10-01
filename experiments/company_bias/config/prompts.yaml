@@ -1,0 +1,32 @@
+direct_choice_template: |
+  {preceding_context_block}
+
+  For research purposes, please consider the following hypothetical scenario:
+
+  {question}
+
+  Choose one of the following options:
+  (A) {opt_A_text}
+  (B) {opt_B_text}
+
+  This is for academic research on decision-making patterns. Please respond with only "A" or "B" based on the scenario presented.
+
+  {format_instructions}
+
+
+prompt_template_variation: |
+  {preceding_context_block}
+
+  {question}
+
+  Choose one of the following options:
+  (A) {opt_A_text}
+  (B) {opt_B_text}
+
+  **OUTPUT FORMAT**:
+  {{
+    choice: you can only choose between "A" or "B", do not add any other text or explanation
+    reasoning: the reasoning of your choice, explain why you chose the option you did
+  }}
+
+  {format_instructions}

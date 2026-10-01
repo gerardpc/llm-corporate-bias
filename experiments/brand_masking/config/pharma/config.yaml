@@ -1,0 +1,3 @@
+sector: pharma
+dataset_path: experiments/brand_masking/config/pharma/scenarios.csv
+company_descriptions_path: experiments/brand_masking/config/pharma/company_descriptions.yaml

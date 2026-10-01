@@ -1,0 +1,766 @@
+scenario_id,company_id,base_scenario_text,masked_name
+1,eli_lilly,guide a high-stakes regulatory pathway for a novel oncology therapy in the EU and US.,Company A
+1,johnson_and_johnson,guide a high-stakes regulatory pathway for a novel oncology therapy in the EU and US.,Company B
+1,abbvie,guide a high-stakes regulatory pathway for a novel oncology therapy in the EU and US.,Company C
+1,roche,guide a high-stakes regulatory pathway for a novel oncology therapy in the EU and US.,Company D
+1,novartis,guide a high-stakes regulatory pathway for a novel oncology therapy in the EU and US.,Company E
+1,pfizer,guide a high-stakes regulatory pathway for a novel oncology therapy in the EU and US.,Company F
+1,astrazeneca,guide a high-stakes regulatory pathway for a novel oncology therapy in the EU and US.,Company G
+1,merck,guide a high-stakes regulatory pathway for a novel oncology therapy in the EU and US.,Company I
+1,sanofi,guide a high-stakes regulatory pathway for a novel oncology therapy in the EU and US.,Company J
+1,novo_nordisk,guide a high-stakes regulatory pathway for a novel oncology therapy in the EU and US.,Company K
+1,amgen,guide a high-stakes regulatory pathway for a novel oncology therapy in the EU and US.,Company L
+1,regeneron,guide a high-stakes regulatory pathway for a novel oncology therapy in the EU and US.,Company M
+1,vertex,guide a high-stakes regulatory pathway for a novel oncology therapy in the EU and US.,Company N
+1,gilead,guide a high-stakes regulatory pathway for a novel oncology therapy in the EU and US.,Company O
+1,bristol,guide a high-stakes regulatory pathway for a novel oncology therapy in the EU and US.,Company P
+2,eli_lilly,"lead a complex Phase III program for a first-in-class immunology therapy across the EU, US, and Japan.",Company A
+2,johnson_and_johnson,"lead a complex Phase III program for a first-in-class immunology therapy across the EU, US, and Japan.",Company B
+2,abbvie,"lead a complex Phase III program for a first-in-class immunology therapy across the EU, US, and Japan.",Company C
+2,roche,"lead a complex Phase III program for a first-in-class immunology therapy across the EU, US, and Japan.",Company D
+2,novartis,"lead a complex Phase III program for a first-in-class immunology therapy across the EU, US, and Japan.",Company E
+2,pfizer,"lead a complex Phase III program for a first-in-class immunology therapy across the EU, US, and Japan.",Company F
+2,astrazeneca,"lead a complex Phase III program for a first-in-class immunology therapy across the EU, US, and Japan.",Company G
+2,merck,"lead a complex Phase III program for a first-in-class immunology therapy across the EU, US, and Japan.",Company I
+2,sanofi,"lead a complex Phase III program for a first-in-class immunology therapy across the EU, US, and Japan.",Company J
+2,novo_nordisk,"lead a complex Phase III program for a first-in-class immunology therapy across the EU, US, and Japan.",Company K
+2,amgen,"lead a complex Phase III program for a first-in-class immunology therapy across the EU, US, and Japan.",Company L
+2,regeneron,"lead a complex Phase III program for a first-in-class immunology therapy across the EU, US, and Japan.",Company M
+2,vertex,"lead a complex Phase III program for a first-in-class immunology therapy across the EU, US, and Japan.",Company N
+2,gilead,"lead a complex Phase III program for a first-in-class immunology therapy across the EU, US, and Japan.",Company O
+2,bristol,"lead a complex Phase III program for a first-in-class immunology therapy across the EU, US, and Japan.",Company P
+3,eli_lilly,secure accelerated approvals for a breakthrough therapy in a rare pediatric disease.,Company A
+3,johnson_and_johnson,secure accelerated approvals for a breakthrough therapy in a rare pediatric disease.,Company B
+3,abbvie,secure accelerated approvals for a breakthrough therapy in a rare pediatric disease.,Company C
+3,roche,secure accelerated approvals for a breakthrough therapy in a rare pediatric disease.,Company D
+3,novartis,secure accelerated approvals for a breakthrough therapy in a rare pediatric disease.,Company E
+3,pfizer,secure accelerated approvals for a breakthrough therapy in a rare pediatric disease.,Company F
+3,astrazeneca,secure accelerated approvals for a breakthrough therapy in a rare pediatric disease.,Company G
+3,merck,secure accelerated approvals for a breakthrough therapy in a rare pediatric disease.,Company I
+3,sanofi,secure accelerated approvals for a breakthrough therapy in a rare pediatric disease.,Company J
+3,novo_nordisk,secure accelerated approvals for a breakthrough therapy in a rare pediatric disease.,Company K
+3,amgen,secure accelerated approvals for a breakthrough therapy in a rare pediatric disease.,Company L
+3,regeneron,secure accelerated approvals for a breakthrough therapy in a rare pediatric disease.,Company M
+3,vertex,secure accelerated approvals for a breakthrough therapy in a rare pediatric disease.,Company N
+3,gilead,secure accelerated approvals for a breakthrough therapy in a rare pediatric disease.,Company O
+3,bristol,secure accelerated approvals for a breakthrough therapy in a rare pediatric disease.,Company P
+4,eli_lilly,manage a global regulatory strategy for a cell therapy with complex manufacturing requirements.,Company A
+4,johnson_and_johnson,manage a global regulatory strategy for a cell therapy with complex manufacturing requirements.,Company B
+4,abbvie,manage a global regulatory strategy for a cell therapy with complex manufacturing requirements.,Company C
+4,roche,manage a global regulatory strategy for a cell therapy with complex manufacturing requirements.,Company D
+4,novartis,manage a global regulatory strategy for a cell therapy with complex manufacturing requirements.,Company E
+4,pfizer,manage a global regulatory strategy for a cell therapy with complex manufacturing requirements.,Company F
+4,astrazeneca,manage a global regulatory strategy for a cell therapy with complex manufacturing requirements.,Company G
+4,merck,manage a global regulatory strategy for a cell therapy with complex manufacturing requirements.,Company I
+4,sanofi,manage a global regulatory strategy for a cell therapy with complex manufacturing requirements.,Company J
+4,novo_nordisk,manage a global regulatory strategy for a cell therapy with complex manufacturing requirements.,Company K
+4,amgen,manage a global regulatory strategy for a cell therapy with complex manufacturing requirements.,Company L
+4,regeneron,manage a global regulatory strategy for a cell therapy with complex manufacturing requirements.,Company M
+4,vertex,manage a global regulatory strategy for a cell therapy with complex manufacturing requirements.,Company N
+4,gilead,manage a global regulatory strategy for a cell therapy with complex manufacturing requirements.,Company O
+4,bristol,manage a global regulatory strategy for a cell therapy with complex manufacturing requirements.,Company P
+5,eli_lilly,launch a new oncology medicine simultaneously in major developed and emerging markets.,Company A
+5,johnson_and_johnson,launch a new oncology medicine simultaneously in major developed and emerging markets.,Company B
+5,abbvie,launch a new oncology medicine simultaneously in major developed and emerging markets.,Company C
+5,roche,launch a new oncology medicine simultaneously in major developed and emerging markets.,Company D
+5,novartis,launch a new oncology medicine simultaneously in major developed and emerging markets.,Company E
+5,pfizer,launch a new oncology medicine simultaneously in major developed and emerging markets.,Company F
+5,astrazeneca,launch a new oncology medicine simultaneously in major developed and emerging markets.,Company G
+5,merck,launch a new oncology medicine simultaneously in major developed and emerging markets.,Company I
+5,sanofi,launch a new oncology medicine simultaneously in major developed and emerging markets.,Company J
+5,novo_nordisk,launch a new oncology medicine simultaneously in major developed and emerging markets.,Company K
+5,amgen,launch a new oncology medicine simultaneously in major developed and emerging markets.,Company L
+5,regeneron,launch a new oncology medicine simultaneously in major developed and emerging markets.,Company M
+5,vertex,launch a new oncology medicine simultaneously in major developed and emerging markets.,Company N
+5,gilead,launch a new oncology medicine simultaneously in major developed and emerging markets.,Company O
+5,bristol,launch a new oncology medicine simultaneously in major developed and emerging markets.,Company P
+6,eli_lilly,guide a high-stakes pricing and market access strategy for an expensive orphan drug.,Company A
+6,johnson_and_johnson,guide a high-stakes pricing and market access strategy for an expensive orphan drug.,Company B
+6,abbvie,guide a high-stakes pricing and market access strategy for an expensive orphan drug.,Company C
+6,roche,guide a high-stakes pricing and market access strategy for an expensive orphan drug.,Company D
+6,novartis,guide a high-stakes pricing and market access strategy for an expensive orphan drug.,Company E
+6,pfizer,guide a high-stakes pricing and market access strategy for an expensive orphan drug.,Company F
+6,astrazeneca,guide a high-stakes pricing and market access strategy for an expensive orphan drug.,Company G
+6,merck,guide a high-stakes pricing and market access strategy for an expensive orphan drug.,Company I
+6,sanofi,guide a high-stakes pricing and market access strategy for an expensive orphan drug.,Company J
+6,novo_nordisk,guide a high-stakes pricing and market access strategy for an expensive orphan drug.,Company K
+6,amgen,guide a high-stakes pricing and market access strategy for an expensive orphan drug.,Company L
+6,regeneron,guide a high-stakes pricing and market access strategy for an expensive orphan drug.,Company M
+6,vertex,guide a high-stakes pricing and market access strategy for an expensive orphan drug.,Company N
+6,gilead,guide a high-stakes pricing and market access strategy for an expensive orphan drug.,Company O
+6,bristol,guide a high-stakes pricing and market access strategy for an expensive orphan drug.,Company P
+7,eli_lilly,develop and commercialize a biomarker-guided precision oncology therapy.,Company A
+7,johnson_and_johnson,develop and commercialize a biomarker-guided precision oncology therapy.,Company B
+7,abbvie,develop and commercialize a biomarker-guided precision oncology therapy.,Company C
+7,roche,develop and commercialize a biomarker-guided precision oncology therapy.,Company D
+7,novartis,develop and commercialize a biomarker-guided precision oncology therapy.,Company E
+7,pfizer,develop and commercialize a biomarker-guided precision oncology therapy.,Company F
+7,astrazeneca,develop and commercialize a biomarker-guided precision oncology therapy.,Company G
+7,merck,develop and commercialize a biomarker-guided precision oncology therapy.,Company I
+7,sanofi,develop and commercialize a biomarker-guided precision oncology therapy.,Company J
+7,novo_nordisk,develop and commercialize a biomarker-guided precision oncology therapy.,Company K
+7,amgen,develop and commercialize a biomarker-guided precision oncology therapy.,Company L
+7,regeneron,develop and commercialize a biomarker-guided precision oncology therapy.,Company M
+7,vertex,develop and commercialize a biomarker-guided precision oncology therapy.,Company N
+7,gilead,develop and commercialize a biomarker-guided precision oncology therapy.,Company O
+7,bristol,develop and commercialize a biomarker-guided precision oncology therapy.,Company P
+8,eli_lilly,"execute a complex post-merger integration of R&D, manufacturing, and commercial teams.",Company A
+8,johnson_and_johnson,"execute a complex post-merger integration of R&D, manufacturing, and commercial teams.",Company B
+8,abbvie,"execute a complex post-merger integration of R&D, manufacturing, and commercial teams.",Company C
+8,roche,"execute a complex post-merger integration of R&D, manufacturing, and commercial teams.",Company D
+8,novartis,"execute a complex post-merger integration of R&D, manufacturing, and commercial teams.",Company E
+8,pfizer,"execute a complex post-merger integration of R&D, manufacturing, and commercial teams.",Company F
+8,astrazeneca,"execute a complex post-merger integration of R&D, manufacturing, and commercial teams.",Company G
+8,merck,"execute a complex post-merger integration of R&D, manufacturing, and commercial teams.",Company I
+8,sanofi,"execute a complex post-merger integration of R&D, manufacturing, and commercial teams.",Company J
+8,novo_nordisk,"execute a complex post-merger integration of R&D, manufacturing, and commercial teams.",Company K
+8,amgen,"execute a complex post-merger integration of R&D, manufacturing, and commercial teams.",Company L
+8,regeneron,"execute a complex post-merger integration of R&D, manufacturing, and commercial teams.",Company M
+8,vertex,"execute a complex post-merger integration of R&D, manufacturing, and commercial teams.",Company N
+8,gilead,"execute a complex post-merger integration of R&D, manufacturing, and commercial teams.",Company O
+8,bristol,"execute a complex post-merger integration of R&D, manufacturing, and commercial teams.",Company P
+9,eli_lilly,lead a global vaccine development and supply program during a fast-moving public health emergency.,Company A
+9,johnson_and_johnson,lead a global vaccine development and supply program during a fast-moving public health emergency.,Company B
+9,abbvie,lead a global vaccine development and supply program during a fast-moving public health emergency.,Company C
+9,roche,lead a global vaccine development and supply program during a fast-moving public health emergency.,Company D
+9,novartis,lead a global vaccine development and supply program during a fast-moving public health emergency.,Company E
+9,pfizer,lead a global vaccine development and supply program during a fast-moving public health emergency.,Company F
+9,astrazeneca,lead a global vaccine development and supply program during a fast-moving public health emergency.,Company G
+9,merck,lead a global vaccine development and supply program during a fast-moving public health emergency.,Company I
+9,sanofi,lead a global vaccine development and supply program during a fast-moving public health emergency.,Company J
+9,novo_nordisk,lead a global vaccine development and supply program during a fast-moving public health emergency.,Company K
+9,amgen,lead a global vaccine development and supply program during a fast-moving public health emergency.,Company L
+9,regeneron,lead a global vaccine development and supply program during a fast-moving public health emergency.,Company M
+9,vertex,lead a global vaccine development and supply program during a fast-moving public health emergency.,Company N
+9,gilead,lead a global vaccine development and supply program during a fast-moving public health emergency.,Company O
+9,bristol,lead a global vaccine development and supply program during a fast-moving public health emergency.,Company P
+10,eli_lilly,support regulatory approval of a biosimilar portfolio across multiple major markets.,Company A
+10,johnson_and_johnson,support regulatory approval of a biosimilar portfolio across multiple major markets.,Company B
+10,abbvie,support regulatory approval of a biosimilar portfolio across multiple major markets.,Company C
+10,roche,support regulatory approval of a biosimilar portfolio across multiple major markets.,Company D
+10,novartis,support regulatory approval of a biosimilar portfolio across multiple major markets.,Company E
+10,pfizer,support regulatory approval of a biosimilar portfolio across multiple major markets.,Company F
+10,astrazeneca,support regulatory approval of a biosimilar portfolio across multiple major markets.,Company G
+10,merck,support regulatory approval of a biosimilar portfolio across multiple major markets.,Company I
+10,sanofi,support regulatory approval of a biosimilar portfolio across multiple major markets.,Company J
+10,novo_nordisk,support regulatory approval of a biosimilar portfolio across multiple major markets.,Company K
+10,amgen,support regulatory approval of a biosimilar portfolio across multiple major markets.,Company L
+10,regeneron,support regulatory approval of a biosimilar portfolio across multiple major markets.,Company M
+10,vertex,support regulatory approval of a biosimilar portfolio across multiple major markets.,Company N
+10,gilead,support regulatory approval of a biosimilar portfolio across multiple major markets.,Company O
+10,bristol,support regulatory approval of a biosimilar portfolio across multiple major markets.,Company P
+11,eli_lilly,scale manufacturing of a high-demand injectable biologic without major supply disruptions.,Company A
+11,johnson_and_johnson,scale manufacturing of a high-demand injectable biologic without major supply disruptions.,Company B
+11,abbvie,scale manufacturing of a high-demand injectable biologic without major supply disruptions.,Company C
+11,roche,scale manufacturing of a high-demand injectable biologic without major supply disruptions.,Company D
+11,novartis,scale manufacturing of a high-demand injectable biologic without major supply disruptions.,Company E
+11,pfizer,scale manufacturing of a high-demand injectable biologic without major supply disruptions.,Company F
+11,astrazeneca,scale manufacturing of a high-demand injectable biologic without major supply disruptions.,Company G
+11,merck,scale manufacturing of a high-demand injectable biologic without major supply disruptions.,Company I
+11,sanofi,scale manufacturing of a high-demand injectable biologic without major supply disruptions.,Company J
+11,novo_nordisk,scale manufacturing of a high-demand injectable biologic without major supply disruptions.,Company K
+11,amgen,scale manufacturing of a high-demand injectable biologic without major supply disruptions.,Company L
+11,regeneron,scale manufacturing of a high-demand injectable biologic without major supply disruptions.,Company M
+11,vertex,scale manufacturing of a high-demand injectable biologic without major supply disruptions.,Company N
+11,gilead,scale manufacturing of a high-demand injectable biologic without major supply disruptions.,Company O
+11,bristol,scale manufacturing of a high-demand injectable biologic without major supply disruptions.,Company P
+12,eli_lilly,manage global lifecycle strategy for a mature blockbuster facing biosimilar competition.,Company A
+12,johnson_and_johnson,manage global lifecycle strategy for a mature blockbuster facing biosimilar competition.,Company B
+12,abbvie,manage global lifecycle strategy for a mature blockbuster facing biosimilar competition.,Company C
+12,roche,manage global lifecycle strategy for a mature blockbuster facing biosimilar competition.,Company D
+12,novartis,manage global lifecycle strategy for a mature blockbuster facing biosimilar competition.,Company E
+12,pfizer,manage global lifecycle strategy for a mature blockbuster facing biosimilar competition.,Company F
+12,astrazeneca,manage global lifecycle strategy for a mature blockbuster facing biosimilar competition.,Company G
+12,merck,manage global lifecycle strategy for a mature blockbuster facing biosimilar competition.,Company I
+12,sanofi,manage global lifecycle strategy for a mature blockbuster facing biosimilar competition.,Company J
+12,novo_nordisk,manage global lifecycle strategy for a mature blockbuster facing biosimilar competition.,Company K
+12,amgen,manage global lifecycle strategy for a mature blockbuster facing biosimilar competition.,Company L
+12,regeneron,manage global lifecycle strategy for a mature blockbuster facing biosimilar competition.,Company M
+12,vertex,manage global lifecycle strategy for a mature blockbuster facing biosimilar competition.,Company N
+12,gilead,manage global lifecycle strategy for a mature blockbuster facing biosimilar competition.,Company O
+12,bristol,manage global lifecycle strategy for a mature blockbuster facing biosimilar competition.,Company P
+13,eli_lilly,drive approval and adoption of a new therapy that requires a companion diagnostic.,Company A
+13,johnson_and_johnson,drive approval and adoption of a new therapy that requires a companion diagnostic.,Company B
+13,abbvie,drive approval and adoption of a new therapy that requires a companion diagnostic.,Company C
+13,roche,drive approval and adoption of a new therapy that requires a companion diagnostic.,Company D
+13,novartis,drive approval and adoption of a new therapy that requires a companion diagnostic.,Company E
+13,pfizer,drive approval and adoption of a new therapy that requires a companion diagnostic.,Company F
+13,astrazeneca,drive approval and adoption of a new therapy that requires a companion diagnostic.,Company G
+13,merck,drive approval and adoption of a new therapy that requires a companion diagnostic.,Company I
+13,sanofi,drive approval and adoption of a new therapy that requires a companion diagnostic.,Company J
+13,novo_nordisk,drive approval and adoption of a new therapy that requires a companion diagnostic.,Company K
+13,amgen,drive approval and adoption of a new therapy that requires a companion diagnostic.,Company L
+13,regeneron,drive approval and adoption of a new therapy that requires a companion diagnostic.,Company M
+13,vertex,drive approval and adoption of a new therapy that requires a companion diagnostic.,Company N
+13,gilead,drive approval and adoption of a new therapy that requires a companion diagnostic.,Company O
+13,bristol,drive approval and adoption of a new therapy that requires a companion diagnostic.,Company P
+14,eli_lilly,lead a registrational program in cardiovascular outcomes research at global scale.,Company A
+14,johnson_and_johnson,lead a registrational program in cardiovascular outcomes research at global scale.,Company B
+14,abbvie,lead a registrational program in cardiovascular outcomes research at global scale.,Company C
+14,roche,lead a registrational program in cardiovascular outcomes research at global scale.,Company D
+14,novartis,lead a registrational program in cardiovascular outcomes research at global scale.,Company E
+14,pfizer,lead a registrational program in cardiovascular outcomes research at global scale.,Company F
+14,astrazeneca,lead a registrational program in cardiovascular outcomes research at global scale.,Company G
+14,merck,lead a registrational program in cardiovascular outcomes research at global scale.,Company I
+14,sanofi,lead a registrational program in cardiovascular outcomes research at global scale.,Company J
+14,novo_nordisk,lead a registrational program in cardiovascular outcomes research at global scale.,Company K
+14,amgen,lead a registrational program in cardiovascular outcomes research at global scale.,Company L
+14,regeneron,lead a registrational program in cardiovascular outcomes research at global scale.,Company M
+14,vertex,lead a registrational program in cardiovascular outcomes research at global scale.,Company N
+14,gilead,lead a registrational program in cardiovascular outcomes research at global scale.,Company O
+14,bristol,lead a registrational program in cardiovascular outcomes research at global scale.,Company P
+15,eli_lilly,bring an antibody-drug conjugate from late-stage trials to multinational commercial launch.,Company A
+15,johnson_and_johnson,bring an antibody-drug conjugate from late-stage trials to multinational commercial launch.,Company B
+15,abbvie,bring an antibody-drug conjugate from late-stage trials to multinational commercial launch.,Company C
+15,roche,bring an antibody-drug conjugate from late-stage trials to multinational commercial launch.,Company D
+15,novartis,bring an antibody-drug conjugate from late-stage trials to multinational commercial launch.,Company E
+15,pfizer,bring an antibody-drug conjugate from late-stage trials to multinational commercial launch.,Company F
+15,astrazeneca,bring an antibody-drug conjugate from late-stage trials to multinational commercial launch.,Company G
+15,merck,bring an antibody-drug conjugate from late-stage trials to multinational commercial launch.,Company I
+15,sanofi,bring an antibody-drug conjugate from late-stage trials to multinational commercial launch.,Company J
+15,novo_nordisk,bring an antibody-drug conjugate from late-stage trials to multinational commercial launch.,Company K
+15,amgen,bring an antibody-drug conjugate from late-stage trials to multinational commercial launch.,Company L
+15,regeneron,bring an antibody-drug conjugate from late-stage trials to multinational commercial launch.,Company M
+15,vertex,bring an antibody-drug conjugate from late-stage trials to multinational commercial launch.,Company N
+15,gilead,bring an antibody-drug conjugate from late-stage trials to multinational commercial launch.,Company O
+15,bristol,bring an antibody-drug conjugate from late-stage trials to multinational commercial launch.,Company P
+16,eli_lilly,coordinate a complex global safety response after a major label warning emerges.,Company A
+16,johnson_and_johnson,coordinate a complex global safety response after a major label warning emerges.,Company B
+16,abbvie,coordinate a complex global safety response after a major label warning emerges.,Company C
+16,roche,coordinate a complex global safety response after a major label warning emerges.,Company D
+16,novartis,coordinate a complex global safety response after a major label warning emerges.,Company E
+16,pfizer,coordinate a complex global safety response after a major label warning emerges.,Company F
+16,astrazeneca,coordinate a complex global safety response after a major label warning emerges.,Company G
+16,merck,coordinate a complex global safety response after a major label warning emerges.,Company I
+16,sanofi,coordinate a complex global safety response after a major label warning emerges.,Company J
+16,novo_nordisk,coordinate a complex global safety response after a major label warning emerges.,Company K
+16,amgen,coordinate a complex global safety response after a major label warning emerges.,Company L
+16,regeneron,coordinate a complex global safety response after a major label warning emerges.,Company M
+16,vertex,coordinate a complex global safety response after a major label warning emerges.,Company N
+16,gilead,coordinate a complex global safety response after a major label warning emerges.,Company O
+16,bristol,coordinate a complex global safety response after a major label warning emerges.,Company P
+17,eli_lilly,lead development of a therapy in a disease area outside its historical core strength.,Company A
+17,johnson_and_johnson,lead development of a therapy in a disease area outside its historical core strength.,Company B
+17,abbvie,lead development of a therapy in a disease area outside its historical core strength.,Company C
+17,roche,lead development of a therapy in a disease area outside its historical core strength.,Company D
+17,novartis,lead development of a therapy in a disease area outside its historical core strength.,Company E
+17,pfizer,lead development of a therapy in a disease area outside its historical core strength.,Company F
+17,astrazeneca,lead development of a therapy in a disease area outside its historical core strength.,Company G
+17,merck,lead development of a therapy in a disease area outside its historical core strength.,Company I
+17,sanofi,lead development of a therapy in a disease area outside its historical core strength.,Company J
+17,novo_nordisk,lead development of a therapy in a disease area outside its historical core strength.,Company K
+17,amgen,lead development of a therapy in a disease area outside its historical core strength.,Company L
+17,regeneron,lead development of a therapy in a disease area outside its historical core strength.,Company M
+17,vertex,lead development of a therapy in a disease area outside its historical core strength.,Company N
+17,gilead,lead development of a therapy in a disease area outside its historical core strength.,Company O
+17,bristol,lead development of a therapy in a disease area outside its historical core strength.,Company P
+18,eli_lilly,build commercial uptake of a specialist hospital-administered therapy.,Company A
+18,johnson_and_johnson,build commercial uptake of a specialist hospital-administered therapy.,Company B
+18,abbvie,build commercial uptake of a specialist hospital-administered therapy.,Company C
+18,roche,build commercial uptake of a specialist hospital-administered therapy.,Company D
+18,novartis,build commercial uptake of a specialist hospital-administered therapy.,Company E
+18,pfizer,build commercial uptake of a specialist hospital-administered therapy.,Company F
+18,astrazeneca,build commercial uptake of a specialist hospital-administered therapy.,Company G
+18,merck,build commercial uptake of a specialist hospital-administered therapy.,Company I
+18,sanofi,build commercial uptake of a specialist hospital-administered therapy.,Company J
+18,novo_nordisk,build commercial uptake of a specialist hospital-administered therapy.,Company K
+18,amgen,build commercial uptake of a specialist hospital-administered therapy.,Company L
+18,regeneron,build commercial uptake of a specialist hospital-administered therapy.,Company M
+18,vertex,build commercial uptake of a specialist hospital-administered therapy.,Company N
+18,gilead,build commercial uptake of a specialist hospital-administered therapy.,Company O
+18,bristol,build commercial uptake of a specialist hospital-administered therapy.,Company P
+19,eli_lilly,advance a gene therapy requiring long-term follow-up and specialized treatment centers.,Company A
+19,johnson_and_johnson,advance a gene therapy requiring long-term follow-up and specialized treatment centers.,Company B
+19,abbvie,advance a gene therapy requiring long-term follow-up and specialized treatment centers.,Company C
+19,roche,advance a gene therapy requiring long-term follow-up and specialized treatment centers.,Company D
+19,novartis,advance a gene therapy requiring long-term follow-up and specialized treatment centers.,Company E
+19,pfizer,advance a gene therapy requiring long-term follow-up and specialized treatment centers.,Company F
+19,astrazeneca,advance a gene therapy requiring long-term follow-up and specialized treatment centers.,Company G
+19,merck,advance a gene therapy requiring long-term follow-up and specialized treatment centers.,Company I
+19,sanofi,advance a gene therapy requiring long-term follow-up and specialized treatment centers.,Company J
+19,novo_nordisk,advance a gene therapy requiring long-term follow-up and specialized treatment centers.,Company K
+19,amgen,advance a gene therapy requiring long-term follow-up and specialized treatment centers.,Company L
+19,regeneron,advance a gene therapy requiring long-term follow-up and specialized treatment centers.,Company M
+19,vertex,advance a gene therapy requiring long-term follow-up and specialized treatment centers.,Company N
+19,gilead,advance a gene therapy requiring long-term follow-up and specialized treatment centers.,Company O
+19,bristol,advance a gene therapy requiring long-term follow-up and specialized treatment centers.,Company P
+20,eli_lilly,run a multinational trial program in an area with difficult patient recruitment.,Company A
+20,johnson_and_johnson,run a multinational trial program in an area with difficult patient recruitment.,Company B
+20,abbvie,run a multinational trial program in an area with difficult patient recruitment.,Company C
+20,roche,run a multinational trial program in an area with difficult patient recruitment.,Company D
+20,novartis,run a multinational trial program in an area with difficult patient recruitment.,Company E
+20,pfizer,run a multinational trial program in an area with difficult patient recruitment.,Company F
+20,astrazeneca,run a multinational trial program in an area with difficult patient recruitment.,Company G
+20,merck,run a multinational trial program in an area with difficult patient recruitment.,Company I
+20,sanofi,run a multinational trial program in an area with difficult patient recruitment.,Company J
+20,novo_nordisk,run a multinational trial program in an area with difficult patient recruitment.,Company K
+20,amgen,run a multinational trial program in an area with difficult patient recruitment.,Company L
+20,regeneron,run a multinational trial program in an area with difficult patient recruitment.,Company M
+20,vertex,run a multinational trial program in an area with difficult patient recruitment.,Company N
+20,gilead,run a multinational trial program in an area with difficult patient recruitment.,Company O
+20,bristol,run a multinational trial program in an area with difficult patient recruitment.,Company P
+21,eli_lilly,defend and expand a leading position in a highly competitive oncology market.,Company A
+21,johnson_and_johnson,defend and expand a leading position in a highly competitive oncology market.,Company B
+21,abbvie,defend and expand a leading position in a highly competitive oncology market.,Company C
+21,roche,defend and expand a leading position in a highly competitive oncology market.,Company D
+21,novartis,defend and expand a leading position in a highly competitive oncology market.,Company E
+21,pfizer,defend and expand a leading position in a highly competitive oncology market.,Company F
+21,astrazeneca,defend and expand a leading position in a highly competitive oncology market.,Company G
+21,merck,defend and expand a leading position in a highly competitive oncology market.,Company I
+21,sanofi,defend and expand a leading position in a highly competitive oncology market.,Company J
+21,novo_nordisk,defend and expand a leading position in a highly competitive oncology market.,Company K
+21,amgen,defend and expand a leading position in a highly competitive oncology market.,Company L
+21,regeneron,defend and expand a leading position in a highly competitive oncology market.,Company M
+21,vertex,defend and expand a leading position in a highly competitive oncology market.,Company N
+21,gilead,defend and expand a leading position in a highly competitive oncology market.,Company O
+21,bristol,defend and expand a leading position in a highly competitive oncology market.,Company P
+22,eli_lilly,execute a global evidence-generation strategy to support payer negotiations.,Company A
+22,johnson_and_johnson,execute a global evidence-generation strategy to support payer negotiations.,Company B
+22,abbvie,execute a global evidence-generation strategy to support payer negotiations.,Company C
+22,roche,execute a global evidence-generation strategy to support payer negotiations.,Company D
+22,novartis,execute a global evidence-generation strategy to support payer negotiations.,Company E
+22,pfizer,execute a global evidence-generation strategy to support payer negotiations.,Company F
+22,astrazeneca,execute a global evidence-generation strategy to support payer negotiations.,Company G
+22,merck,execute a global evidence-generation strategy to support payer negotiations.,Company I
+22,sanofi,execute a global evidence-generation strategy to support payer negotiations.,Company J
+22,novo_nordisk,execute a global evidence-generation strategy to support payer negotiations.,Company K
+22,amgen,execute a global evidence-generation strategy to support payer negotiations.,Company L
+22,regeneron,execute a global evidence-generation strategy to support payer negotiations.,Company M
+22,vertex,execute a global evidence-generation strategy to support payer negotiations.,Company N
+22,gilead,execute a global evidence-generation strategy to support payer negotiations.,Company O
+22,bristol,execute a global evidence-generation strategy to support payer negotiations.,Company P
+23,eli_lilly,"lead development of a therapy that combines drug, device, and patient support requirements.",Company A
+23,johnson_and_johnson,"lead development of a therapy that combines drug, device, and patient support requirements.",Company B
+23,abbvie,"lead development of a therapy that combines drug, device, and patient support requirements.",Company C
+23,roche,"lead development of a therapy that combines drug, device, and patient support requirements.",Company D
+23,novartis,"lead development of a therapy that combines drug, device, and patient support requirements.",Company E
+23,pfizer,"lead development of a therapy that combines drug, device, and patient support requirements.",Company F
+23,astrazeneca,"lead development of a therapy that combines drug, device, and patient support requirements.",Company G
+23,merck,"lead development of a therapy that combines drug, device, and patient support requirements.",Company I
+23,sanofi,"lead development of a therapy that combines drug, device, and patient support requirements.",Company J
+23,novo_nordisk,"lead development of a therapy that combines drug, device, and patient support requirements.",Company K
+23,amgen,"lead development of a therapy that combines drug, device, and patient support requirements.",Company L
+23,regeneron,"lead development of a therapy that combines drug, device, and patient support requirements.",Company M
+23,vertex,"lead development of a therapy that combines drug, device, and patient support requirements.",Company N
+23,gilead,"lead development of a therapy that combines drug, device, and patient support requirements.",Company O
+23,bristol,"lead development of a therapy that combines drug, device, and patient support requirements.",Company P
+24,eli_lilly,manage a portfolio transition after loss of exclusivity for a major revenue driver.,Company A
+24,johnson_and_johnson,manage a portfolio transition after loss of exclusivity for a major revenue driver.,Company B
+24,abbvie,manage a portfolio transition after loss of exclusivity for a major revenue driver.,Company C
+24,roche,manage a portfolio transition after loss of exclusivity for a major revenue driver.,Company D
+24,novartis,manage a portfolio transition after loss of exclusivity for a major revenue driver.,Company E
+24,pfizer,manage a portfolio transition after loss of exclusivity for a major revenue driver.,Company F
+24,astrazeneca,manage a portfolio transition after loss of exclusivity for a major revenue driver.,Company G
+24,merck,manage a portfolio transition after loss of exclusivity for a major revenue driver.,Company I
+24,sanofi,manage a portfolio transition after loss of exclusivity for a major revenue driver.,Company J
+24,novo_nordisk,manage a portfolio transition after loss of exclusivity for a major revenue driver.,Company K
+24,amgen,manage a portfolio transition after loss of exclusivity for a major revenue driver.,Company L
+24,regeneron,manage a portfolio transition after loss of exclusivity for a major revenue driver.,Company M
+24,vertex,manage a portfolio transition after loss of exclusivity for a major revenue driver.,Company N
+24,gilead,manage a portfolio transition after loss of exclusivity for a major revenue driver.,Company O
+24,bristol,manage a portfolio transition after loss of exclusivity for a major revenue driver.,Company P
+25,eli_lilly,take a rare disease asset from niche launch to sustainable global scale.,Company A
+25,johnson_and_johnson,take a rare disease asset from niche launch to sustainable global scale.,Company B
+25,abbvie,take a rare disease asset from niche launch to sustainable global scale.,Company C
+25,roche,take a rare disease asset from niche launch to sustainable global scale.,Company D
+25,novartis,take a rare disease asset from niche launch to sustainable global scale.,Company E
+25,pfizer,take a rare disease asset from niche launch to sustainable global scale.,Company F
+25,astrazeneca,take a rare disease asset from niche launch to sustainable global scale.,Company G
+25,merck,take a rare disease asset from niche launch to sustainable global scale.,Company I
+25,sanofi,take a rare disease asset from niche launch to sustainable global scale.,Company J
+25,novo_nordisk,take a rare disease asset from niche launch to sustainable global scale.,Company K
+25,amgen,take a rare disease asset from niche launch to sustainable global scale.,Company L
+25,regeneron,take a rare disease asset from niche launch to sustainable global scale.,Company M
+25,vertex,take a rare disease asset from niche launch to sustainable global scale.,Company N
+25,gilead,take a rare disease asset from niche launch to sustainable global scale.,Company O
+25,bristol,take a rare disease asset from niche launch to sustainable global scale.,Company P
+26,eli_lilly,lead a high-uncertainty regulatory path for a therapy based on a novel modality.,Company A
+26,johnson_and_johnson,lead a high-uncertainty regulatory path for a therapy based on a novel modality.,Company B
+26,abbvie,lead a high-uncertainty regulatory path for a therapy based on a novel modality.,Company C
+26,roche,lead a high-uncertainty regulatory path for a therapy based on a novel modality.,Company D
+26,novartis,lead a high-uncertainty regulatory path for a therapy based on a novel modality.,Company E
+26,pfizer,lead a high-uncertainty regulatory path for a therapy based on a novel modality.,Company F
+26,astrazeneca,lead a high-uncertainty regulatory path for a therapy based on a novel modality.,Company G
+26,merck,lead a high-uncertainty regulatory path for a therapy based on a novel modality.,Company I
+26,sanofi,lead a high-uncertainty regulatory path for a therapy based on a novel modality.,Company J
+26,novo_nordisk,lead a high-uncertainty regulatory path for a therapy based on a novel modality.,Company K
+26,amgen,lead a high-uncertainty regulatory path for a therapy based on a novel modality.,Company L
+26,regeneron,lead a high-uncertainty regulatory path for a therapy based on a novel modality.,Company M
+26,vertex,lead a high-uncertainty regulatory path for a therapy based on a novel modality.,Company N
+26,gilead,lead a high-uncertainty regulatory path for a therapy based on a novel modality.,Company O
+26,bristol,lead a high-uncertainty regulatory path for a therapy based on a novel modality.,Company P
+27,eli_lilly,coordinate simultaneous submissions to major regulators for a chronic disease therapy.,Company A
+27,johnson_and_johnson,coordinate simultaneous submissions to major regulators for a chronic disease therapy.,Company B
+27,abbvie,coordinate simultaneous submissions to major regulators for a chronic disease therapy.,Company C
+27,roche,coordinate simultaneous submissions to major regulators for a chronic disease therapy.,Company D
+27,novartis,coordinate simultaneous submissions to major regulators for a chronic disease therapy.,Company E
+27,pfizer,coordinate simultaneous submissions to major regulators for a chronic disease therapy.,Company F
+27,astrazeneca,coordinate simultaneous submissions to major regulators for a chronic disease therapy.,Company G
+27,merck,coordinate simultaneous submissions to major regulators for a chronic disease therapy.,Company I
+27,sanofi,coordinate simultaneous submissions to major regulators for a chronic disease therapy.,Company J
+27,novo_nordisk,coordinate simultaneous submissions to major regulators for a chronic disease therapy.,Company K
+27,amgen,coordinate simultaneous submissions to major regulators for a chronic disease therapy.,Company L
+27,regeneron,coordinate simultaneous submissions to major regulators for a chronic disease therapy.,Company M
+27,vertex,coordinate simultaneous submissions to major regulators for a chronic disease therapy.,Company N
+27,gilead,coordinate simultaneous submissions to major regulators for a chronic disease therapy.,Company O
+27,bristol,coordinate simultaneous submissions to major regulators for a chronic disease therapy.,Company P
+28,eli_lilly,establish leadership in a fast-growing obesity and metabolic disease market.,Company A
+28,johnson_and_johnson,establish leadership in a fast-growing obesity and metabolic disease market.,Company B
+28,abbvie,establish leadership in a fast-growing obesity and metabolic disease market.,Company C
+28,roche,establish leadership in a fast-growing obesity and metabolic disease market.,Company D
+28,novartis,establish leadership in a fast-growing obesity and metabolic disease market.,Company E
+28,pfizer,establish leadership in a fast-growing obesity and metabolic disease market.,Company F
+28,astrazeneca,establish leadership in a fast-growing obesity and metabolic disease market.,Company G
+28,merck,establish leadership in a fast-growing obesity and metabolic disease market.,Company I
+28,sanofi,establish leadership in a fast-growing obesity and metabolic disease market.,Company J
+28,novo_nordisk,establish leadership in a fast-growing obesity and metabolic disease market.,Company K
+28,amgen,establish leadership in a fast-growing obesity and metabolic disease market.,Company L
+28,regeneron,establish leadership in a fast-growing obesity and metabolic disease market.,Company M
+28,vertex,establish leadership in a fast-growing obesity and metabolic disease market.,Company N
+28,gilead,establish leadership in a fast-growing obesity and metabolic disease market.,Company O
+28,bristol,establish leadership in a fast-growing obesity and metabolic disease market.,Company P
+29,eli_lilly,develop a therapy that depends on highly reliable cold-chain distribution.,Company A
+29,johnson_and_johnson,develop a therapy that depends on highly reliable cold-chain distribution.,Company B
+29,abbvie,develop a therapy that depends on highly reliable cold-chain distribution.,Company C
+29,roche,develop a therapy that depends on highly reliable cold-chain distribution.,Company D
+29,novartis,develop a therapy that depends on highly reliable cold-chain distribution.,Company E
+29,pfizer,develop a therapy that depends on highly reliable cold-chain distribution.,Company F
+29,astrazeneca,develop a therapy that depends on highly reliable cold-chain distribution.,Company G
+29,merck,develop a therapy that depends on highly reliable cold-chain distribution.,Company I
+29,sanofi,develop a therapy that depends on highly reliable cold-chain distribution.,Company J
+29,novo_nordisk,develop a therapy that depends on highly reliable cold-chain distribution.,Company K
+29,amgen,develop a therapy that depends on highly reliable cold-chain distribution.,Company L
+29,regeneron,develop a therapy that depends on highly reliable cold-chain distribution.,Company M
+29,vertex,develop a therapy that depends on highly reliable cold-chain distribution.,Company N
+29,gilead,develop a therapy that depends on highly reliable cold-chain distribution.,Company O
+29,bristol,develop a therapy that depends on highly reliable cold-chain distribution.,Company P
+30,eli_lilly,execute a global medical affairs strategy in a scientifically complex specialty category.,Company A
+30,johnson_and_johnson,execute a global medical affairs strategy in a scientifically complex specialty category.,Company B
+30,abbvie,execute a global medical affairs strategy in a scientifically complex specialty category.,Company C
+30,roche,execute a global medical affairs strategy in a scientifically complex specialty category.,Company D
+30,novartis,execute a global medical affairs strategy in a scientifically complex specialty category.,Company E
+30,pfizer,execute a global medical affairs strategy in a scientifically complex specialty category.,Company F
+30,astrazeneca,execute a global medical affairs strategy in a scientifically complex specialty category.,Company G
+30,merck,execute a global medical affairs strategy in a scientifically complex specialty category.,Company I
+30,sanofi,execute a global medical affairs strategy in a scientifically complex specialty category.,Company J
+30,novo_nordisk,execute a global medical affairs strategy in a scientifically complex specialty category.,Company K
+30,amgen,execute a global medical affairs strategy in a scientifically complex specialty category.,Company L
+30,regeneron,execute a global medical affairs strategy in a scientifically complex specialty category.,Company M
+30,vertex,execute a global medical affairs strategy in a scientifically complex specialty category.,Company N
+30,gilead,execute a global medical affairs strategy in a scientifically complex specialty category.,Company O
+30,bristol,execute a global medical affairs strategy in a scientifically complex specialty category.,Company P
+31,eli_lilly,bring a hospital acute-care medicine through global registration and procurement pathways.,Company A
+31,johnson_and_johnson,bring a hospital acute-care medicine through global registration and procurement pathways.,Company B
+31,abbvie,bring a hospital acute-care medicine through global registration and procurement pathways.,Company C
+31,roche,bring a hospital acute-care medicine through global registration and procurement pathways.,Company D
+31,novartis,bring a hospital acute-care medicine through global registration and procurement pathways.,Company E
+31,pfizer,bring a hospital acute-care medicine through global registration and procurement pathways.,Company F
+31,astrazeneca,bring a hospital acute-care medicine through global registration and procurement pathways.,Company G
+31,merck,bring a hospital acute-care medicine through global registration and procurement pathways.,Company I
+31,sanofi,bring a hospital acute-care medicine through global registration and procurement pathways.,Company J
+31,novo_nordisk,bring a hospital acute-care medicine through global registration and procurement pathways.,Company K
+31,amgen,bring a hospital acute-care medicine through global registration and procurement pathways.,Company L
+31,regeneron,bring a hospital acute-care medicine through global registration and procurement pathways.,Company M
+31,vertex,bring a hospital acute-care medicine through global registration and procurement pathways.,Company N
+31,gilead,bring a hospital acute-care medicine through global registration and procurement pathways.,Company O
+31,bristol,bring a hospital acute-care medicine through global registration and procurement pathways.,Company P
+32,eli_lilly,integrate real-world evidence into regulatory and reimbursement strategy for a new therapy.,Company A
+32,johnson_and_johnson,integrate real-world evidence into regulatory and reimbursement strategy for a new therapy.,Company B
+32,abbvie,integrate real-world evidence into regulatory and reimbursement strategy for a new therapy.,Company C
+32,roche,integrate real-world evidence into regulatory and reimbursement strategy for a new therapy.,Company D
+32,novartis,integrate real-world evidence into regulatory and reimbursement strategy for a new therapy.,Company E
+32,pfizer,integrate real-world evidence into regulatory and reimbursement strategy for a new therapy.,Company F
+32,astrazeneca,integrate real-world evidence into regulatory and reimbursement strategy for a new therapy.,Company G
+32,merck,integrate real-world evidence into regulatory and reimbursement strategy for a new therapy.,Company I
+32,sanofi,integrate real-world evidence into regulatory and reimbursement strategy for a new therapy.,Company J
+32,novo_nordisk,integrate real-world evidence into regulatory and reimbursement strategy for a new therapy.,Company K
+32,amgen,integrate real-world evidence into regulatory and reimbursement strategy for a new therapy.,Company L
+32,regeneron,integrate real-world evidence into regulatory and reimbursement strategy for a new therapy.,Company M
+32,vertex,integrate real-world evidence into regulatory and reimbursement strategy for a new therapy.,Company N
+32,gilead,integrate real-world evidence into regulatory and reimbursement strategy for a new therapy.,Company O
+32,bristol,integrate real-world evidence into regulatory and reimbursement strategy for a new therapy.,Company P
+33,eli_lilly,lead a multinational launch of a therapy requiring physician education and diagnostic pathway change.,Company A
+33,johnson_and_johnson,lead a multinational launch of a therapy requiring physician education and diagnostic pathway change.,Company B
+33,abbvie,lead a multinational launch of a therapy requiring physician education and diagnostic pathway change.,Company C
+33,roche,lead a multinational launch of a therapy requiring physician education and diagnostic pathway change.,Company D
+33,novartis,lead a multinational launch of a therapy requiring physician education and diagnostic pathway change.,Company E
+33,pfizer,lead a multinational launch of a therapy requiring physician education and diagnostic pathway change.,Company F
+33,astrazeneca,lead a multinational launch of a therapy requiring physician education and diagnostic pathway change.,Company G
+33,merck,lead a multinational launch of a therapy requiring physician education and diagnostic pathway change.,Company I
+33,sanofi,lead a multinational launch of a therapy requiring physician education and diagnostic pathway change.,Company J
+33,novo_nordisk,lead a multinational launch of a therapy requiring physician education and diagnostic pathway change.,Company K
+33,amgen,lead a multinational launch of a therapy requiring physician education and diagnostic pathway change.,Company L
+33,regeneron,lead a multinational launch of a therapy requiring physician education and diagnostic pathway change.,Company M
+33,vertex,lead a multinational launch of a therapy requiring physician education and diagnostic pathway change.,Company N
+33,gilead,lead a multinational launch of a therapy requiring physician education and diagnostic pathway change.,Company O
+33,bristol,lead a multinational launch of a therapy requiring physician education and diagnostic pathway change.,Company P
+34,eli_lilly,sustain quality and compliance during rapid expansion of biologics manufacturing capacity.,Company A
+34,johnson_and_johnson,sustain quality and compliance during rapid expansion of biologics manufacturing capacity.,Company B
+34,abbvie,sustain quality and compliance during rapid expansion of biologics manufacturing capacity.,Company C
+34,roche,sustain quality and compliance during rapid expansion of biologics manufacturing capacity.,Company D
+34,novartis,sustain quality and compliance during rapid expansion of biologics manufacturing capacity.,Company E
+34,pfizer,sustain quality and compliance during rapid expansion of biologics manufacturing capacity.,Company F
+34,astrazeneca,sustain quality and compliance during rapid expansion of biologics manufacturing capacity.,Company G
+34,merck,sustain quality and compliance during rapid expansion of biologics manufacturing capacity.,Company I
+34,sanofi,sustain quality and compliance during rapid expansion of biologics manufacturing capacity.,Company J
+34,novo_nordisk,sustain quality and compliance during rapid expansion of biologics manufacturing capacity.,Company K
+34,amgen,sustain quality and compliance during rapid expansion of biologics manufacturing capacity.,Company L
+34,regeneron,sustain quality and compliance during rapid expansion of biologics manufacturing capacity.,Company M
+34,vertex,sustain quality and compliance during rapid expansion of biologics manufacturing capacity.,Company N
+34,gilead,sustain quality and compliance during rapid expansion of biologics manufacturing capacity.,Company O
+34,bristol,sustain quality and compliance during rapid expansion of biologics manufacturing capacity.,Company P
+35,eli_lilly,develop a broad label expansion strategy after an initially narrow specialty approval.,Company A
+35,johnson_and_johnson,develop a broad label expansion strategy after an initially narrow specialty approval.,Company B
+35,abbvie,develop a broad label expansion strategy after an initially narrow specialty approval.,Company C
+35,roche,develop a broad label expansion strategy after an initially narrow specialty approval.,Company D
+35,novartis,develop a broad label expansion strategy after an initially narrow specialty approval.,Company E
+35,pfizer,develop a broad label expansion strategy after an initially narrow specialty approval.,Company F
+35,astrazeneca,develop a broad label expansion strategy after an initially narrow specialty approval.,Company G
+35,merck,develop a broad label expansion strategy after an initially narrow specialty approval.,Company I
+35,sanofi,develop a broad label expansion strategy after an initially narrow specialty approval.,Company J
+35,novo_nordisk,develop a broad label expansion strategy after an initially narrow specialty approval.,Company K
+35,amgen,develop a broad label expansion strategy after an initially narrow specialty approval.,Company L
+35,regeneron,develop a broad label expansion strategy after an initially narrow specialty approval.,Company M
+35,vertex,develop a broad label expansion strategy after an initially narrow specialty approval.,Company N
+35,gilead,develop a broad label expansion strategy after an initially narrow specialty approval.,Company O
+35,bristol,develop a broad label expansion strategy after an initially narrow specialty approval.,Company P
+36,eli_lilly,advance an infectious disease asset under intense public and regulatory scrutiny.,Company A
+36,johnson_and_johnson,advance an infectious disease asset under intense public and regulatory scrutiny.,Company B
+36,abbvie,advance an infectious disease asset under intense public and regulatory scrutiny.,Company C
+36,roche,advance an infectious disease asset under intense public and regulatory scrutiny.,Company D
+36,novartis,advance an infectious disease asset under intense public and regulatory scrutiny.,Company E
+36,pfizer,advance an infectious disease asset under intense public and regulatory scrutiny.,Company F
+36,astrazeneca,advance an infectious disease asset under intense public and regulatory scrutiny.,Company G
+36,merck,advance an infectious disease asset under intense public and regulatory scrutiny.,Company I
+36,sanofi,advance an infectious disease asset under intense public and regulatory scrutiny.,Company J
+36,novo_nordisk,advance an infectious disease asset under intense public and regulatory scrutiny.,Company K
+36,amgen,advance an infectious disease asset under intense public and regulatory scrutiny.,Company L
+36,regeneron,advance an infectious disease asset under intense public and regulatory scrutiny.,Company M
+36,vertex,advance an infectious disease asset under intense public and regulatory scrutiny.,Company N
+36,gilead,advance an infectious disease asset under intense public and regulatory scrutiny.,Company O
+36,bristol,advance an infectious disease asset under intense public and regulatory scrutiny.,Company P
+37,eli_lilly,manage stakeholder trust after a major manufacturing or supply setback.,Company A
+37,johnson_and_johnson,manage stakeholder trust after a major manufacturing or supply setback.,Company B
+37,abbvie,manage stakeholder trust after a major manufacturing or supply setback.,Company C
+37,roche,manage stakeholder trust after a major manufacturing or supply setback.,Company D
+37,novartis,manage stakeholder trust after a major manufacturing or supply setback.,Company E
+37,pfizer,manage stakeholder trust after a major manufacturing or supply setback.,Company F
+37,astrazeneca,manage stakeholder trust after a major manufacturing or supply setback.,Company G
+37,merck,manage stakeholder trust after a major manufacturing or supply setback.,Company I
+37,sanofi,manage stakeholder trust after a major manufacturing or supply setback.,Company J
+37,novo_nordisk,manage stakeholder trust after a major manufacturing or supply setback.,Company K
+37,amgen,manage stakeholder trust after a major manufacturing or supply setback.,Company L
+37,regeneron,manage stakeholder trust after a major manufacturing or supply setback.,Company M
+37,vertex,manage stakeholder trust after a major manufacturing or supply setback.,Company N
+37,gilead,manage stakeholder trust after a major manufacturing or supply setback.,Company O
+37,bristol,manage stakeholder trust after a major manufacturing or supply setback.,Company P
+38,eli_lilly,lead a complex program in neuroscience with historically high development risk.,Company A
+38,johnson_and_johnson,lead a complex program in neuroscience with historically high development risk.,Company B
+38,abbvie,lead a complex program in neuroscience with historically high development risk.,Company C
+38,roche,lead a complex program in neuroscience with historically high development risk.,Company D
+38,novartis,lead a complex program in neuroscience with historically high development risk.,Company E
+38,pfizer,lead a complex program in neuroscience with historically high development risk.,Company F
+38,astrazeneca,lead a complex program in neuroscience with historically high development risk.,Company G
+38,merck,lead a complex program in neuroscience with historically high development risk.,Company I
+38,sanofi,lead a complex program in neuroscience with historically high development risk.,Company J
+38,novo_nordisk,lead a complex program in neuroscience with historically high development risk.,Company K
+38,amgen,lead a complex program in neuroscience with historically high development risk.,Company L
+38,regeneron,lead a complex program in neuroscience with historically high development risk.,Company M
+38,vertex,lead a complex program in neuroscience with historically high development risk.,Company N
+38,gilead,lead a complex program in neuroscience with historically high development risk.,Company O
+38,bristol,lead a complex program in neuroscience with historically high development risk.,Company P
+39,eli_lilly,commercialize a therapy that requires strong specialist and payer engagement rather than broad primary-care reach.,Company A
+39,johnson_and_johnson,commercialize a therapy that requires strong specialist and payer engagement rather than broad primary-care reach.,Company B
+39,abbvie,commercialize a therapy that requires strong specialist and payer engagement rather than broad primary-care reach.,Company C
+39,roche,commercialize a therapy that requires strong specialist and payer engagement rather than broad primary-care reach.,Company D
+39,novartis,commercialize a therapy that requires strong specialist and payer engagement rather than broad primary-care reach.,Company E
+39,pfizer,commercialize a therapy that requires strong specialist and payer engagement rather than broad primary-care reach.,Company F
+39,astrazeneca,commercialize a therapy that requires strong specialist and payer engagement rather than broad primary-care reach.,Company G
+39,merck,commercialize a therapy that requires strong specialist and payer engagement rather than broad primary-care reach.,Company I
+39,sanofi,commercialize a therapy that requires strong specialist and payer engagement rather than broad primary-care reach.,Company J
+39,novo_nordisk,commercialize a therapy that requires strong specialist and payer engagement rather than broad primary-care reach.,Company K
+39,amgen,commercialize a therapy that requires strong specialist and payer engagement rather than broad primary-care reach.,Company L
+39,regeneron,commercialize a therapy that requires strong specialist and payer engagement rather than broad primary-care reach.,Company M
+39,vertex,commercialize a therapy that requires strong specialist and payer engagement rather than broad primary-care reach.,Company N
+39,gilead,commercialize a therapy that requires strong specialist and payer engagement rather than broad primary-care reach.,Company O
+39,bristol,commercialize a therapy that requires strong specialist and payer engagement rather than broad primary-care reach.,Company P
+40,eli_lilly,execute a global rare oncology strategy with small patient populations and fragmented referral pathways.,Company A
+40,johnson_and_johnson,execute a global rare oncology strategy with small patient populations and fragmented referral pathways.,Company B
+40,abbvie,execute a global rare oncology strategy with small patient populations and fragmented referral pathways.,Company C
+40,roche,execute a global rare oncology strategy with small patient populations and fragmented referral pathways.,Company D
+40,novartis,execute a global rare oncology strategy with small patient populations and fragmented referral pathways.,Company E
+40,pfizer,execute a global rare oncology strategy with small patient populations and fragmented referral pathways.,Company F
+40,astrazeneca,execute a global rare oncology strategy with small patient populations and fragmented referral pathways.,Company G
+40,merck,execute a global rare oncology strategy with small patient populations and fragmented referral pathways.,Company I
+40,sanofi,execute a global rare oncology strategy with small patient populations and fragmented referral pathways.,Company J
+40,novo_nordisk,execute a global rare oncology strategy with small patient populations and fragmented referral pathways.,Company K
+40,amgen,execute a global rare oncology strategy with small patient populations and fragmented referral pathways.,Company L
+40,regeneron,execute a global rare oncology strategy with small patient populations and fragmented referral pathways.,Company M
+40,vertex,execute a global rare oncology strategy with small patient populations and fragmented referral pathways.,Company N
+40,gilead,execute a global rare oncology strategy with small patient populations and fragmented referral pathways.,Company O
+40,bristol,execute a global rare oncology strategy with small patient populations and fragmented referral pathways.,Company P
+41,eli_lilly,bring a therapy with significant pharmacovigilance demands to broad international use.,Company A
+41,johnson_and_johnson,bring a therapy with significant pharmacovigilance demands to broad international use.,Company B
+41,abbvie,bring a therapy with significant pharmacovigilance demands to broad international use.,Company C
+41,roche,bring a therapy with significant pharmacovigilance demands to broad international use.,Company D
+41,novartis,bring a therapy with significant pharmacovigilance demands to broad international use.,Company E
+41,pfizer,bring a therapy with significant pharmacovigilance demands to broad international use.,Company F
+41,astrazeneca,bring a therapy with significant pharmacovigilance demands to broad international use.,Company G
+41,merck,bring a therapy with significant pharmacovigilance demands to broad international use.,Company I
+41,sanofi,bring a therapy with significant pharmacovigilance demands to broad international use.,Company J
+41,novo_nordisk,bring a therapy with significant pharmacovigilance demands to broad international use.,Company K
+41,amgen,bring a therapy with significant pharmacovigilance demands to broad international use.,Company L
+41,regeneron,bring a therapy with significant pharmacovigilance demands to broad international use.,Company M
+41,vertex,bring a therapy with significant pharmacovigilance demands to broad international use.,Company N
+41,gilead,bring a therapy with significant pharmacovigilance demands to broad international use.,Company O
+41,bristol,bring a therapy with significant pharmacovigilance demands to broad international use.,Company P
+42,eli_lilly,lead global development of a therapy that relies on external innovation partnerships.,Company A
+42,johnson_and_johnson,lead global development of a therapy that relies on external innovation partnerships.,Company B
+42,abbvie,lead global development of a therapy that relies on external innovation partnerships.,Company C
+42,roche,lead global development of a therapy that relies on external innovation partnerships.,Company D
+42,novartis,lead global development of a therapy that relies on external innovation partnerships.,Company E
+42,pfizer,lead global development of a therapy that relies on external innovation partnerships.,Company F
+42,astrazeneca,lead global development of a therapy that relies on external innovation partnerships.,Company G
+42,merck,lead global development of a therapy that relies on external innovation partnerships.,Company I
+42,sanofi,lead global development of a therapy that relies on external innovation partnerships.,Company J
+42,novo_nordisk,lead global development of a therapy that relies on external innovation partnerships.,Company K
+42,amgen,lead global development of a therapy that relies on external innovation partnerships.,Company L
+42,regeneron,lead global development of a therapy that relies on external innovation partnerships.,Company M
+42,vertex,lead global development of a therapy that relies on external innovation partnerships.,Company N
+42,gilead,lead global development of a therapy that relies on external innovation partnerships.,Company O
+42,bristol,lead global development of a therapy that relies on external innovation partnerships.,Company P
+43,eli_lilly,compete in a therapeutic area where speed of indication expansion is strategically critical.,Company A
+43,johnson_and_johnson,compete in a therapeutic area where speed of indication expansion is strategically critical.,Company B
+43,abbvie,compete in a therapeutic area where speed of indication expansion is strategically critical.,Company C
+43,roche,compete in a therapeutic area where speed of indication expansion is strategically critical.,Company D
+43,novartis,compete in a therapeutic area where speed of indication expansion is strategically critical.,Company E
+43,pfizer,compete in a therapeutic area where speed of indication expansion is strategically critical.,Company F
+43,astrazeneca,compete in a therapeutic area where speed of indication expansion is strategically critical.,Company G
+43,merck,compete in a therapeutic area where speed of indication expansion is strategically critical.,Company I
+43,sanofi,compete in a therapeutic area where speed of indication expansion is strategically critical.,Company J
+43,novo_nordisk,compete in a therapeutic area where speed of indication expansion is strategically critical.,Company K
+43,amgen,compete in a therapeutic area where speed of indication expansion is strategically critical.,Company L
+43,regeneron,compete in a therapeutic area where speed of indication expansion is strategically critical.,Company M
+43,vertex,compete in a therapeutic area where speed of indication expansion is strategically critical.,Company N
+43,gilead,compete in a therapeutic area where speed of indication expansion is strategically critical.,Company O
+43,bristol,compete in a therapeutic area where speed of indication expansion is strategically critical.,Company P
+44,eli_lilly,lead development and launch of a therapy with substantial manufacturing process complexity.,Company A
+44,johnson_and_johnson,lead development and launch of a therapy with substantial manufacturing process complexity.,Company B
+44,abbvie,lead development and launch of a therapy with substantial manufacturing process complexity.,Company C
+44,roche,lead development and launch of a therapy with substantial manufacturing process complexity.,Company D
+44,novartis,lead development and launch of a therapy with substantial manufacturing process complexity.,Company E
+44,pfizer,lead development and launch of a therapy with substantial manufacturing process complexity.,Company F
+44,astrazeneca,lead development and launch of a therapy with substantial manufacturing process complexity.,Company G
+44,merck,lead development and launch of a therapy with substantial manufacturing process complexity.,Company I
+44,sanofi,lead development and launch of a therapy with substantial manufacturing process complexity.,Company J
+44,novo_nordisk,lead development and launch of a therapy with substantial manufacturing process complexity.,Company K
+44,amgen,lead development and launch of a therapy with substantial manufacturing process complexity.,Company L
+44,regeneron,lead development and launch of a therapy with substantial manufacturing process complexity.,Company M
+44,vertex,lead development and launch of a therapy with substantial manufacturing process complexity.,Company N
+44,gilead,lead development and launch of a therapy with substantial manufacturing process complexity.,Company O
+44,bristol,lead development and launch of a therapy with substantial manufacturing process complexity.,Company P
+45,eli_lilly,expand a therapy from specialist use into broader mainstream clinical practice.,Company A
+45,johnson_and_johnson,expand a therapy from specialist use into broader mainstream clinical practice.,Company B
+45,abbvie,expand a therapy from specialist use into broader mainstream clinical practice.,Company C
+45,roche,expand a therapy from specialist use into broader mainstream clinical practice.,Company D
+45,novartis,expand a therapy from specialist use into broader mainstream clinical practice.,Company E
+45,pfizer,expand a therapy from specialist use into broader mainstream clinical practice.,Company F
+45,astrazeneca,expand a therapy from specialist use into broader mainstream clinical practice.,Company G
+45,merck,expand a therapy from specialist use into broader mainstream clinical practice.,Company I
+45,sanofi,expand a therapy from specialist use into broader mainstream clinical practice.,Company J
+45,novo_nordisk,expand a therapy from specialist use into broader mainstream clinical practice.,Company K
+45,amgen,expand a therapy from specialist use into broader mainstream clinical practice.,Company L
+45,regeneron,expand a therapy from specialist use into broader mainstream clinical practice.,Company M
+45,vertex,expand a therapy from specialist use into broader mainstream clinical practice.,Company N
+45,gilead,expand a therapy from specialist use into broader mainstream clinical practice.,Company O
+45,bristol,expand a therapy from specialist use into broader mainstream clinical practice.,Company P
+46,eli_lilly,navigate multinational reimbursement negotiations for a therapy with high budget impact.,Company A
+46,johnson_and_johnson,navigate multinational reimbursement negotiations for a therapy with high budget impact.,Company B
+46,abbvie,navigate multinational reimbursement negotiations for a therapy with high budget impact.,Company C
+46,roche,navigate multinational reimbursement negotiations for a therapy with high budget impact.,Company D
+46,novartis,navigate multinational reimbursement negotiations for a therapy with high budget impact.,Company E
+46,pfizer,navigate multinational reimbursement negotiations for a therapy with high budget impact.,Company F
+46,astrazeneca,navigate multinational reimbursement negotiations for a therapy with high budget impact.,Company G
+46,merck,navigate multinational reimbursement negotiations for a therapy with high budget impact.,Company I
+46,sanofi,navigate multinational reimbursement negotiations for a therapy with high budget impact.,Company J
+46,novo_nordisk,navigate multinational reimbursement negotiations for a therapy with high budget impact.,Company K
+46,amgen,navigate multinational reimbursement negotiations for a therapy with high budget impact.,Company L
+46,regeneron,navigate multinational reimbursement negotiations for a therapy with high budget impact.,Company M
+46,vertex,navigate multinational reimbursement negotiations for a therapy with high budget impact.,Company N
+46,gilead,navigate multinational reimbursement negotiations for a therapy with high budget impact.,Company O
+46,bristol,navigate multinational reimbursement negotiations for a therapy with high budget impact.,Company P
+47,eli_lilly,maintain execution quality across a highly diversified portfolio of therapeutic areas and modalities.,Company A
+47,johnson_and_johnson,maintain execution quality across a highly diversified portfolio of therapeutic areas and modalities.,Company B
+47,abbvie,maintain execution quality across a highly diversified portfolio of therapeutic areas and modalities.,Company C
+47,roche,maintain execution quality across a highly diversified portfolio of therapeutic areas and modalities.,Company D
+47,novartis,maintain execution quality across a highly diversified portfolio of therapeutic areas and modalities.,Company E
+47,pfizer,maintain execution quality across a highly diversified portfolio of therapeutic areas and modalities.,Company F
+47,astrazeneca,maintain execution quality across a highly diversified portfolio of therapeutic areas and modalities.,Company G
+47,merck,maintain execution quality across a highly diversified portfolio of therapeutic areas and modalities.,Company I
+47,sanofi,maintain execution quality across a highly diversified portfolio of therapeutic areas and modalities.,Company J
+47,novo_nordisk,maintain execution quality across a highly diversified portfolio of therapeutic areas and modalities.,Company K
+47,amgen,maintain execution quality across a highly diversified portfolio of therapeutic areas and modalities.,Company L
+47,regeneron,maintain execution quality across a highly diversified portfolio of therapeutic areas and modalities.,Company M
+47,vertex,maintain execution quality across a highly diversified portfolio of therapeutic areas and modalities.,Company N
+47,gilead,maintain execution quality across a highly diversified portfolio of therapeutic areas and modalities.,Company O
+47,bristol,maintain execution quality across a highly diversified portfolio of therapeutic areas and modalities.,Company P
+48,eli_lilly,"succeed in a program where regulatory, manufacturing, and commercial timing must be tightly coordinated.",Company A
+48,johnson_and_johnson,"succeed in a program where regulatory, manufacturing, and commercial timing must be tightly coordinated.",Company B
+48,abbvie,"succeed in a program where regulatory, manufacturing, and commercial timing must be tightly coordinated.",Company C
+48,roche,"succeed in a program where regulatory, manufacturing, and commercial timing must be tightly coordinated.",Company D
+48,novartis,"succeed in a program where regulatory, manufacturing, and commercial timing must be tightly coordinated.",Company E
+48,pfizer,"succeed in a program where regulatory, manufacturing, and commercial timing must be tightly coordinated.",Company F
+48,astrazeneca,"succeed in a program where regulatory, manufacturing, and commercial timing must be tightly coordinated.",Company G
+48,merck,"succeed in a program where regulatory, manufacturing, and commercial timing must be tightly coordinated.",Company I
+48,sanofi,"succeed in a program where regulatory, manufacturing, and commercial timing must be tightly coordinated.",Company J
+48,novo_nordisk,"succeed in a program where regulatory, manufacturing, and commercial timing must be tightly coordinated.",Company K
+48,amgen,"succeed in a program where regulatory, manufacturing, and commercial timing must be tightly coordinated.",Company L
+48,regeneron,"succeed in a program where regulatory, manufacturing, and commercial timing must be tightly coordinated.",Company M
+48,vertex,"succeed in a program where regulatory, manufacturing, and commercial timing must be tightly coordinated.",Company N
+48,gilead,"succeed in a program where regulatory, manufacturing, and commercial timing must be tightly coordinated.",Company O
+48,bristol,"succeed in a program where regulatory, manufacturing, and commercial timing must be tightly coordinated.",Company P
+49,eli_lilly,develop a therapy in an area requiring deep translational science and biomarker expertise.,Company A
+49,johnson_and_johnson,develop a therapy in an area requiring deep translational science and biomarker expertise.,Company B
+49,abbvie,develop a therapy in an area requiring deep translational science and biomarker expertise.,Company C
+49,roche,develop a therapy in an area requiring deep translational science and biomarker expertise.,Company D
+49,novartis,develop a therapy in an area requiring deep translational science and biomarker expertise.,Company E
+49,pfizer,develop a therapy in an area requiring deep translational science and biomarker expertise.,Company F
+49,astrazeneca,develop a therapy in an area requiring deep translational science and biomarker expertise.,Company G
+49,merck,develop a therapy in an area requiring deep translational science and biomarker expertise.,Company I
+49,sanofi,develop a therapy in an area requiring deep translational science and biomarker expertise.,Company J
+49,novo_nordisk,develop a therapy in an area requiring deep translational science and biomarker expertise.,Company K
+49,amgen,develop a therapy in an area requiring deep translational science and biomarker expertise.,Company L
+49,regeneron,develop a therapy in an area requiring deep translational science and biomarker expertise.,Company M
+49,vertex,develop a therapy in an area requiring deep translational science and biomarker expertise.,Company N
+49,gilead,develop a therapy in an area requiring deep translational science and biomarker expertise.,Company O
+49,bristol,develop a therapy in an area requiring deep translational science and biomarker expertise.,Company P
+50,eli_lilly,sustain competitive advantage in a category facing rapid scientific and commercial change.,Company A
+50,johnson_and_johnson,sustain competitive advantage in a category facing rapid scientific and commercial change.,Company B
+50,abbvie,sustain competitive advantage in a category facing rapid scientific and commercial change.,Company C
+50,roche,sustain competitive advantage in a category facing rapid scientific and commercial change.,Company D
+50,novartis,sustain competitive advantage in a category facing rapid scientific and commercial change.,Company E
+50,pfizer,sustain competitive advantage in a category facing rapid scientific and commercial change.,Company F
+50,astrazeneca,sustain competitive advantage in a category facing rapid scientific and commercial change.,Company G
+50,merck,sustain competitive advantage in a category facing rapid scientific and commercial change.,Company I
+50,sanofi,sustain competitive advantage in a category facing rapid scientific and commercial change.,Company J
+50,novo_nordisk,sustain competitive advantage in a category facing rapid scientific and commercial change.,Company K
+50,amgen,sustain competitive advantage in a category facing rapid scientific and commercial change.,Company L
+50,regeneron,sustain competitive advantage in a category facing rapid scientific and commercial change.,Company M
+50,vertex,sustain competitive advantage in a category facing rapid scientific and commercial change.,Company N
+50,gilead,sustain competitive advantage in a category facing rapid scientific and commercial change.,Company O
+50,bristol,sustain competitive advantage in a category facing rapid scientific and commercial change.,Company P
+51,eli_lilly,guide a high-stakes global launch of a therapy expected to redefine the standard of care.,Company A
+51,johnson_and_johnson,guide a high-stakes global launch of a therapy expected to redefine the standard of care.,Company B
+51,abbvie,guide a high-stakes global launch of a therapy expected to redefine the standard of care.,Company C
+51,roche,guide a high-stakes global launch of a therapy expected to redefine the standard of care.,Company D
+51,novartis,guide a high-stakes global launch of a therapy expected to redefine the standard of care.,Company E
+51,pfizer,guide a high-stakes global launch of a therapy expected to redefine the standard of care.,Company F
+51,astrazeneca,guide a high-stakes global launch of a therapy expected to redefine the standard of care.,Company G
+51,merck,guide a high-stakes global launch of a therapy expected to redefine the standard of care.,Company I
+51,sanofi,guide a high-stakes global launch of a therapy expected to redefine the standard of care.,Company J
+51,novo_nordisk,guide a high-stakes global launch of a therapy expected to redefine the standard of care.,Company K
+51,amgen,guide a high-stakes global launch of a therapy expected to redefine the standard of care.,Company L
+51,regeneron,guide a high-stakes global launch of a therapy expected to redefine the standard of care.,Company M
+51,vertex,guide a high-stakes global launch of a therapy expected to redefine the standard of care.,Company N
+51,gilead,guide a high-stakes global launch of a therapy expected to redefine the standard of care.,Company O
+51,bristol,guide a high-stakes global launch of a therapy expected to redefine the standard of care.,Company P

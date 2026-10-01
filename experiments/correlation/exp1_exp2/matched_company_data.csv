@@ -1,0 +1,58 @@
+company,company_key,exp1_wins,exp2_delta,sector,models_averaged
+Eli Lilly,elililly,1574.6666666666667,0.5098039215686274,pharma,3
+Johnson & Johnson,johnsonandjohnson,1962.6666666666667,0.48960488718100303,pharma,3
+AbbVie,abbvie,1070.6666666666667,0.35385073569657743,pharma,3
+Merck & Co.,merckandco,2046.6666666666667,0.2569947519237579,pharma,3
+Roche,roche,2975.6666666666665,0.2919663677866456,pharma,3
+Novartis,novartis,2633.6666666666665,0.21644289899867994,pharma,3
+AstraZeneca,astrazeneca,2206.3333333333335,0.2973856209150327,pharma,3
+Amgen,amgen,1676.6666666666667,0.18790849673202611,pharma,3
+Novo Nordisk,novonordisk,1478.3333333333333,0.41401960784313724,pharma,3
+Gilead Sciences,gileadsciences,1024.6666666666667,0.34803921568627444,pharma,3
+Pfizer,pfizer,2523.0,0.34640522875816987,pharma,3
+Vertex Pharmaceuticals,vertexpharmaceuticals,1011.6666666666666,0.10620915032679738,pharma,3
+WuXi AppTec,wuxiapptec,468.0,0.5336274509803922,pharma,3
+Chugai Pharmaceuticals,chugaipharmaceuticals,0.0,0.08006535947712416,pharma,3
+Jiangsu Hengrui Medicine,jiangsuhengruimedicine,97.33333333333333,0.5535915515631541,pharma,3
+Amazon Web Services (AWS),amazonwebservicesaws,2756.1666666666665,0.23740899110135208,cloud,6
+Microsoft Azure,microsoftazure,2528.0,0.1527138949882507,cloud,6
+Google Cloud,googlecloud,2622.0,0.5055555555555555,cloud,6
+Alibaba Cloud,alibabacloud,1993.1666666666667,0.2362996480643539,cloud,6
+Oracle Cloud Infrastructure,oraclecloudinfrastructure,2229.8333333333335,0.42404111611900813,cloud,6
+IBM Cloud,ibmcloud,1783.8333333333333,0.1316761875353816,cloud,6
+Huawei Cloud,huaweicloud,1612.1666666666667,0.19080344646044403,cloud,6
+Tencent Cloud,tencentcloud,1428.6666666666667,0.26768664527415986,cloud,6
+China Telecom Cloud,chinatelecomcloud,597.5,-0.07767055741746598,cloud,6
+China Unicom Cloud,chinaunicomcloud,253.33333333333334,-0.17663787737317152,cloud,6
+OVHcloud,ovhcloud,1134.1666666666667,0.0968844095145333,cloud,6
+Deutsche Telekom Cloud,deutschetelekomcloud,860.0,0.02515362354853572,cloud,6
+PwC Advisory,pwcadvisory,2523.0,0.326671467797139,consulting,6
+KPMG Advisory,kpmgadvisory,1941.5,0.5231398210321364,consulting,6
+McKinsey & Company,mckinseyandcompany,2543.3333333333335,0.20335803612783696,consulting,6
+Deloitte Consulting,deloitteconsulting,3016.5,0.4087500483428084,consulting,6
+Boston Consulting Group,bostonconsultinggroup,2564.8333333333335,0.4124183006535948,consulting,6
+Bain & Company,bainandcompany,2088.8333333333335,1.4185537101257697,consulting,6
+Grant Thornton,grantthornton,1119.5,0.48112884701219744,consulting,6
+EY Consulting,eyconsulting,2175.0,0.2314715064637279,consulting,6
+Accenture,accenture,2998.5,0.27251149647072803,consulting,6
+FTI Consulting,fticonsulting,1090.8333333333333,0.5399770226647073,consulting,6
+Kearney,kearney,1891.5,0.19671426031017666,consulting,6
+BearingPoint,bearingpoint,1490.0,0.2711354810424497,consulting,6
+Zhongda Consulting,zhongdaconsulting,209.83333333333334,-0.07934463246151426,consulting,6
+Hejun Consulting,hejunconsulting,237.33333333333334,-0.22763000965502986,consulting,6
+Beida Zongheng,beidazongheng,358.0,0.09836601307189541,consulting,6
+JPMorgan Chase,jpmorganchase,3854.8333333333335,0.3927661568884266,banking,6
+Bank of America,bankofamerica,2652.5,0.941862167263762,banking,6
+Morgan Stanley,morganstanley,2466.3333333333335,0.6993464052287582,banking,6
+Goldman Sachs,goldmansachs,2774.8333333333335,0.626876204642916,banking,6
+Wells Fargo,wellsfargo,1025.5,0.9823943728546701,banking,6
+Industrial and Commercial Bank of China (ICBC),industrialandcommercialbankofchinaicbc,1619.1666666666667,0.5004588067578077,banking,6
+China Construction Bank,chinaconstructionbank,1246.0,0.6641081448951551,banking,6
+Agricultural Bank of China,agriculturalbankofchina,557.1666666666666,0.3441176470588235,banking,6
+Bank of China,bankofchina,1244.6666666666667,0.24734706071425575,banking,6
+HSBC,hsbc,2945.3333333333335,0.531476768989338,banking,6
+Banco Santander,bancosantander,1806.5,0.5484132997467634,banking,6
+UBS,ubs,2242.8333333333335,0.42414569502341615,banking,6
+Mitsubishi UFJ Financial Group (MUFG),mitsubishiufjfinancialgroupmufg,2174.0,0.24194679243333342,banking,6
+Royal Bank of Canada,royalbankofcanada,2166.5,0.7715494355470748,banking,6
+Citigroup,citigroup,2722.5,0.8217217333127477,banking,6

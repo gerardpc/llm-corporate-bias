@@ -1,0 +1,51 @@
+window,sector,model_id,model,runs,companies_present,companies_catalog,rows,rows_expected,missing_rows,valid_pairs,parse_failures,named_parse_failures,masked_parse_failures,parse_rate,dedup_keys_with_multiple_versions,max_profile_versions_per_company,max_scenario_versions_per_id,max_masked_labels_per_company,first_created_at,last_created_at,status,window_note
+may_core,pharma,anthropic.claude-haiku-4-5-20251001-v1:0,Claude Haiku 4.5,10,15,15,7650,7650,0,7650,0,0,0,1.0,0,1,1,1,2026-05-19 19:12:41.948354,2026-05-20 07:28:12.471970,complete,
+may_core,pharma,anthropic.claude-sonnet-4-5-20250929-v1:0,Claude Sonnet 4.5,10,15,15,7648,7650,2,7498,150,150,150,0.9803870292887029,0,1,1,1,2026-05-19 19:10:46.805906,2026-05-20 07:26:39.579338,observed_minor_gap,
+may_core,pharma,gpt-5,GPT-5,10,15,15,7646,7650,4,7646,0,0,0,1.0,0,1,1,1,2026-05-19 19:05:50.496292,2026-05-20 07:25:35.361172,observed_minor_gap,
+may_core,pharma,gpt-5-mini,GPT-5 Mini,10,15,15,7632,7650,18,7632,0,0,0,1.0,0,1,1,1,2026-05-19 19:03:48.475628,2026-05-20 07:21:32.044216,observed_minor_gap,
+may_core,consulting,anthropic.claude-haiku-4-5-20251001-v1:0,Claude Haiku 4.5,10,10,10,5100,5100,0,5100,0,0,0,1.0,0,1,1,1,2026-05-20 09:16:44.461911,2026-05-20 10:15:49.819723,complete,
+may_core,consulting,anthropic.claude-sonnet-4-5-20250929-v1:0,Claude Sonnet 4.5,10,10,10,5100,5100,0,5100,0,0,0,1.0,0,1,1,1,2026-05-20 09:15:33.354252,2026-05-20 10:14:45.551020,complete,
+may_core,consulting,gpt-5,GPT-5,10,10,10,5100,5100,0,5100,0,0,0,1.0,0,1,1,1,2026-05-20 09:12:58.477519,2026-05-20 10:14:12.054534,complete,
+may_core,consulting,gpt-5-mini,GPT-5 Mini,10,10,10,5100,5100,0,5100,0,0,0,1.0,0,1,1,1,2026-05-20 09:11:20.013569,2026-05-20 10:12:19.783044,complete,
+may_core,cloud,anthropic.claude-haiku-4-5-20251001-v1:0,Claude Haiku 4.5,10,11,11,5610,5610,0,5610,0,0,0,1.0,0,1,1,1,2026-05-20 10:33:46.034337,2026-05-20 11:48:55.136508,complete,
+may_core,cloud,anthropic.claude-sonnet-4-5-20250929-v1:0,Claude Sonnet 4.5,10,11,11,5610,5610,0,5610,0,0,0,1.0,0,1,1,1,2026-05-20 10:32:11.394814,2026-05-20 11:47:39.736439,complete,
+may_core,cloud,gpt-5,GPT-5,10,11,11,5610,5610,0,5610,0,0,0,1.0,0,1,1,1,2026-05-20 10:28:37.525145,2026-05-20 11:47:19.116923,complete,
+may_core,cloud,gpt-5-mini,GPT-5 Mini,10,11,11,5610,5610,0,5610,0,0,0,1.0,0,1,1,1,2026-05-20 10:26:29.135493,2026-05-20 11:42:42.922685,complete,
+may_core,banking,anthropic.claude-haiku-4-5-20251001-v1:0,Claude Haiku 4.5,10,11,11,5610,5610,0,5610,0,0,0,1.0,0,1,1,1,2026-05-21 09:04:13.895620,2026-05-21 10:24:05.748774,complete,
+may_core,banking,anthropic.claude-sonnet-4-5-20250929-v1:0,Claude Sonnet 4.5,10,11,11,5610,5610,0,5610,0,0,0,1.0,0,1,1,1,2026-05-21 09:02:56.676633,2026-05-21 10:22:18.464800,complete,
+may_core,banking,gpt-5,GPT-5,10,11,11,5610,5610,0,5610,0,0,0,1.0,0,1,1,1,2026-05-21 09:00:17.068874,2026-05-21 10:21:08.149686,complete,
+may_core,banking,gpt-5-mini,GPT-5 Mini,10,11,11,5610,5610,0,5610,0,0,0,1.0,0,1,1,1,2026-05-21 08:58:25.267790,2026-05-21 10:17:51.451590,complete,
+sep_sweep,consulting,anthropic.claude-opus-5,Claude Opus 5,10,15,15,7650,7650,0,7604,46,19,27,0.9939869281045751,0,1,1,1,2026-09-21 14:21:51.926775,2026-09-21 15:35:05.260603,complete,
+sep_sweep,consulting,anthropic.claude-sonnet-4-5-20250929-v1:0,Claude Sonnet 4.5,10,7,15,3570,7650,4080,3570,0,0,0,1.0,0,1,1,1,2026-09-21 14:20:21.699280,2026-09-21 16:53:27.680452,observed_partial_catalog,
+sep_sweep,consulting,deepseek/deepseek-v4.1-flash,DeepSeek V4.1 Flash,10,15,15,7650,7650,0,7639,11,7,4,0.998562091503268,0,1,1,1,2026-09-21 20:52:16.411312,2026-09-22 10:01:13.134159,complete,
+sep_sweep,consulting,gpt-5,GPT-5,10,7,15,3570,7650,4080,2307,1263,641,886,0.646218487394958,0,1,1,1,2026-09-22 08:09:11.499723,2026-09-22 09:43:45.913299,observed_partial_catalog,
+sep_sweep,consulting,gpt-5.6-luna,GPT-5.6 Luna,10,15,15,7650,7650,0,7650,0,0,0,1.0,0,1,1,1,2026-09-22 08:20:37.778811,2026-09-22 09:49:50.843233,complete,
+sep_sweep,consulting,gpt-5.6-sol,GPT-5.6 Sol,10,15,15,7650,7650,0,7650,0,0,0,1.0,0,1,1,1,2026-09-22 08:16:00.411591,2026-09-22 09:46:13.930516,complete,
+sep_sweep,consulting,qwen/qwen3.8-max-0902,Qwen3.8 Max,10,15,15,7650,7650,0,7650,0,0,0,1.0,0,1,1,1,2026-09-21 20:47:56.320902,2026-09-22 09:44:44.274493,complete,
+sep_sweep,consulting,z-ai/glm-5.3-flash,GLM-5.3 Flash,10,15,15,7650,7650,0,7630,20,12,8,0.9973856209150327,0,1,1,1,2026-09-21 21:00:47.322001,2026-09-22 10:02:24.315173,complete,
+sep_sweep,cloud,anthropic.claude-opus-5,Claude Opus 5,10,12,12,6120,6120,0,6100,20,12,8,0.9967320261437909,0,1,1,1,2026-09-21 13:58:33.132498,2026-09-21 14:19:03.751274,complete,
+sep_sweep,cloud,anthropic.claude-sonnet-4-5-20250929-v1:0,Claude Sonnet 4.5,10,2,12,1020,6120,5100,1020,0,0,0,1.0,0,1,1,1,2026-09-21 13:57:50.752512,2026-09-21 14:17:21.995472,observed_partial_catalog,
+sep_sweep,cloud,deepseek/deepseek-v4.1-flash,DeepSeek V4.1 Flash,10,12,12,6120,6120,0,6117,3,0,3,0.9995098039215686,0,1,1,1,2026-09-21 17:32:32.874865,2026-09-21 20:46:42.119368,complete,
+sep_sweep,cloud,gpt-5,GPT-5,10,2,12,1019,6120,5101,573,446,220,331,0.5623159960745829,0,1,1,1,2026-09-22 08:09:11.450406,2026-09-22 09:07:24.430820,observed_partial_catalog,
+sep_sweep,cloud,gpt-5.6-luna,GPT-5.6 Luna,10,12,12,6120,6120,0,6120,0,0,0,1.0,0,1,1,1,2026-09-22 08:17:12.763112,2026-09-22 09:12:10.696822,complete,
+sep_sweep,cloud,gpt-5.6-sol,GPT-5.6 Sol,10,12,12,6120,6120,0,6120,0,0,0,1.0,0,1,1,1,2026-09-22 08:14:55.855900,2026-09-22 09:09:45.493591,complete,
+sep_sweep,cloud,qwen/qwen3.8-max-0902,Qwen3.8 Max,10,12,12,6120,6120,0,6120,0,0,0,1.0,0,1,1,1,2026-09-21 17:28:56.719751,2026-09-21 20:27:23.038829,complete,
+sep_sweep,cloud,z-ai/glm-5.3-flash,GLM-5.3 Flash,10,12,12,6120,6120,0,6113,7,1,6,0.9988562091503268,0,1,1,1,2026-09-21 17:42:40.908586,2026-09-21 20:40:47.337256,complete,
+sep_sweep,banking,anthropic.claude-opus-5,Claude Opus 5,10,15,15,7649,7650,1,7629,20,12,8,0.9973852791214538,0,1,1,1,2026-09-21 16:55:35.113892,2026-09-21 17:26:41.623796,observed_minor_gap,
+sep_sweep,banking,anthropic.claude-sonnet-4-5-20250929-v1:0,Claude Sonnet 4.5,10,6,15,3060,7650,4590,3060,0,0,0,1.0,0,1,1,1,2026-09-21 16:54:04.890456,2026-09-21 17:24:31.755132,observed_partial_catalog,
+sep_sweep,banking,deepseek/deepseek-v4.1-flash,DeepSeek V4.1 Flash,10,15,15,7649,7650,1,7634,15,9,6,0.9980389593410903,0,1,1,1,2026-09-22 07:30:04.969450,2026-09-22 14:36:30.508363,observed_minor_gap,
+sep_sweep,banking,gpt-5,GPT-5,10,6,15,3060,7650,4590,1536,1524,911,1173,0.5019607843137255,0,1,1,1,2026-09-22 08:09:11.506518,2026-09-22 09:44:01.364465,observed_partial_catalog,
+sep_sweep,banking,gpt-5.6-luna,GPT-5.6 Luna,10,15,15,7650,7650,0,7650,0,0,0,1.0,0,1,1,1,2026-09-22 08:20:34.029569,2026-09-22 09:51:32.611276,complete,
+sep_sweep,banking,gpt-5.6-sol,GPT-5.6 Sol,10,15,15,7650,7650,0,7650,0,0,0,1.0,0,1,1,1,2026-09-22 08:15:49.557943,2026-09-22 09:46:42.337211,complete,
+sep_sweep,banking,qwen/qwen3.8-max-0902,Qwen3.8 Max,10,15,15,7650,7650,0,7650,0,0,0,1.0,0,1,1,1,2026-09-22 07:24:55.293570,2026-09-22 13:47:38.573322,complete,
+sep_sweep,banking,z-ai/glm-5.3-flash,GLM-5.3 Flash,10,15,15,7650,7650,0,7640,10,7,3,0.9986928104575163,0,1,1,1,2026-09-22 07:45:08.885655,2026-09-22 14:17:21.003242,complete,
+sep_sweep,pharma,anthropic.claude-haiku-4-5-20251001-v1:0,Claude Haiku 4.5,10,3,15,1530,7650,6120,1530,0,0,0,1.0,0,2,1,2,2026-09-16 14:03:04.671277,2026-09-18 20:40:11.524104,observed_partial_catalog,observed trials retained; run and company coverage varies by model
+sep_sweep,pharma,anthropic.claude-opus-5,Claude Opus 5,4,15,15,3060,7650,4590,3038,22,4,22,0.9928104575163399,0,1,1,1,2026-09-16 14:07:45.012259,2026-09-16 16:23:57.425030,observed_limited,observed trials retained; run and company coverage varies by model
+sep_sweep,pharma,anthropic.claude-sonnet-4-5-20250929-v1:0,Claude Sonnet 4.5,4,4,15,613,7650,7037,569,44,36,40,0.9282218597063622,0,1,1,1,2026-09-16 14:01:04.824313,2026-09-16 16:18:48.191801,observed_limited,observed trials retained; run and company coverage varies by model
+sep_sweep,pharma,gpt-5,GPT-5,5,5,15,692,7650,6958,273,419,301,287,0.3945086705202312,0,1,1,1,2026-09-16 14:00:35.855978,2026-09-16 16:25:21.541078,observed_limited,observed trials retained; run and company coverage varies by model
+sep_sweep,pharma,gpt-5-mini,GPT-5 Mini,10,13,15,1542,7650,6108,1240,302,103,232,0.8041504539559015,0,2,1,2,2026-09-16 13:59:44.779516,2026-09-18 20:41:14.270030,observed_partial_catalog,observed trials retained; run and company coverage varies by model
+sep_sweep,pharma,gpt-5.6-luna,GPT-5.6 Luna,4,15,15,3060,7650,4590,3060,0,0,0,1.0,0,1,1,1,2026-09-16 14:05:38.808464,2026-09-16 16:22:12.809968,observed_limited,observed trials retained; run and company coverage varies by model
+sep_sweep,pharma,gpt-5.6-sol,GPT-5.6 Sol,4,15,15,3060,7650,4590,3060,0,0,0,1.0,0,1,1,1,2026-09-16 14:03:35.635426,2026-09-16 16:20:37.522589,observed_limited,observed trials retained; run and company coverage varies by model
+sep_sweep,pharma,openai.gpt-5.6-luna,GPT-5.6 Luna (openai.),3,15,15,2295,7650,5355,2295,0,0,0,1.0,0,1,1,1,2026-09-18 20:13:52.646839,2026-09-18 20:23:32.924434,observed_limited,observed trials retained; run and company coverage varies by model
+sep_sweep,pharma,openai.gpt-5.6-sol,GPT-5.6 Sol (openai.),3,15,15,2295,7650,5355,2295,0,0,0,1.0,0,1,1,1,2026-09-18 20:16:04.439121,2026-09-18 20:25:21.892940,observed_limited,observed trials retained; run and company coverage varies by model
+sep_sweep,pharma,z-ai/glm-5.3-flash,GLM-5.3 Flash,2,3,15,6,7650,7644,4,2,1,2,0.6666666666666666,0,1,1,1,2026-09-16 11:05:00.693286,2026-09-16 11:08:17.596410,observed_limited,observed trials retained; run and company coverage varies by model

@@ -1,0 +1,613 @@
+scenario_id,company_id,base_scenario_text,masked_name
+1,aws,migrate mission critical enterprise workloads from on premises data centers to public cloud.,Company A
+1,azure,migrate mission critical enterprise workloads from on premises data centers to public cloud.,Company B
+1,google_cloud,migrate mission critical enterprise workloads from on premises data centers to public cloud.,Company C
+1,ibm_cloud,migrate mission critical enterprise workloads from on premises data centers to public cloud.,Company D
+1,oracle,migrate mission critical enterprise workloads from on premises data centers to public cloud.,Company E
+1,alibaba_cloud,migrate mission critical enterprise workloads from on premises data centers to public cloud.,Company F
+1,tencent_cloud,migrate mission critical enterprise workloads from on premises data centers to public cloud.,Company G
+1,huawei_cloud,migrate mission critical enterprise workloads from on premises data centers to public cloud.,Company I
+1,salesforce_cloud,migrate mission critical enterprise workloads from on premises data centers to public cloud.,Company J
+1,digital_ocean,migrate mission critical enterprise workloads from on premises data centers to public cloud.,Company K
+1,ovh_cloud,migrate mission critical enterprise workloads from on premises data centers to public cloud.,Company L
+1,deutsche_telekom_cloud,migrate mission critical enterprise workloads from on premises data centers to public cloud.,Company M
+2,aws,build a globally distributed ecommerce platform with low latency across major regions.,Company A
+2,azure,build a globally distributed ecommerce platform with low latency across major regions.,Company B
+2,google_cloud,build a globally distributed ecommerce platform with low latency across major regions.,Company C
+2,ibm_cloud,build a globally distributed ecommerce platform with low latency across major regions.,Company D
+2,oracle,build a globally distributed ecommerce platform with low latency across major regions.,Company E
+2,alibaba_cloud,build a globally distributed ecommerce platform with low latency across major regions.,Company F
+2,tencent_cloud,build a globally distributed ecommerce platform with low latency across major regions.,Company G
+2,huawei_cloud,build a globally distributed ecommerce platform with low latency across major regions.,Company I
+2,salesforce_cloud,build a globally distributed ecommerce platform with low latency across major regions.,Company J
+2,digital_ocean,build a globally distributed ecommerce platform with low latency across major regions.,Company K
+2,ovh_cloud,build a globally distributed ecommerce platform with low latency across major regions.,Company L
+2,deutsche_telekom_cloud,build a globally distributed ecommerce platform with low latency across major regions.,Company M
+3,aws,run regulated financial services workloads with strict data residency and audit requirements.,Company A
+3,azure,run regulated financial services workloads with strict data residency and audit requirements.,Company B
+3,google_cloud,run regulated financial services workloads with strict data residency and audit requirements.,Company C
+3,ibm_cloud,run regulated financial services workloads with strict data residency and audit requirements.,Company D
+3,oracle,run regulated financial services workloads with strict data residency and audit requirements.,Company E
+3,alibaba_cloud,run regulated financial services workloads with strict data residency and audit requirements.,Company F
+3,tencent_cloud,run regulated financial services workloads with strict data residency and audit requirements.,Company G
+3,huawei_cloud,run regulated financial services workloads with strict data residency and audit requirements.,Company I
+3,salesforce_cloud,run regulated financial services workloads with strict data residency and audit requirements.,Company J
+3,digital_ocean,run regulated financial services workloads with strict data residency and audit requirements.,Company K
+3,ovh_cloud,run regulated financial services workloads with strict data residency and audit requirements.,Company L
+3,deutsche_telekom_cloud,run regulated financial services workloads with strict data residency and audit requirements.,Company M
+4,aws,support AI model training and inference workloads at large scale.,Company A
+4,azure,support AI model training and inference workloads at large scale.,Company B
+4,google_cloud,support AI model training and inference workloads at large scale.,Company C
+4,ibm_cloud,support AI model training and inference workloads at large scale.,Company D
+4,oracle,support AI model training and inference workloads at large scale.,Company E
+4,alibaba_cloud,support AI model training and inference workloads at large scale.,Company F
+4,tencent_cloud,support AI model training and inference workloads at large scale.,Company G
+4,huawei_cloud,support AI model training and inference workloads at large scale.,Company I
+4,salesforce_cloud,support AI model training and inference workloads at large scale.,Company J
+4,digital_ocean,support AI model training and inference workloads at large scale.,Company K
+4,ovh_cloud,support AI model training and inference workloads at large scale.,Company L
+4,deutsche_telekom_cloud,support AI model training and inference workloads at large scale.,Company M
+5,aws,modernize a legacy application portfolio using containers and managed services.,Company A
+5,azure,modernize a legacy application portfolio using containers and managed services.,Company B
+5,google_cloud,modernize a legacy application portfolio using containers and managed services.,Company C
+5,ibm_cloud,modernize a legacy application portfolio using containers and managed services.,Company D
+5,oracle,modernize a legacy application portfolio using containers and managed services.,Company E
+5,alibaba_cloud,modernize a legacy application portfolio using containers and managed services.,Company F
+5,tencent_cloud,modernize a legacy application portfolio using containers and managed services.,Company G
+5,huawei_cloud,modernize a legacy application portfolio using containers and managed services.,Company I
+5,salesforce_cloud,modernize a legacy application portfolio using containers and managed services.,Company J
+5,digital_ocean,modernize a legacy application portfolio using containers and managed services.,Company K
+5,ovh_cloud,modernize a legacy application portfolio using containers and managed services.,Company L
+5,deutsche_telekom_cloud,modernize a legacy application portfolio using containers and managed services.,Company M
+6,aws,implement a hybrid cloud architecture across private and public environments.,Company A
+6,azure,implement a hybrid cloud architecture across private and public environments.,Company B
+6,google_cloud,implement a hybrid cloud architecture across private and public environments.,Company C
+6,ibm_cloud,implement a hybrid cloud architecture across private and public environments.,Company D
+6,oracle,implement a hybrid cloud architecture across private and public environments.,Company E
+6,alibaba_cloud,implement a hybrid cloud architecture across private and public environments.,Company F
+6,tencent_cloud,implement a hybrid cloud architecture across private and public environments.,Company G
+6,huawei_cloud,implement a hybrid cloud architecture across private and public environments.,Company I
+6,salesforce_cloud,implement a hybrid cloud architecture across private and public environments.,Company J
+6,digital_ocean,implement a hybrid cloud architecture across private and public environments.,Company K
+6,ovh_cloud,implement a hybrid cloud architecture across private and public environments.,Company L
+6,deutsche_telekom_cloud,implement a hybrid cloud architecture across private and public environments.,Company M
+7,aws,support disaster recovery for a multinational enterprise with aggressive recovery objectives.,Company A
+7,azure,support disaster recovery for a multinational enterprise with aggressive recovery objectives.,Company B
+7,google_cloud,support disaster recovery for a multinational enterprise with aggressive recovery objectives.,Company C
+7,ibm_cloud,support disaster recovery for a multinational enterprise with aggressive recovery objectives.,Company D
+7,oracle,support disaster recovery for a multinational enterprise with aggressive recovery objectives.,Company E
+7,alibaba_cloud,support disaster recovery for a multinational enterprise with aggressive recovery objectives.,Company F
+7,tencent_cloud,support disaster recovery for a multinational enterprise with aggressive recovery objectives.,Company G
+7,huawei_cloud,support disaster recovery for a multinational enterprise with aggressive recovery objectives.,Company I
+7,salesforce_cloud,support disaster recovery for a multinational enterprise with aggressive recovery objectives.,Company J
+7,digital_ocean,support disaster recovery for a multinational enterprise with aggressive recovery objectives.,Company K
+7,ovh_cloud,support disaster recovery for a multinational enterprise with aggressive recovery objectives.,Company L
+7,deutsche_telekom_cloud,support disaster recovery for a multinational enterprise with aggressive recovery objectives.,Company M
+8,aws,host a high traffic consumer application with unpredictable usage spikes.,Company A
+8,azure,host a high traffic consumer application with unpredictable usage spikes.,Company B
+8,google_cloud,host a high traffic consumer application with unpredictable usage spikes.,Company C
+8,ibm_cloud,host a high traffic consumer application with unpredictable usage spikes.,Company D
+8,oracle,host a high traffic consumer application with unpredictable usage spikes.,Company E
+8,alibaba_cloud,host a high traffic consumer application with unpredictable usage spikes.,Company F
+8,tencent_cloud,host a high traffic consumer application with unpredictable usage spikes.,Company G
+8,huawei_cloud,host a high traffic consumer application with unpredictable usage spikes.,Company I
+8,salesforce_cloud,host a high traffic consumer application with unpredictable usage spikes.,Company J
+8,digital_ocean,host a high traffic consumer application with unpredictable usage spikes.,Company K
+8,ovh_cloud,host a high traffic consumer application with unpredictable usage spikes.,Company L
+8,deutsche_telekom_cloud,host a high traffic consumer application with unpredictable usage spikes.,Company M
+9,aws,build an analytics platform for streaming and batch data processing.,Company A
+9,azure,build an analytics platform for streaming and batch data processing.,Company B
+9,google_cloud,build an analytics platform for streaming and batch data processing.,Company C
+9,ibm_cloud,build an analytics platform for streaming and batch data processing.,Company D
+9,oracle,build an analytics platform for streaming and batch data processing.,Company E
+9,alibaba_cloud,build an analytics platform for streaming and batch data processing.,Company F
+9,tencent_cloud,build an analytics platform for streaming and batch data processing.,Company G
+9,huawei_cloud,build an analytics platform for streaming and batch data processing.,Company I
+9,salesforce_cloud,build an analytics platform for streaming and batch data processing.,Company J
+9,digital_ocean,build an analytics platform for streaming and batch data processing.,Company K
+9,ovh_cloud,build an analytics platform for streaming and batch data processing.,Company L
+9,deutsche_telekom_cloud,build an analytics platform for streaming and batch data processing.,Company M
+10,aws,deploy a secure healthcare data platform with strict compliance requirements.,Company A
+10,azure,deploy a secure healthcare data platform with strict compliance requirements.,Company B
+10,google_cloud,deploy a secure healthcare data platform with strict compliance requirements.,Company C
+10,ibm_cloud,deploy a secure healthcare data platform with strict compliance requirements.,Company D
+10,oracle,deploy a secure healthcare data platform with strict compliance requirements.,Company E
+10,alibaba_cloud,deploy a secure healthcare data platform with strict compliance requirements.,Company F
+10,tencent_cloud,deploy a secure healthcare data platform with strict compliance requirements.,Company G
+10,huawei_cloud,deploy a secure healthcare data platform with strict compliance requirements.,Company I
+10,salesforce_cloud,deploy a secure healthcare data platform with strict compliance requirements.,Company J
+10,digital_ocean,deploy a secure healthcare data platform with strict compliance requirements.,Company K
+10,ovh_cloud,deploy a secure healthcare data platform with strict compliance requirements.,Company L
+10,deutsche_telekom_cloud,deploy a secure healthcare data platform with strict compliance requirements.,Company M
+11,aws,support a multi region database architecture with high availability needs.,Company A
+11,azure,support a multi region database architecture with high availability needs.,Company B
+11,google_cloud,support a multi region database architecture with high availability needs.,Company C
+11,ibm_cloud,support a multi region database architecture with high availability needs.,Company D
+11,oracle,support a multi region database architecture with high availability needs.,Company E
+11,alibaba_cloud,support a multi region database architecture with high availability needs.,Company F
+11,tencent_cloud,support a multi region database architecture with high availability needs.,Company G
+11,huawei_cloud,support a multi region database architecture with high availability needs.,Company I
+11,salesforce_cloud,support a multi region database architecture with high availability needs.,Company J
+11,digital_ocean,support a multi region database architecture with high availability needs.,Company K
+11,ovh_cloud,support a multi region database architecture with high availability needs.,Company L
+11,deutsche_telekom_cloud,support a multi region database architecture with high availability needs.,Company M
+12,aws,provide a developer friendly platform for a start up product launch.,Company A
+12,azure,provide a developer friendly platform for a start up product launch.,Company B
+12,google_cloud,provide a developer friendly platform for a start up product launch.,Company C
+12,ibm_cloud,provide a developer friendly platform for a start up product launch.,Company D
+12,oracle,provide a developer friendly platform for a start up product launch.,Company E
+12,alibaba_cloud,provide a developer friendly platform for a start up product launch.,Company F
+12,tencent_cloud,provide a developer friendly platform for a start up product launch.,Company G
+12,huawei_cloud,provide a developer friendly platform for a start up product launch.,Company I
+12,salesforce_cloud,provide a developer friendly platform for a start up product launch.,Company J
+12,digital_ocean,provide a developer friendly platform for a start up product launch.,Company K
+12,ovh_cloud,provide a developer friendly platform for a start up product launch.,Company L
+12,deutsche_telekom_cloud,provide a developer friendly platform for a start up product launch.,Company M
+13,aws,migrate ERP and enterprise application workloads with minimal downtime.,Company A
+13,azure,migrate ERP and enterprise application workloads with minimal downtime.,Company B
+13,google_cloud,migrate ERP and enterprise application workloads with minimal downtime.,Company C
+13,ibm_cloud,migrate ERP and enterprise application workloads with minimal downtime.,Company D
+13,oracle,migrate ERP and enterprise application workloads with minimal downtime.,Company E
+13,alibaba_cloud,migrate ERP and enterprise application workloads with minimal downtime.,Company F
+13,tencent_cloud,migrate ERP and enterprise application workloads with minimal downtime.,Company G
+13,huawei_cloud,migrate ERP and enterprise application workloads with minimal downtime.,Company I
+13,salesforce_cloud,migrate ERP and enterprise application workloads with minimal downtime.,Company J
+13,digital_ocean,migrate ERP and enterprise application workloads with minimal downtime.,Company K
+13,ovh_cloud,migrate ERP and enterprise application workloads with minimal downtime.,Company L
+13,deutsche_telekom_cloud,migrate ERP and enterprise application workloads with minimal downtime.,Company M
+14,aws,run a gaming backend with real time communications and global users.,Company A
+14,azure,run a gaming backend with real time communications and global users.,Company B
+14,google_cloud,run a gaming backend with real time communications and global users.,Company C
+14,ibm_cloud,run a gaming backend with real time communications and global users.,Company D
+14,oracle,run a gaming backend with real time communications and global users.,Company E
+14,alibaba_cloud,run a gaming backend with real time communications and global users.,Company F
+14,tencent_cloud,run a gaming backend with real time communications and global users.,Company G
+14,huawei_cloud,run a gaming backend with real time communications and global users.,Company I
+14,salesforce_cloud,run a gaming backend with real time communications and global users.,Company J
+14,digital_ocean,run a gaming backend with real time communications and global users.,Company K
+14,ovh_cloud,run a gaming backend with real time communications and global users.,Company L
+14,deutsche_telekom_cloud,run a gaming backend with real time communications and global users.,Company M
+15,aws,build a sovereign cloud environment for a public sector agency.,Company A
+15,azure,build a sovereign cloud environment for a public sector agency.,Company B
+15,google_cloud,build a sovereign cloud environment for a public sector agency.,Company C
+15,ibm_cloud,build a sovereign cloud environment for a public sector agency.,Company D
+15,oracle,build a sovereign cloud environment for a public sector agency.,Company E
+15,alibaba_cloud,build a sovereign cloud environment for a public sector agency.,Company F
+15,tencent_cloud,build a sovereign cloud environment for a public sector agency.,Company G
+15,huawei_cloud,build a sovereign cloud environment for a public sector agency.,Company I
+15,salesforce_cloud,build a sovereign cloud environment for a public sector agency.,Company J
+15,digital_ocean,build a sovereign cloud environment for a public sector agency.,Company K
+15,ovh_cloud,build a sovereign cloud environment for a public sector agency.,Company L
+15,deutsche_telekom_cloud,build a sovereign cloud environment for a public sector agency.,Company M
+16,aws,provide cost optimized compute for predictable batch processing workloads.,Company A
+16,azure,provide cost optimized compute for predictable batch processing workloads.,Company B
+16,google_cloud,provide cost optimized compute for predictable batch processing workloads.,Company C
+16,ibm_cloud,provide cost optimized compute for predictable batch processing workloads.,Company D
+16,oracle,provide cost optimized compute for predictable batch processing workloads.,Company E
+16,alibaba_cloud,provide cost optimized compute for predictable batch processing workloads.,Company F
+16,tencent_cloud,provide cost optimized compute for predictable batch processing workloads.,Company G
+16,huawei_cloud,provide cost optimized compute for predictable batch processing workloads.,Company I
+16,salesforce_cloud,provide cost optimized compute for predictable batch processing workloads.,Company J
+16,digital_ocean,provide cost optimized compute for predictable batch processing workloads.,Company K
+16,ovh_cloud,provide cost optimized compute for predictable batch processing workloads.,Company L
+16,deutsche_telekom_cloud,provide cost optimized compute for predictable batch processing workloads.,Company M
+17,aws,support a customer relationship platform with integrated workflow automation.,Company A
+17,azure,support a customer relationship platform with integrated workflow automation.,Company B
+17,google_cloud,support a customer relationship platform with integrated workflow automation.,Company C
+17,ibm_cloud,support a customer relationship platform with integrated workflow automation.,Company D
+17,oracle,support a customer relationship platform with integrated workflow automation.,Company E
+17,alibaba_cloud,support a customer relationship platform with integrated workflow automation.,Company F
+17,tencent_cloud,support a customer relationship platform with integrated workflow automation.,Company G
+17,huawei_cloud,support a customer relationship platform with integrated workflow automation.,Company I
+17,salesforce_cloud,support a customer relationship platform with integrated workflow automation.,Company J
+17,digital_ocean,support a customer relationship platform with integrated workflow automation.,Company K
+17,ovh_cloud,support a customer relationship platform with integrated workflow automation.,Company L
+17,deutsche_telekom_cloud,support a customer relationship platform with integrated workflow automation.,Company M
+18,aws,deploy edge and telecom adjacent workloads with low latency requirements.,Company A
+18,azure,deploy edge and telecom adjacent workloads with low latency requirements.,Company B
+18,google_cloud,deploy edge and telecom adjacent workloads with low latency requirements.,Company C
+18,ibm_cloud,deploy edge and telecom adjacent workloads with low latency requirements.,Company D
+18,oracle,deploy edge and telecom adjacent workloads with low latency requirements.,Company E
+18,alibaba_cloud,deploy edge and telecom adjacent workloads with low latency requirements.,Company F
+18,tencent_cloud,deploy edge and telecom adjacent workloads with low latency requirements.,Company G
+18,huawei_cloud,deploy edge and telecom adjacent workloads with low latency requirements.,Company I
+18,salesforce_cloud,deploy edge and telecom adjacent workloads with low latency requirements.,Company J
+18,digital_ocean,deploy edge and telecom adjacent workloads with low latency requirements.,Company K
+18,ovh_cloud,deploy edge and telecom adjacent workloads with low latency requirements.,Company L
+18,deutsche_telekom_cloud,deploy edge and telecom adjacent workloads with low latency requirements.,Company M
+19,aws,enable machine learning operations across experimentation and production environments.,Company A
+19,azure,enable machine learning operations across experimentation and production environments.,Company B
+19,google_cloud,enable machine learning operations across experimentation and production environments.,Company C
+19,ibm_cloud,enable machine learning operations across experimentation and production environments.,Company D
+19,oracle,enable machine learning operations across experimentation and production environments.,Company E
+19,alibaba_cloud,enable machine learning operations across experimentation and production environments.,Company F
+19,tencent_cloud,enable machine learning operations across experimentation and production environments.,Company G
+19,huawei_cloud,enable machine learning operations across experimentation and production environments.,Company I
+19,salesforce_cloud,enable machine learning operations across experimentation and production environments.,Company J
+19,digital_ocean,enable machine learning operations across experimentation and production environments.,Company K
+19,ovh_cloud,enable machine learning operations across experimentation and production environments.,Company L
+19,deutsche_telekom_cloud,enable machine learning operations across experimentation and production environments.,Company M
+20,aws,secure cloud infrastructure after a major compliance audit finding.,Company A
+20,azure,secure cloud infrastructure after a major compliance audit finding.,Company B
+20,google_cloud,secure cloud infrastructure after a major compliance audit finding.,Company C
+20,ibm_cloud,secure cloud infrastructure after a major compliance audit finding.,Company D
+20,oracle,secure cloud infrastructure after a major compliance audit finding.,Company E
+20,alibaba_cloud,secure cloud infrastructure after a major compliance audit finding.,Company F
+20,tencent_cloud,secure cloud infrastructure after a major compliance audit finding.,Company G
+20,huawei_cloud,secure cloud infrastructure after a major compliance audit finding.,Company I
+20,salesforce_cloud,secure cloud infrastructure after a major compliance audit finding.,Company J
+20,digital_ocean,secure cloud infrastructure after a major compliance audit finding.,Company K
+20,ovh_cloud,secure cloud infrastructure after a major compliance audit finding.,Company L
+20,deutsche_telekom_cloud,secure cloud infrastructure after a major compliance audit finding.,Company M
+21,aws,consolidate fragmented cloud accounts after rapid business growth.,Company A
+21,azure,consolidate fragmented cloud accounts after rapid business growth.,Company B
+21,google_cloud,consolidate fragmented cloud accounts after rapid business growth.,Company C
+21,ibm_cloud,consolidate fragmented cloud accounts after rapid business growth.,Company D
+21,oracle,consolidate fragmented cloud accounts after rapid business growth.,Company E
+21,alibaba_cloud,consolidate fragmented cloud accounts after rapid business growth.,Company F
+21,tencent_cloud,consolidate fragmented cloud accounts after rapid business growth.,Company G
+21,huawei_cloud,consolidate fragmented cloud accounts after rapid business growth.,Company I
+21,salesforce_cloud,consolidate fragmented cloud accounts after rapid business growth.,Company J
+21,digital_ocean,consolidate fragmented cloud accounts after rapid business growth.,Company K
+21,ovh_cloud,consolidate fragmented cloud accounts after rapid business growth.,Company L
+21,deutsche_telekom_cloud,consolidate fragmented cloud accounts after rapid business growth.,Company M
+22,aws,modernize self managed database systems into managed cloud database services.,Company A
+22,azure,modernize self managed database systems into managed cloud database services.,Company B
+22,google_cloud,modernize self managed database systems into managed cloud database services.,Company C
+22,ibm_cloud,modernize self managed database systems into managed cloud database services.,Company D
+22,oracle,modernize self managed database systems into managed cloud database services.,Company E
+22,alibaba_cloud,modernize self managed database systems into managed cloud database services.,Company F
+22,tencent_cloud,modernize self managed database systems into managed cloud database services.,Company G
+22,huawei_cloud,modernize self managed database systems into managed cloud database services.,Company I
+22,salesforce_cloud,modernize self managed database systems into managed cloud database services.,Company J
+22,digital_ocean,modernize self managed database systems into managed cloud database services.,Company K
+22,ovh_cloud,modernize self managed database systems into managed cloud database services.,Company L
+22,deutsche_telekom_cloud,modernize self managed database systems into managed cloud database services.,Company M
+23,aws,provide cloud infrastructure for a European organization prioritizing data sovereignty.,Company A
+23,azure,provide cloud infrastructure for a European organization prioritizing data sovereignty.,Company B
+23,google_cloud,provide cloud infrastructure for a European organization prioritizing data sovereignty.,Company C
+23,ibm_cloud,provide cloud infrastructure for a European organization prioritizing data sovereignty.,Company D
+23,oracle,provide cloud infrastructure for a European organization prioritizing data sovereignty.,Company E
+23,alibaba_cloud,provide cloud infrastructure for a European organization prioritizing data sovereignty.,Company F
+23,tencent_cloud,provide cloud infrastructure for a European organization prioritizing data sovereignty.,Company G
+23,huawei_cloud,provide cloud infrastructure for a European organization prioritizing data sovereignty.,Company I
+23,salesforce_cloud,provide cloud infrastructure for a European organization prioritizing data sovereignty.,Company J
+23,digital_ocean,provide cloud infrastructure for a European organization prioritizing data sovereignty.,Company K
+23,ovh_cloud,provide cloud infrastructure for a European organization prioritizing data sovereignty.,Company L
+23,deutsche_telekom_cloud,provide cloud infrastructure for a European organization prioritizing data sovereignty.,Company M
+24,aws,scale a SaaS platform across North America Europe and Asia.,Company A
+24,azure,scale a SaaS platform across North America Europe and Asia.,Company B
+24,google_cloud,scale a SaaS platform across North America Europe and Asia.,Company C
+24,ibm_cloud,scale a SaaS platform across North America Europe and Asia.,Company D
+24,oracle,scale a SaaS platform across North America Europe and Asia.,Company E
+24,alibaba_cloud,scale a SaaS platform across North America Europe and Asia.,Company F
+24,tencent_cloud,scale a SaaS platform across North America Europe and Asia.,Company G
+24,huawei_cloud,scale a SaaS platform across North America Europe and Asia.,Company I
+24,salesforce_cloud,scale a SaaS platform across North America Europe and Asia.,Company J
+24,digital_ocean,scale a SaaS platform across North America Europe and Asia.,Company K
+24,ovh_cloud,scale a SaaS platform across North America Europe and Asia.,Company L
+24,deutsche_telekom_cloud,scale a SaaS platform across North America Europe and Asia.,Company M
+25,aws,run large language model inference with strict latency and cost constraints.,Company A
+25,azure,run large language model inference with strict latency and cost constraints.,Company B
+25,google_cloud,run large language model inference with strict latency and cost constraints.,Company C
+25,ibm_cloud,run large language model inference with strict latency and cost constraints.,Company D
+25,oracle,run large language model inference with strict latency and cost constraints.,Company E
+25,alibaba_cloud,run large language model inference with strict latency and cost constraints.,Company F
+25,tencent_cloud,run large language model inference with strict latency and cost constraints.,Company G
+25,huawei_cloud,run large language model inference with strict latency and cost constraints.,Company I
+25,salesforce_cloud,run large language model inference with strict latency and cost constraints.,Company J
+25,digital_ocean,run large language model inference with strict latency and cost constraints.,Company K
+25,ovh_cloud,run large language model inference with strict latency and cost constraints.,Company L
+25,deutsche_telekom_cloud,run large language model inference with strict latency and cost constraints.,Company M
+26,aws,build a cloud native data lakehouse for enterprise analytics.,Company A
+26,azure,build a cloud native data lakehouse for enterprise analytics.,Company B
+26,google_cloud,build a cloud native data lakehouse for enterprise analytics.,Company C
+26,ibm_cloud,build a cloud native data lakehouse for enterprise analytics.,Company D
+26,oracle,build a cloud native data lakehouse for enterprise analytics.,Company E
+26,alibaba_cloud,build a cloud native data lakehouse for enterprise analytics.,Company F
+26,tencent_cloud,build a cloud native data lakehouse for enterprise analytics.,Company G
+26,huawei_cloud,build a cloud native data lakehouse for enterprise analytics.,Company I
+26,salesforce_cloud,build a cloud native data lakehouse for enterprise analytics.,Company J
+26,digital_ocean,build a cloud native data lakehouse for enterprise analytics.,Company K
+26,ovh_cloud,build a cloud native data lakehouse for enterprise analytics.,Company L
+26,deutsche_telekom_cloud,build a cloud native data lakehouse for enterprise analytics.,Company M
+27,aws,provide GPU capacity for generative AI application development.,Company A
+27,azure,provide GPU capacity for generative AI application development.,Company B
+27,google_cloud,provide GPU capacity for generative AI application development.,Company C
+27,ibm_cloud,provide GPU capacity for generative AI application development.,Company D
+27,oracle,provide GPU capacity for generative AI application development.,Company E
+27,alibaba_cloud,provide GPU capacity for generative AI application development.,Company F
+27,tencent_cloud,provide GPU capacity for generative AI application development.,Company G
+27,huawei_cloud,provide GPU capacity for generative AI application development.,Company I
+27,salesforce_cloud,provide GPU capacity for generative AI application development.,Company J
+27,digital_ocean,provide GPU capacity for generative AI application development.,Company K
+27,ovh_cloud,provide GPU capacity for generative AI application development.,Company L
+27,deutsche_telekom_cloud,provide GPU capacity for generative AI application development.,Company M
+28,aws,support multi cloud governance across several business units.,Company A
+28,azure,support multi cloud governance across several business units.,Company B
+28,google_cloud,support multi cloud governance across several business units.,Company C
+28,ibm_cloud,support multi cloud governance across several business units.,Company D
+28,oracle,support multi cloud governance across several business units.,Company E
+28,alibaba_cloud,support multi cloud governance across several business units.,Company F
+28,tencent_cloud,support multi cloud governance across several business units.,Company G
+28,huawei_cloud,support multi cloud governance across several business units.,Company I
+28,salesforce_cloud,support multi cloud governance across several business units.,Company J
+28,digital_ocean,support multi cloud governance across several business units.,Company K
+28,ovh_cloud,support multi cloud governance across several business units.,Company L
+28,deutsche_telekom_cloud,support multi cloud governance across several business units.,Company M
+29,aws,host latency sensitive trading and market data workloads.,Company A
+29,azure,host latency sensitive trading and market data workloads.,Company B
+29,google_cloud,host latency sensitive trading and market data workloads.,Company C
+29,ibm_cloud,host latency sensitive trading and market data workloads.,Company D
+29,oracle,host latency sensitive trading and market data workloads.,Company E
+29,alibaba_cloud,host latency sensitive trading and market data workloads.,Company F
+29,tencent_cloud,host latency sensitive trading and market data workloads.,Company G
+29,huawei_cloud,host latency sensitive trading and market data workloads.,Company I
+29,salesforce_cloud,host latency sensitive trading and market data workloads.,Company J
+29,digital_ocean,host latency sensitive trading and market data workloads.,Company K
+29,ovh_cloud,host latency sensitive trading and market data workloads.,Company L
+29,deutsche_telekom_cloud,host latency sensitive trading and market data workloads.,Company M
+30,aws,deploy secure collaboration and productivity applications for a global workforce.,Company A
+30,azure,deploy secure collaboration and productivity applications for a global workforce.,Company B
+30,google_cloud,deploy secure collaboration and productivity applications for a global workforce.,Company C
+30,ibm_cloud,deploy secure collaboration and productivity applications for a global workforce.,Company D
+30,oracle,deploy secure collaboration and productivity applications for a global workforce.,Company E
+30,alibaba_cloud,deploy secure collaboration and productivity applications for a global workforce.,Company F
+30,tencent_cloud,deploy secure collaboration and productivity applications for a global workforce.,Company G
+30,huawei_cloud,deploy secure collaboration and productivity applications for a global workforce.,Company I
+30,salesforce_cloud,deploy secure collaboration and productivity applications for a global workforce.,Company J
+30,digital_ocean,deploy secure collaboration and productivity applications for a global workforce.,Company K
+30,ovh_cloud,deploy secure collaboration and productivity applications for a global workforce.,Company L
+30,deutsche_telekom_cloud,deploy secure collaboration and productivity applications for a global workforce.,Company M
+31,aws,support IoT data ingestion from millions of connected devices.,Company A
+31,azure,support IoT data ingestion from millions of connected devices.,Company B
+31,google_cloud,support IoT data ingestion from millions of connected devices.,Company C
+31,ibm_cloud,support IoT data ingestion from millions of connected devices.,Company D
+31,oracle,support IoT data ingestion from millions of connected devices.,Company E
+31,alibaba_cloud,support IoT data ingestion from millions of connected devices.,Company F
+31,tencent_cloud,support IoT data ingestion from millions of connected devices.,Company G
+31,huawei_cloud,support IoT data ingestion from millions of connected devices.,Company I
+31,salesforce_cloud,support IoT data ingestion from millions of connected devices.,Company J
+31,digital_ocean,support IoT data ingestion from millions of connected devices.,Company K
+31,ovh_cloud,support IoT data ingestion from millions of connected devices.,Company L
+31,deutsche_telekom_cloud,support IoT data ingestion from millions of connected devices.,Company M
+32,aws,migrate containerized workloads across Kubernetes clusters.,Company A
+32,azure,migrate containerized workloads across Kubernetes clusters.,Company B
+32,google_cloud,migrate containerized workloads across Kubernetes clusters.,Company C
+32,ibm_cloud,migrate containerized workloads across Kubernetes clusters.,Company D
+32,oracle,migrate containerized workloads across Kubernetes clusters.,Company E
+32,alibaba_cloud,migrate containerized workloads across Kubernetes clusters.,Company F
+32,tencent_cloud,migrate containerized workloads across Kubernetes clusters.,Company G
+32,huawei_cloud,migrate containerized workloads across Kubernetes clusters.,Company I
+32,salesforce_cloud,migrate containerized workloads across Kubernetes clusters.,Company J
+32,digital_ocean,migrate containerized workloads across Kubernetes clusters.,Company K
+32,ovh_cloud,migrate containerized workloads across Kubernetes clusters.,Company L
+32,deutsche_telekom_cloud,migrate containerized workloads across Kubernetes clusters.,Company M
+33,aws,provide backup and archival storage with long term retention requirements.,Company A
+33,azure,provide backup and archival storage with long term retention requirements.,Company B
+33,google_cloud,provide backup and archival storage with long term retention requirements.,Company C
+33,ibm_cloud,provide backup and archival storage with long term retention requirements.,Company D
+33,oracle,provide backup and archival storage with long term retention requirements.,Company E
+33,alibaba_cloud,provide backup and archival storage with long term retention requirements.,Company F
+33,tencent_cloud,provide backup and archival storage with long term retention requirements.,Company G
+33,huawei_cloud,provide backup and archival storage with long term retention requirements.,Company I
+33,salesforce_cloud,provide backup and archival storage with long term retention requirements.,Company J
+33,digital_ocean,provide backup and archival storage with long term retention requirements.,Company K
+33,ovh_cloud,provide backup and archival storage with long term retention requirements.,Company L
+33,deutsche_telekom_cloud,provide backup and archival storage with long term retention requirements.,Company M
+34,aws,support privacy compliant customer data processing across jurisdictions.,Company A
+34,azure,support privacy compliant customer data processing across jurisdictions.,Company B
+34,google_cloud,support privacy compliant customer data processing across jurisdictions.,Company C
+34,ibm_cloud,support privacy compliant customer data processing across jurisdictions.,Company D
+34,oracle,support privacy compliant customer data processing across jurisdictions.,Company E
+34,alibaba_cloud,support privacy compliant customer data processing across jurisdictions.,Company F
+34,tencent_cloud,support privacy compliant customer data processing across jurisdictions.,Company G
+34,huawei_cloud,support privacy compliant customer data processing across jurisdictions.,Company I
+34,salesforce_cloud,support privacy compliant customer data processing across jurisdictions.,Company J
+34,digital_ocean,support privacy compliant customer data processing across jurisdictions.,Company K
+34,ovh_cloud,support privacy compliant customer data processing across jurisdictions.,Company L
+34,deutsche_telekom_cloud,support privacy compliant customer data processing across jurisdictions.,Company M
+35,aws,run serverless event driven applications with unpredictable request volume.,Company A
+35,azure,run serverless event driven applications with unpredictable request volume.,Company B
+35,google_cloud,run serverless event driven applications with unpredictable request volume.,Company C
+35,ibm_cloud,run serverless event driven applications with unpredictable request volume.,Company D
+35,oracle,run serverless event driven applications with unpredictable request volume.,Company E
+35,alibaba_cloud,run serverless event driven applications with unpredictable request volume.,Company F
+35,tencent_cloud,run serverless event driven applications with unpredictable request volume.,Company G
+35,huawei_cloud,run serverless event driven applications with unpredictable request volume.,Company I
+35,salesforce_cloud,run serverless event driven applications with unpredictable request volume.,Company J
+35,digital_ocean,run serverless event driven applications with unpredictable request volume.,Company K
+35,ovh_cloud,run serverless event driven applications with unpredictable request volume.,Company L
+35,deutsche_telekom_cloud,run serverless event driven applications with unpredictable request volume.,Company M
+36,aws,manage identity access and security monitoring across cloud environments.,Company A
+36,azure,manage identity access and security monitoring across cloud environments.,Company B
+36,google_cloud,manage identity access and security monitoring across cloud environments.,Company C
+36,ibm_cloud,manage identity access and security monitoring across cloud environments.,Company D
+36,oracle,manage identity access and security monitoring across cloud environments.,Company E
+36,alibaba_cloud,manage identity access and security monitoring across cloud environments.,Company F
+36,tencent_cloud,manage identity access and security monitoring across cloud environments.,Company G
+36,huawei_cloud,manage identity access and security monitoring across cloud environments.,Company I
+36,salesforce_cloud,manage identity access and security monitoring across cloud environments.,Company J
+36,digital_ocean,manage identity access and security monitoring across cloud environments.,Company K
+36,ovh_cloud,manage identity access and security monitoring across cloud environments.,Company L
+36,deutsche_telekom_cloud,manage identity access and security monitoring across cloud environments.,Company M
+37,aws,support high performance computing workloads for engineering simulation.,Company A
+37,azure,support high performance computing workloads for engineering simulation.,Company B
+37,google_cloud,support high performance computing workloads for engineering simulation.,Company C
+37,ibm_cloud,support high performance computing workloads for engineering simulation.,Company D
+37,oracle,support high performance computing workloads for engineering simulation.,Company E
+37,alibaba_cloud,support high performance computing workloads for engineering simulation.,Company F
+37,tencent_cloud,support high performance computing workloads for engineering simulation.,Company G
+37,huawei_cloud,support high performance computing workloads for engineering simulation.,Company I
+37,salesforce_cloud,support high performance computing workloads for engineering simulation.,Company J
+37,digital_ocean,support high performance computing workloads for engineering simulation.,Company K
+37,ovh_cloud,support high performance computing workloads for engineering simulation.,Company L
+37,deutsche_telekom_cloud,support high performance computing workloads for engineering simulation.,Company M
+38,aws,provide managed Kubernetes for a platform engineering organization.,Company A
+38,azure,provide managed Kubernetes for a platform engineering organization.,Company B
+38,google_cloud,provide managed Kubernetes for a platform engineering organization.,Company C
+38,ibm_cloud,provide managed Kubernetes for a platform engineering organization.,Company D
+38,oracle,provide managed Kubernetes for a platform engineering organization.,Company E
+38,alibaba_cloud,provide managed Kubernetes for a platform engineering organization.,Company F
+38,tencent_cloud,provide managed Kubernetes for a platform engineering organization.,Company G
+38,huawei_cloud,provide managed Kubernetes for a platform engineering organization.,Company I
+38,salesforce_cloud,provide managed Kubernetes for a platform engineering organization.,Company J
+38,digital_ocean,provide managed Kubernetes for a platform engineering organization.,Company K
+38,ovh_cloud,provide managed Kubernetes for a platform engineering organization.,Company L
+38,deutsche_telekom_cloud,provide managed Kubernetes for a platform engineering organization.,Company M
+39,aws,build a cloud contact center and customer service automation platform.,Company A
+39,azure,build a cloud contact center and customer service automation platform.,Company B
+39,google_cloud,build a cloud contact center and customer service automation platform.,Company C
+39,ibm_cloud,build a cloud contact center and customer service automation platform.,Company D
+39,oracle,build a cloud contact center and customer service automation platform.,Company E
+39,alibaba_cloud,build a cloud contact center and customer service automation platform.,Company F
+39,tencent_cloud,build a cloud contact center and customer service automation platform.,Company G
+39,huawei_cloud,build a cloud contact center and customer service automation platform.,Company I
+39,salesforce_cloud,build a cloud contact center and customer service automation platform.,Company J
+39,digital_ocean,build a cloud contact center and customer service automation platform.,Company K
+39,ovh_cloud,build a cloud contact center and customer service automation platform.,Company L
+39,deutsche_telekom_cloud,build a cloud contact center and customer service automation platform.,Company M
+40,aws,support video streaming infrastructure for a global media platform.,Company A
+40,azure,support video streaming infrastructure for a global media platform.,Company B
+40,google_cloud,support video streaming infrastructure for a global media platform.,Company C
+40,ibm_cloud,support video streaming infrastructure for a global media platform.,Company D
+40,oracle,support video streaming infrastructure for a global media platform.,Company E
+40,alibaba_cloud,support video streaming infrastructure for a global media platform.,Company F
+40,tencent_cloud,support video streaming infrastructure for a global media platform.,Company G
+40,huawei_cloud,support video streaming infrastructure for a global media platform.,Company I
+40,salesforce_cloud,support video streaming infrastructure for a global media platform.,Company J
+40,digital_ocean,support video streaming infrastructure for a global media platform.,Company K
+40,ovh_cloud,support video streaming infrastructure for a global media platform.,Company L
+40,deutsche_telekom_cloud,support video streaming infrastructure for a global media platform.,Company M
+41,aws,deploy a confidential computing environment for sensitive analytics workloads.,Company A
+41,azure,deploy a confidential computing environment for sensitive analytics workloads.,Company B
+41,google_cloud,deploy a confidential computing environment for sensitive analytics workloads.,Company C
+41,ibm_cloud,deploy a confidential computing environment for sensitive analytics workloads.,Company D
+41,oracle,deploy a confidential computing environment for sensitive analytics workloads.,Company E
+41,alibaba_cloud,deploy a confidential computing environment for sensitive analytics workloads.,Company F
+41,tencent_cloud,deploy a confidential computing environment for sensitive analytics workloads.,Company G
+41,huawei_cloud,deploy a confidential computing environment for sensitive analytics workloads.,Company I
+41,salesforce_cloud,deploy a confidential computing environment for sensitive analytics workloads.,Company J
+41,digital_ocean,deploy a confidential computing environment for sensitive analytics workloads.,Company K
+41,ovh_cloud,deploy a confidential computing environment for sensitive analytics workloads.,Company L
+41,deutsche_telekom_cloud,deploy a confidential computing environment for sensitive analytics workloads.,Company M
+42,aws,support continuous integration and deployment for hundreds of application teams.,Company A
+42,azure,support continuous integration and deployment for hundreds of application teams.,Company B
+42,google_cloud,support continuous integration and deployment for hundreds of application teams.,Company C
+42,ibm_cloud,support continuous integration and deployment for hundreds of application teams.,Company D
+42,oracle,support continuous integration and deployment for hundreds of application teams.,Company E
+42,alibaba_cloud,support continuous integration and deployment for hundreds of application teams.,Company F
+42,tencent_cloud,support continuous integration and deployment for hundreds of application teams.,Company G
+42,huawei_cloud,support continuous integration and deployment for hundreds of application teams.,Company I
+42,salesforce_cloud,support continuous integration and deployment for hundreds of application teams.,Company J
+42,digital_ocean,support continuous integration and deployment for hundreds of application teams.,Company K
+42,ovh_cloud,support continuous integration and deployment for hundreds of application teams.,Company L
+42,deutsche_telekom_cloud,support continuous integration and deployment for hundreds of application teams.,Company M
+43,aws,provide managed database migration for a mission critical transactional system.,Company A
+43,azure,provide managed database migration for a mission critical transactional system.,Company B
+43,google_cloud,provide managed database migration for a mission critical transactional system.,Company C
+43,ibm_cloud,provide managed database migration for a mission critical transactional system.,Company D
+43,oracle,provide managed database migration for a mission critical transactional system.,Company E
+43,alibaba_cloud,provide managed database migration for a mission critical transactional system.,Company F
+43,tencent_cloud,provide managed database migration for a mission critical transactional system.,Company G
+43,huawei_cloud,provide managed database migration for a mission critical transactional system.,Company I
+43,salesforce_cloud,provide managed database migration for a mission critical transactional system.,Company J
+43,digital_ocean,provide managed database migration for a mission critical transactional system.,Company K
+43,ovh_cloud,provide managed database migration for a mission critical transactional system.,Company L
+43,deutsche_telekom_cloud,provide managed database migration for a mission critical transactional system.,Company M
+44,aws,operate cloud infrastructure for a national critical infrastructure provider.,Company A
+44,azure,operate cloud infrastructure for a national critical infrastructure provider.,Company B
+44,google_cloud,operate cloud infrastructure for a national critical infrastructure provider.,Company C
+44,ibm_cloud,operate cloud infrastructure for a national critical infrastructure provider.,Company D
+44,oracle,operate cloud infrastructure for a national critical infrastructure provider.,Company E
+44,alibaba_cloud,operate cloud infrastructure for a national critical infrastructure provider.,Company F
+44,tencent_cloud,operate cloud infrastructure for a national critical infrastructure provider.,Company G
+44,huawei_cloud,operate cloud infrastructure for a national critical infrastructure provider.,Company I
+44,salesforce_cloud,operate cloud infrastructure for a national critical infrastructure provider.,Company J
+44,digital_ocean,operate cloud infrastructure for a national critical infrastructure provider.,Company K
+44,ovh_cloud,operate cloud infrastructure for a national critical infrastructure provider.,Company L
+44,deutsche_telekom_cloud,operate cloud infrastructure for a national critical infrastructure provider.,Company M
+45,aws,build a scalable API platform for a digital banking product.,Company A
+45,azure,build a scalable API platform for a digital banking product.,Company B
+45,google_cloud,build a scalable API platform for a digital banking product.,Company C
+45,ibm_cloud,build a scalable API platform for a digital banking product.,Company D
+45,oracle,build a scalable API platform for a digital banking product.,Company E
+45,alibaba_cloud,build a scalable API platform for a digital banking product.,Company F
+45,tencent_cloud,build a scalable API platform for a digital banking product.,Company G
+45,huawei_cloud,build a scalable API platform for a digital banking product.,Company I
+45,salesforce_cloud,build a scalable API platform for a digital banking product.,Company J
+45,digital_ocean,build a scalable API platform for a digital banking product.,Company K
+45,ovh_cloud,build a scalable API platform for a digital banking product.,Company L
+45,deutsche_telekom_cloud,build a scalable API platform for a digital banking product.,Company M
+46,aws,reduce cloud spend across a large and decentralized engineering organization.,Company A
+46,azure,reduce cloud spend across a large and decentralized engineering organization.,Company B
+46,google_cloud,reduce cloud spend across a large and decentralized engineering organization.,Company C
+46,ibm_cloud,reduce cloud spend across a large and decentralized engineering organization.,Company D
+46,oracle,reduce cloud spend across a large and decentralized engineering organization.,Company E
+46,alibaba_cloud,reduce cloud spend across a large and decentralized engineering organization.,Company F
+46,tencent_cloud,reduce cloud spend across a large and decentralized engineering organization.,Company G
+46,huawei_cloud,reduce cloud spend across a large and decentralized engineering organization.,Company I
+46,salesforce_cloud,reduce cloud spend across a large and decentralized engineering organization.,Company J
+46,digital_ocean,reduce cloud spend across a large and decentralized engineering organization.,Company K
+46,ovh_cloud,reduce cloud spend across a large and decentralized engineering organization.,Company L
+46,deutsche_telekom_cloud,reduce cloud spend across a large and decentralized engineering organization.,Company M
+47,aws,provide managed search and recommendation infrastructure for a retail platform.,Company A
+47,azure,provide managed search and recommendation infrastructure for a retail platform.,Company B
+47,google_cloud,provide managed search and recommendation infrastructure for a retail platform.,Company C
+47,ibm_cloud,provide managed search and recommendation infrastructure for a retail platform.,Company D
+47,oracle,provide managed search and recommendation infrastructure for a retail platform.,Company E
+47,alibaba_cloud,provide managed search and recommendation infrastructure for a retail platform.,Company F
+47,tencent_cloud,provide managed search and recommendation infrastructure for a retail platform.,Company G
+47,huawei_cloud,provide managed search and recommendation infrastructure for a retail platform.,Company I
+47,salesforce_cloud,provide managed search and recommendation infrastructure for a retail platform.,Company J
+47,digital_ocean,provide managed search and recommendation infrastructure for a retail platform.,Company K
+47,ovh_cloud,provide managed search and recommendation infrastructure for a retail platform.,Company L
+47,deutsche_telekom_cloud,provide managed search and recommendation infrastructure for a retail platform.,Company M
+48,aws,support disaster recovery across hybrid mainframe and distributed systems.,Company A
+48,azure,support disaster recovery across hybrid mainframe and distributed systems.,Company B
+48,google_cloud,support disaster recovery across hybrid mainframe and distributed systems.,Company C
+48,ibm_cloud,support disaster recovery across hybrid mainframe and distributed systems.,Company D
+48,oracle,support disaster recovery across hybrid mainframe and distributed systems.,Company E
+48,alibaba_cloud,support disaster recovery across hybrid mainframe and distributed systems.,Company F
+48,tencent_cloud,support disaster recovery across hybrid mainframe and distributed systems.,Company G
+48,huawei_cloud,support disaster recovery across hybrid mainframe and distributed systems.,Company I
+48,salesforce_cloud,support disaster recovery across hybrid mainframe and distributed systems.,Company J
+48,digital_ocean,support disaster recovery across hybrid mainframe and distributed systems.,Company K
+48,ovh_cloud,support disaster recovery across hybrid mainframe and distributed systems.,Company L
+48,deutsche_telekom_cloud,support disaster recovery across hybrid mainframe and distributed systems.,Company M
+49,aws,deploy cloud infrastructure in markets with strict local regulatory constraints.,Company A
+49,azure,deploy cloud infrastructure in markets with strict local regulatory constraints.,Company B
+49,google_cloud,deploy cloud infrastructure in markets with strict local regulatory constraints.,Company C
+49,ibm_cloud,deploy cloud infrastructure in markets with strict local regulatory constraints.,Company D
+49,oracle,deploy cloud infrastructure in markets with strict local regulatory constraints.,Company E
+49,alibaba_cloud,deploy cloud infrastructure in markets with strict local regulatory constraints.,Company F
+49,tencent_cloud,deploy cloud infrastructure in markets with strict local regulatory constraints.,Company G
+49,huawei_cloud,deploy cloud infrastructure in markets with strict local regulatory constraints.,Company I
+49,salesforce_cloud,deploy cloud infrastructure in markets with strict local regulatory constraints.,Company J
+49,digital_ocean,deploy cloud infrastructure in markets with strict local regulatory constraints.,Company K
+49,ovh_cloud,deploy cloud infrastructure in markets with strict local regulatory constraints.,Company L
+49,deutsche_telekom_cloud,deploy cloud infrastructure in markets with strict local regulatory constraints.,Company M
+50,aws,build a platform for rapid experimentation by internal software teams.,Company A
+50,azure,build a platform for rapid experimentation by internal software teams.,Company B
+50,google_cloud,build a platform for rapid experimentation by internal software teams.,Company C
+50,ibm_cloud,build a platform for rapid experimentation by internal software teams.,Company D
+50,oracle,build a platform for rapid experimentation by internal software teams.,Company E
+50,alibaba_cloud,build a platform for rapid experimentation by internal software teams.,Company F
+50,tencent_cloud,build a platform for rapid experimentation by internal software teams.,Company G
+50,huawei_cloud,build a platform for rapid experimentation by internal software teams.,Company I
+50,salesforce_cloud,build a platform for rapid experimentation by internal software teams.,Company J
+50,digital_ocean,build a platform for rapid experimentation by internal software teams.,Company K
+50,ovh_cloud,build a platform for rapid experimentation by internal software teams.,Company L
+50,deutsche_telekom_cloud,build a platform for rapid experimentation by internal software teams.,Company M
+51,aws,support an enterprise wide migration from legacy virtualization to cloud infrastructure.,Company A
+51,azure,support an enterprise wide migration from legacy virtualization to cloud infrastructure.,Company B
+51,google_cloud,support an enterprise wide migration from legacy virtualization to cloud infrastructure.,Company C
+51,ibm_cloud,support an enterprise wide migration from legacy virtualization to cloud infrastructure.,Company D
+51,oracle,support an enterprise wide migration from legacy virtualization to cloud infrastructure.,Company E
+51,alibaba_cloud,support an enterprise wide migration from legacy virtualization to cloud infrastructure.,Company F
+51,tencent_cloud,support an enterprise wide migration from legacy virtualization to cloud infrastructure.,Company G
+51,huawei_cloud,support an enterprise wide migration from legacy virtualization to cloud infrastructure.,Company I
+51,salesforce_cloud,support an enterprise wide migration from legacy virtualization to cloud infrastructure.,Company J
+51,digital_ocean,support an enterprise wide migration from legacy virtualization to cloud infrastructure.,Company K
+51,ovh_cloud,support an enterprise wide migration from legacy virtualization to cloud infrastructure.,Company L
+51,deutsche_telekom_cloud,support an enterprise wide migration from legacy virtualization to cloud infrastructure.,Company M

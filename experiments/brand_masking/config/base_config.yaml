@@ -1,0 +1,26 @@
+runs: 10
+max_workers: 60
+min_pairs_for_analysis: 5
+prompts_path: experiments/brand_masking/config/prompts.yaml
+default_masked_name: Company X
+
+llm_models:
+  - model_id: GPT_5_MINI
+    model_type: openai
+    reasoning_model: false
+    temperature: 0.0
+
+  - model_id: GPT_5
+    model_type: openai
+    reasoning_model: false
+    temperature: 0.0
+
+  - model_id: "ClaudeSonnet45"
+    model_type: "bedrock"
+    reasoning_model: false
+    temperature: 0.0
+
+  - model_id: "ClaudeHaiku45"
+    model_type: "bedrock"
+    reasoning_model: false
+    temperature: 0.0
